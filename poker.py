@@ -57,6 +57,7 @@ class Situation:
         self.string += "BTN_" if self.game.button is self.hero else "UTG_"
         self.string += self.preflop_topic
 
+    # TODO merge flop turn river into one function
     def set_flop_strenght(self):
         eva = deuces.Evaluator()
         hero_strenght = eva.evaluate(self.hero.cards, self.game.board[:3])
