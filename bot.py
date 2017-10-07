@@ -1,4 +1,4 @@
-from situation2 import *
+from poker import *
 from random import randint
 class Bot:
 
