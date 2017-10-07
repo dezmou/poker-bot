@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Poker Bot</title>
+    <script src="jquery-3.2.1.js"></script>
+    <style>
+        body{
+            background-color: #414056;
+            color : #FFFFFF;
+            font-size : 20px;
+        }
+        div{
+            position : absolute;
+            min-width : 100px;
+        }
+        .depend{
+            position : relative;
+        }
+        #console{
+            margin-left : 700px;
+        }
+        #op{
+            margin-left : 500px;
+            margin-top : 20px;
+        }
+        #hero{
+            margin-left : 500px;
+            margin-top : 530px;
+        }
+        #hero_posed{
+            margin-left: 300px;
+            margin-top : 457px;
+            width : 100px;
+        }
+        #op_posed{
+            margin-left: 300px;
+            margin-top: 155px;
+            width : 100px;
+        }
+        #board{
+            width : 500px;
+            margin-top : 200px;
+            margin-left : 130px;
+        }
+        #hero_cards{
+            width : 200px;
+            margin-top : 500px;
+            margin-left : 250px;
+        }
+        #op_cards{
+            width : 200px;
+            margin-top : 5px;
+            margin-left : 250px;
+        }
+        .card{
+            background-color: #ffffff;
+        }
+        #pot{
+            margin-left : 300px;
+            margin-top : 345px;
+            width : 500px;
+        }
+        #inputs_{
+            width : 500px;
+            margin-top : 380px;
+            margin-left : 140px;
+        }
+        #inputs_ button{
+            height : 40px;
+            width : 110px;
+        }
+        #inputs_ input{
+            height : 33px;
+            width: 60px;
+        }
+        #sum{
+            margin-top : 500px;
+            display : none;
+        }
+        #sum button{
+            height : 50px;
+        }
+        #whowon{
+            margin-top : 400px;
+            margin-left : 40px;
+            display : none;
+            font-size : 40px;
+        }
+        .red{
+            color : red;
+        }
+        .green{
+            color: green;
+        }
+        #amount_bet{
+            width : 500px;
+            margin-top : 422px;
+            margin-left : 220px;
+        }
+        #amount_bet button{
+            width: 80px;
+            height : 25px;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        const URL_PLAY          = "play.php"
+        const ACTION_FOLD     = 0;
+        const ACTION_CALL     = 1;
+        const ACTION_RAISE    = 2;
+        const ACTION_SB       = 3;
+        const ACTION_BB       = 4;
+
+        const RENDU_PREFLOP   = 0;
+        const RENDU_FLOP      = 1;
+        const RENDU_TURN      = 2;
+        const RENDU_RIVER     = 3;
+        const RENDU_END       = 4;
+
+        const RENDU_STR = [
+            "preflop",
+            "flop",
+            "turn",
+            "river",
+            "end"
+        ];
+        const ACTION_STR = [
+            "fold",
+            "call",
+            "raise",
+            "Small Blind",
+            "Big Blind"
+        ];
+
+        var hand ;
+        var rendu           = RENDU_PREFLOP ;
+        var actions_rendu   = 0;
+        var summary         = "";
+        var speed           = 400;
+        var speed_cards     = 600;
+        var amount          = 0;
+
+
+        play();
+
+        function change_amount(){
+            amount = $("#raise_amount").val();
+        }
+
+        function input_play(ac){
+            $("#inputs_").css("display", "none");
+            $("#pro1").css("display", "none");
+            $("#pro2").css("display", "none");
+            $("#pro3").css("display", "none");
+            var chien = "0";
+            if (ac == ACTION_RAISE){
+                console.log(amount);
+                chien = amount;
+            }
+            play(ac+"_"+chien);
+        }
+
+        function test(){
+            play("1_0");
+        }
+        function pre_maj_gui(){
+            $("#whowon").css("display", "none");
+            for (var k in hand.hero_cards) {
+                $("#hero_" + k).attr("src", "png/" + hand.hero_cards[k]);
+            }
+            maj_gui();
+        }
+        function propose(nbr){
+            if (hand.rendu === RENDU_PREFLOP && hand.to_call === hand.bb){
+                if (nbr == 0){
+                    $("#raise_amount").val(hand.bb * 4);
+                }else if (nbr == 1){
+                    $("#raise_amount").val(hand.bb * 6);
+                }else if (nbr == 2){
+                    $("#raise_amount").val(hand.bb * 10);
+                }else if (nbr == 3){
+                    $("#raise_amount").val(hand.hero_chips + hand.hero_posed);
+                }
+            }else if (hand.rendu > RENDU_PREFLOP && hand.to_call === 0) {
+                if (nbr == 0){
+                    $("#raise_amount").val(Math.round(hand.pot / 3));
+                }else if (nbr == 1){
+                    $("#raise_amount").val(Math.round(hand.pot / 2));
+                }else if (nbr == 2){
+                    $("#raise_amount").val(hand.pot);
+                }else if (nbr == 3){
+                    $("#raise_amount").val(hand.hero_chips + hand.hero_posed);
+                }
+            }
+            change_amount()
+        }
+
+        function changeRound(rendu_) {
+            $("#hero_posed").html("");
+            $("#op_posed").html("");
+            console.log(hand.board.length);
+            for (var k in hand.board) {
+                $("#board_" + k).attr("src", "png/" + hand.board[k]);
+            }
+            summary += "<strong>" + "Round : " + RENDU_STR[rendu_] + "</strong><br/>";
+            $("#console").html(summary);
+        }
+
+        function maj_gui(){
+
+             if (actions_rendu < hand.actions.length){
+                var ac = hand.actions[actions_rendu];
+                if (ac.chips == 0){
+                    ac.chips = "";
+                }
+                var player = ac.player;
+                console.log(" rendu " + rendu);
+                if (ac.rendu !== rendu ){
+                    changeRound(ac.rendu);
+                    setTimeout(maj_gui, speed_cards);
+                    rendu = ac.rendu;
+                    return;
+                }
+                $("#"+player+"_posed").html(ac.string + " " + ac.chips);
+                summary += ac.player.replace("op", "Bot") + " " + ac.string + " " +ac.chips+" <br/>";
+                $("#console").html(summary);
+                actions_rendu += 1;
+                setTimeout(maj_gui, speed);
+                return;
+            }
+//            $("#hero_action").fadeIn();
+//            $("#op_action").fadeIn();
+            if (rendu != hand.rendu){
+                 changeRound(hand.rendu);
+                rendu = hand.rendu;
+            }
+
+            $("#hero_chips").html(hand.hero_chips);
+            $("#op_chips").html(hand.op_chips);
+            $("#pot").html("Pot : "+hand.pot);
+            amount = $("#raise_amount").val(hand.min_raise);
+
+            change_amount();
+            $("#call").html("Call "+hand.to_call);
+            if (hand.to_call == 0){
+                $("#call").html("Check");
+            }
+            console.log("fejfropiefjrpoefjporef");
+            if (hand.rendu === RENDU_PREFLOP && hand.to_call === hand.bb){
+                $("#pro1").html("4 BB");
+                $("#pro2").html("6 BB");
+                $("#pro3").html("10 BB");
+                            $("#pro1").css("display", "inline");
+            $("#pro2").css("display", "inline");
+            $("#pro3").css("display", "inline");
+            $("#pro4").css("display", "inline");
+            }else if (hand.rendu > RENDU_PREFLOP && hand.to_call === 0) {
+                $("#pro1").html("1/3 POT");
+                $("#pro2").html("1/2 POT");
+                $("#pro3").html("POT");
+                            $("#pro1").css("display", "inline");
+            $("#pro2").css("display", "inline");
+            $("#pro3").css("display", "inline");
+            }else{
+                $("#pro1").css("display", "none");
+                $("#pro2").css("display", "none");
+                $("#pro3").css("display", "none");
+            }
+            $("#inputs_").css("display", "block");
+
+            if (hand.ended){
+                $("#inputs_").css("display", "none");
+                $("#pro1").css("display", "none");
+                $("#pro2").css("display", "none");
+                $("#pro3").css("display", "none");
+                $("#sum").css("display", "block");
+                for (var k in hand.op_cards){
+                    $("#op_"+k).attr("src", "png/"+hand.op_cards[k]);
+                }
+                for (var k in hand.board){
+                    console.log("board");
+                    $("#board_"+k).attr("src", "png/"+hand.board[k]);
+                }
+                if (hand.winner === "op"){
+                    $("#whowon").html("<span class='red'>Bot Won " + hand.pot+"</span>");
+                }else{
+                    $("#whowon").html("<span class='green'>You Won " + hand.pot+"</span>");
+                }
+                $("#whowon").css("display", "block");
+            }
+            console.log(rendu);
+        }
+
+        function next_hand(){
+            rendu           = RENDU_PREFLOP ;
+            actions_rendu   = 0;
+            summary         = "";
+            amount          = 0;
+            for (var k in hand.op_cards){
+                $("#op_"+k).attr("src", "png/back.png");
+            }
+            for (var k in hand.board){
+                $("#board_"+k).attr("src", "png/back.png");
+            }
+            play();
+        }
+
+        function play(action){
+            $("#sum").css("display", "none");
+            if (typeof action === "undefined"){
+                url = URL_PLAY;
+            }else{
+                url = URL_PLAY + "?action="+action;
+            }
+            $.ajax({
+                url: url,
+                type: 'GET',
+                success: function (res) {
+                    hand = JSON.parse(res);
+                    pre_maj_gui();
+                },
+                error: function (resultat, statut, erreur) {
+                    console.log(erreur);
+                }
+            });
+        }
+    </script>
+    <div id="content">
+        <div id="op">
+            <div id="op_chips" class="depend">
+                0$
+            </div>
+            Bot
+        </div>
+        <div id="hero">
+            Hero
+            <div id="hero_chips" class="depent">
+                0$
+            </div>
+        </div>
+        <div id="hero_posed">
+            chien
+        </div>
+        <div id="op_posed">
+            chien
+        </div>
+        <div id="board">
+            <img src="png/back.png" id="board_0" width="80px" class="card"/>
+            <img src="png/back.png" id="board_1" width="80px" class="card"/>
+            <img src="png/back.png" id="board_2" width="80px" class="card"/>
+            <img src="png/back.png" id="board_3" width="80px" class="card"/>
+            <img src="png/back.png" id="board_4" width="80px" class="card"/>
+        </div>
+        <div id="hero_cards">
+            <img src="png/back.png" id="hero_0" width="80px" class="card"/>
+            <img src="png/back.png" id="hero_1" width="80px" class="card"/>
+        </div>
+        <div id="op_cards">
+            <img src="png/back.png" id="op_0" width="80px" class="card"/>
+            <img src="png/back.png" id="op_1" width="80px" class="card"/>
+        </div>
+        <div id="pot">
+        </div>
+        <div id="inputs_">
+            <button id="fold" onclick="input_play(0)">Fold</button>
+            <button id="call" onclick="input_play(1)">Call</button>
+            <button id="raise" onclick="input_play(2)">Raise</button>
+            <input type="text" oninput="change_amount()" id="raise_amount">
+        </div>
+        <div id="amount_bet">
+            <button id="pro1" onclick="propose(0)">4 BB</button>
+            <button id="pro2" onclick="propose(1)">6 BB</button>
+            <button id="pro3" onclick="propose(2)">10 BB</button>
+        </div>
+        <div id="sum">
+            <button id="next_hand" onclick="next_hand()">Next Hand</button>
+        </div>
+    </div>
+    <div id="console">
+    </div>
+    <div id="whowon">
+    </div>
+</body>
+</html>

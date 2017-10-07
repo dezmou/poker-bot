@@ -1,0 +1,5028 @@
+2_uno-victime_LP  THEN check
+1_uno-raiser_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+3_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+2_uno-raiser_MP  THEN check
+3_unopened_LP  THEN check
+4_vs-bet_LP  THEN fold
+6_uno-victime_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.671875
+7_vs-bet_HP  THEN fold
+2_uno-victime_MP  THEN check
+2_vs-bet_HP  THEN fold
+4_uno-victime_MP  THEN check
+2_uno-victime_MP  THEN check
+2_uno-raiser_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.75
+4_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN fold
+4_uno-victime_MP  THEN check
+0_vs-bet_HP  THEN fold
+8_uno-raiser_LP  THEN raise 0.671875
+5_uno-raiser_LP  THEN raise 0.671875
+10_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN raise 1.35
+9_vs-bet_HP  THEN call
+9_uno-victime_MP  THEN check
+2_uno-raiser_LP  THEN raise 0.671875
+7_uno-victime_MP  THEN check
+5_uno-raiser_LP  THEN check
+2_uno-raiser_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.671875
+7_uno-victime_MP  THEN check
+7_vs-bet_HP  THEN call
+1_uno-victime_MP  THEN check
+1_uno-raiser_LP  THEN check
+5_vs-bet_HP  THEN fold
+3_uno-raiser_LP  THEN check
+4_uno-raiser_LP  THEN raise 0.75
+9_uno-raiser_LP  THEN raise 0.671875
+8_vs-bet_HP  THEN call
+3_uno-victime_MP  THEN check
+1_uno-raiser_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.671875
+6_uno-victime_MP  THEN check
+3_uno-victime_MP  THEN check
+0_uno-raiser_HP  THEN raise 0.5
+6_uno-victime_MP  THEN check
+7_vs-bet_HP  THEN fold
+6_uno-victime_MP  THEN check
+6_uno-raiser_LP  THEN check
+5_uno-victime_LP  THEN check
+5_uno-victime_MP  THEN check
+6_uno-victime_MP  THEN check
+7_vs-bet_HP  THEN call
+7_uno-victime_MP  THEN check
+7_vs-bet_HP  THEN fold
+3_uno-raiser_LP  THEN raise 0.671875
+0_vs-bet_HP  THEN fold
+6_uno-victime_MP  THEN raise 0.5
+4_uno-raiser_LP  THEN raise 0.671875
+4_uno-victime_MP  THEN check
+4_uno-victime_MP  THEN check
+3_uno-raiser_LP  THEN raise 0.671875
+8_uno-raiser_HP  THEN raise 0.5
+5_vs-bet_MP  THEN fold
+8_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+3_uno-raiser_LP  THEN check
+4_uno-raiser_LP  THEN check
+7_unopened_LP  THEN check
+6_vs-bet_LP  THEN fold
+0_uno-victime_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+3_uno-victime_LP  THEN check
+3_vs-bet_LP  THEN fold
+5_uno-raiser_LP  THEN raise 0.671875
+5_uno-victime_LP  THEN check
+4_uno-raiser_LP  THEN check
+8_uno-raiser_MP  THEN raise 0.75
+1_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+5_uno-raiser_LP  THEN raise 0.671875
+2_uno-victime_LP  THEN check
+5_unopened_LP  THEN check
+5_vs-bet_LP  THEN raise 0.833333333333
+9_vs-bet_HP  THEN call
+5_unopened_LP  THEN check
+9_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+5_uno-raiser_MP  THEN check
+4_uno-raiser_LP  THEN raise 0.671875
+9_unopened_LP  THEN check
+9_vs-bet_LP  THEN raise 1.10416666667
+8_vs-bet_HP  THEN fold
+6_uno-raiser_LP  THEN raise 0.75
+7_uno-raiser_LP  THEN raise 0.75
+7_uno-raiser_MP  THEN check
+7_uno-raiser_LP  THEN check
+9_unopened_LP  THEN check
+1_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+6_uno-victime_LP  THEN check
+7_uno-raiser_LP  THEN check
+7_unopened_LP  THEN check
+10_unopened_LP  THEN check
+10_vs-bet_LP  THEN raise 1.0
+10_vs-bet_HP  THEN call
+9_uno-raiser_LP  THEN raise 0.5
+9_uno-victime_MP  THEN check
+10_vs-bet_HP  THEN raise 1.2
+4_uno-raiser_LP  THEN check
+3_uno-raiser_LP  THEN raise 0.671875
+6_uno-victime_MP  THEN check
+3_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+3_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN call
+5_uno-victime_MP  THEN check
+5_vs-bet_HP  THEN fold
+4_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN fold
+7_uno-raiser_LP  THEN raise 0.6625
+5_uno-victime_MP  THEN check
+5_vs-bet_HP  THEN fold
+8_uno-victime_MP  THEN check
+8_vs-bet_HP  THEN call
+7_uno-raiser_LP  THEN raise 0.5
+7_uno-victime_MP  THEN check
+7_vs-bet_HP  THEN fold
+0_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN fold
+9_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN call
+2_uno-raiser_MP  THEN raise 0.666666666667
+1_vs-bet_HP  THEN fold
+9_uno-raiser_HP  THEN raise 0.5
+9_vs-bet_HP  THEN call
+9_uno-raiser_LP  THEN raise 0.75
+6_vs-bet_MP  THEN raise 7.53
+7_uno-raiser_LP  THEN raise 0.671875
+4_uno-raiser_MP  THEN raise 0.666666666667
+8_uno-raiser_LP  THEN check
+1_unopened_LP  THEN check
+1_vs-bet_HP  THEN fold
+2_uno-raiser_LP  THEN check
+1_unopened_LP  THEN check
+4_uno-raiser_LP  THEN check
+6_vs-bet_HP  THEN fold
+6_unopened_LP  THEN check
+6_vs-bet_LP  THEN fold
+6_uno-raiser_MP  THEN check
+10_uno-victime_HP  THEN raise 0.277777777778
+2_uno-raiser_MP  THEN check
+4_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN fold
+3_uno-raiser_MP  THEN check
+7_uno-raiser_MP  THEN raise 0.25
+4_uno-raiser_HP  THEN check
+7_uno-victime_MP  THEN check
+7_uno-raiser_HP  THEN check
+6_vs-bet_HP  THEN fold
+7_uno-raiser_MP  THEN check
+0_uno-victime_MP  THEN check
+0_uno-victime_MP  THEN check
+0_vs-bet_HP  THEN call
+0_uno-raiser_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.75
+7_unopened_LP  THEN check
+9_unopened_LP  THEN check
+6_uno-raiser_LP  THEN check
+4_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+6_unopened_LP  THEN check
+1_uno-raiser_LP  THEN check
+1_unopened_LP  THEN check
+6_uno-raiser_LP  THEN check
+3_unopened_LP  THEN raise 0.75
+9_uno-raiser_LP  THEN raise 0.666666666667
+4_uno-raiser_LP  THEN check
+8_unopened_LP  THEN raise 0.5
+5_unopened_LP  THEN check
+5_vs-bet_LP  THEN call
+2_uno-raiser_LP  THEN check
+4_unopened_LP  THEN check
+4_vs-bet_LP  THEN call
+8_uno-raiser_LP  THEN raise 0.75
+3_unopened_LP  THEN check
+4_vs-bet_LP  THEN fold
+6_uno-raiser_LP  THEN check
+1_uno-raiser_LP  THEN raise 0.75
+3_uno-raiser_LP  THEN check
+1_uno-raiser_LP  THEN check
+4_unopened_LP  THEN check
+5_uno-raiser_LP  THEN raise 0.5
+4_unopened_LP  THEN check
+0_uno-raiser_LP  THEN raise 0.6625
+0_unopened_LP  THEN check
+3_uno-raiser_LP  THEN raise 0.75
+9_uno-raiser_HP  THEN raise 0.5
+9_vs-bet_HP  THEN raise 0.505642201835
+4_vs-bet_HP  THEN fold
+5_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN fold
+6_uno-victime_LP  THEN check
+3_uno-raiser_LP  THEN raise 0.671875
+4_vs-bet_HP  THEN fold
+7_uno-victime_LP  THEN check
+0_uno-victime_LP  THEN check
+1_uno-raiser_LP  THEN raise 0.671875
+5_uno-victime_HP  THEN check
+5_vs-bet_HP  THEN fold
+9_uno-raiser_LP  THEN raise 0.671875
+9_unopened_LP  THEN check
+8_vs-bet_HP  THEN call
+4_uno-raiser_LP  THEN check
+4_vs-bet_HP  THEN call
+0_uno-victime_LP  THEN check
+0_vs-bet_HP  THEN fold
+3_uno-victime_HP  THEN raise 0.670454545455
+6_uno-victime_LP  THEN check
+7_vs-bet_HP  THEN fold
+7_vs-bet_HP  THEN call
+6_uno-raiser_LP  THEN check
+4_vs-bet_HP  THEN fold
+10_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+6_uno-raiser_LP  THEN check
+5_uno-victime_MP  THEN check
+5_vs-bet_HP  THEN raise 0.94
+7_uno-victime_HP  THEN check
+2_uno-victime_MP  THEN raise 0.666666666667
+8_vs-bet_HP  THEN call
+1_uno-victime_MP  THEN check
+0_vs-bet_HP  THEN fold
+6_uno-raiser_LP  THEN check
+6_uno-raiser_HP  THEN raise 0.5
+8_uno-raiser_HP  THEN raise 0.666666666667
+8_vs-bet_HP  THEN call
+4_uno-raiser_MP  THEN raise 0.5
+3_uno-victime_LP  THEN check
+4_vs-bet_HP  THEN raise 1.15625
+1_uno-victime_HP  THEN check
+5_uno-raiser_HP  THEN raise 0.5
+6_uno-raiser_LP  THEN raise 0.671875
+1_vs-bet_HP  THEN call
+7_uno-raiser_LP  THEN raise 0.671875
+0_uno-raiser_HP  THEN raise 0.666666666667
+5_uno-victime_LP  THEN check
+3_uno-raiser_LP  THEN raise 0.5
+3_uno-victime_MP  THEN check
+2_vs-bet_HP  THEN fold
+6_uno-raiser_LP  THEN raise 0.5
+7_uno-victime_LP  THEN check
+5_uno-raiser_LP  THEN check
+1_uno-victime_MP  THEN check
+9_uno-raiser_LP  THEN raise 0.5
+3_unopened_LP  THEN check
+7_uno-raiser_LP  THEN check
+0_uno-raiser_LP  THEN check
+3_uno-victime_LP  THEN check
+4_uno-raiser_LP  THEN check
+4_uno-victime_LP  THEN check
+10_uno-raiser_LP  THEN raise 0.75
+4_uno-raiser_LP  THEN raise 0.6625
+5_vs-bet_HP  THEN fold
+0_uno-raiser_LP  THEN raise 0.5
+4_uno-raiser_LP  THEN raise 0.6625
+3_uno-raiser_HP  THEN raise 0.5
+3_vs-bet_HP  THEN fold
+6_uno-victime_LP  THEN check
+5_vs-bet_LP  THEN fold
+0_uno-victime_LP  THEN check
+2_uno-raiser_LP  THEN check
+6_uno-raiser_LP  THEN raise 0.6625
+6_vs-bet_MP  THEN fold
+3_uno-raiser_MP  THEN raise 0.666666666667
+1_uno-victime_LP  THEN check
+0_vs-bet_MP  THEN call
+9_uno-raiser_LP  THEN raise 0.6625
+9_uno-raiser_LP  THEN raise 0.6625
+7_uno-victime_LP  THEN check
+8_vs-bet_LP  THEN raise 1.22857142857
+8_vs-bet_HP  THEN fold
+2_uno-raiser_LP  THEN raise 0.6625
+9_uno-raiser_LP  THEN raise 0.6625
+9_vs-bet_MP  THEN raise 1.16600790514
+4_uno-raiser_LP  THEN raise 0.75
+7_uno-raiser_LP  THEN check
+1_uno-raiser_MP  THEN raise 0.5
+7_uno-raiser_LP  THEN raise 0.6625
+8_uno-victime_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.6625
+9_vs-bet_MP  THEN call
+7_uno-raiser_LP  THEN check
+0_uno-victime_LP  THEN check
+0_vs-bet_LP  THEN call
+8_uno-raiser_LP  THEN raise 0.671875
+6_vs-bet_HP  THEN raise 0.879120879121
+5_vs-bet_HP  THEN call
+8_uno-raiser_LP  THEN raise 0.671875
+8_uno-raiser_LP  THEN raise 0.671875
+9_uno-raiser_LP  THEN raise 0.671875
+7_uno-raiser_HP  THEN check
+6_vs-bet_LP  THEN fold
+8_uno-victime_LP  THEN check
+8_vs-bet_MP  THEN call
+4_uno-raiser_LP  THEN check
+6_uno-raiser_LP  THEN check
+8_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+5_uno-victime_LP  THEN check
+7_uno-victime_LP  THEN check
+7_vs-bet_HP  THEN call
+0_uno-victime_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.6625
+7_uno-victime_HP  THEN check
+0_uno-victime_LP  THEN check
+5_uno-raiser_LP  THEN check
+6_uno-raiser_HP  THEN check
+4_uno-raiser_MP  THEN raise 0.5
+3_vs-bet_HP  THEN fold
+5_vs-bet_HP  THEN fold
+5_uno-raiser_HP  THEN raise 0.666666666667
+7_uno-raiser_HP  THEN check
+5_vs-bet_MP  THEN call
+6_uno-raiser_LP  THEN check
+4_uno-raiser_MP  THEN raise 0.5
+6_unopened_LP  THEN check
+5_uno-victime_MP  THEN check
+4_uno-raiser_HP  THEN raise 0.5
+4_unopened_LP  THEN check
+4_unopened_LP  THEN check
+8_uno-victime_LP  THEN check
+9_vs-bet_HP  THEN call
+3_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+2_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN call
+5_vs-bet_HP  THEN fold
+2_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+0_uno-victime_MP  THEN check
+0_vs-bet_HP  THEN fold
+4_uno-raiser_MP  THEN raise 0.666666666667
+6_uno-victime_MP  THEN check
+4_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+5_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN call
+9_vs-bet_HP  THEN call
+1_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN call
+7_uno-victime_MP  THEN check
+7_vs-bet_HP  THEN fold
+8_uno-victime_MP  THEN check
+1_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+1_uno-raiser_LP  THEN raise 0.375
+8_uno-victime_LP  THEN check
+8_vs-bet_HP  THEN call
+3_uno-raiser_LP  THEN raise 0.671875
+4_uno-raiser_LP  THEN check
+1_uno-victime_MP  THEN check
+6_uno-raiser_MP  THEN check
+8_uno-raiser_LP  THEN raise 0.671875
+7_uno-victime_MP  THEN check
+7_vs-bet_HP  THEN call
+6_uno-raiser_LP  THEN raise 0.25
+2_vs-bet_HP  THEN fold
+7_unopened_LP  THEN check
+3_uno-raiser_LP  THEN check
+8_uno-victime_LP  THEN check
+8_vs-bet_HP  THEN call
+7_vs-bet_HP  THEN call
+0_uno-victime_LP  THEN check
+0_vs-bet_HP  THEN fold
+0_unopened_LP  THEN check
+4_uno-raiser_LP  THEN check
+5_uno-victime_LP  THEN check
+6_vs-bet_HP  THEN fold
+3_uno-victime_LP  THEN check
+3_vs-bet_LP  THEN fold
+3_uno-raiser_LP  THEN check
+5_uno-raiser_MP  THEN check
+5_vs-bet_HP  THEN fold
+0_uno-victime_LP  THEN check
+5_vs-bet_HP  THEN call
+10_uno-raiser_LP  THEN raise 0.75
+0_uno-victime_LP  THEN check
+2_uno-victime_LP  THEN check
+10_uno-victime_LP  THEN check
+9_vs-bet_MP  THEN raise 1.25
+10_uno-raiser_LP  THEN raise 0.75
+3_uno-raiser_LP  THEN check
+5_vs-bet_MP  THEN call
+4_uno-victime_LP  THEN check
+3_uno-raiser_LP  THEN check
+4_uno-victime_LP  THEN check
+1_vs-bet_HP  THEN fold
+5_uno-raiser_MP  THEN raise 0.666666666667
+2_uno-raiser_LP  THEN check
+9_uno-victime_LP  THEN raise 0.25
+7_uno-victime_LP  THEN check
+7_vs-bet_MP  THEN call
+2_uno-raiser_MP  THEN raise 0.75
+0_uno-raiser_MP  THEN check
+4_uno-victime_LP  THEN check
+9_uno-victime_LP  THEN raise 0.75
+5_uno-raiser_LP  THEN check
+5_uno-raiser_LP  THEN raise 0.671875
+5_vs-bet_HP  THEN call
+6_uno-victime_HP  THEN check
+5_uno-victime_LP  THEN check
+6_vs-bet_MP  THEN fold
+6_uno-victime_LP  THEN check
+6_uno-victime_HP  THEN check
+8_uno-raiser_LP  THEN raise 0.671875
+9_uno-victime_LP  THEN check
+0_uno-raiser_LP  THEN raise 0.671875
+9_uno-raiser_HP  THEN raise 0.666666666667
+10_uno-raiser_MP  THEN raise 0.666666666667
+4_uno-raiser_MP  THEN check
+3_uno-victime_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.75
+7_uno-raiser_HP  THEN raise 0.666666666667
+2_uno-raiser_LP  THEN raise 0.671875
+4_uno-victime_LP  THEN check
+4_uno-victime_LP  THEN check
+7_uno-raiser_LP  THEN check
+3_uno-victime_HP  THEN check
+3_uno-raiser_LP  THEN raise 0.75
+7_uno-raiser_LP  THEN raise 0.671875
+6_uno-raiser_LP  THEN raise 0.671875
+3_uno-raiser_LP  THEN raise 0.75
+3_uno-raiser_HP  THEN raise 0.666666666667
+4_uno-raiser_LP  THEN check
+1_uno-raiser_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+0_unopened_LP  THEN raise 0.5
+4_unopened_LP  THEN check
+4_vs-bet_LP  THEN call
+2_unopened_LP  THEN check
+7_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+1_uno-raiser_LP  THEN check
+3_uno-victime_LP  THEN check
+6_uno-raiser_MP  THEN check
+3_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+4_unopened_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+3_uno-raiser_LP  THEN check
+6_unopened_LP  THEN check
+6_vs-bet_LP  THEN call
+8_uno-raiser_LP  THEN raise 0.25
+4_unopened_LP  THEN check
+2_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+3_uno-victime_LP  THEN check
+4_uno-raiser_LP  THEN check
+6_vs-bet_HP  THEN call
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN raise 0.666666666667
+4_uno-raiser_LP  THEN check
+3_uno-raiser_MP  THEN check
+1_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+10_uno-raiser_LP  THEN raise 0.666666666667
+4_uno-raiser_LP  THEN raise 0.75
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN fold
+2_uno-raiser_LP  THEN check
+4_unopened_LP  THEN check
+0_uno-raiser_LP  THEN check
+0_uno-victime_LP  THEN check
+7_unopened_LP  THEN raise 0.6625
+7_uno-raiser_LP  THEN raise 0.6625
+8_vs-bet_HP  THEN call
+6_unopened_LP  THEN raise 0.5
+9_vs-bet_LP  THEN raise 0.75
+9_unopened_LP  THEN raise 0.5
+3_uno-raiser_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.6625
+3_uno-raiser_LP  THEN check
+4_uno-raiser_LP  THEN raise 0.666666666667
+3_uno-raiser_LP  THEN raise 0.6625
+5_uno-raiser_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.25
+7_unopened_LP  THEN check
+6_vs-bet_LP  THEN call
+5_uno-raiser_LP  THEN check
+9_uno-victime_LP  THEN raise 0.5
+9_vs-bet_MP  THEN raise 1.72727272727
+7_unopened_LP  THEN raise 0.6625
+3_unopened_LP  THEN raise 0.5
+9_uno-raiser_LP  THEN check
+6_unopened_LP  THEN check
+5_vs-bet_LP  THEN fold
+8_uno-raiser_LP  THEN raise 0.375
+8_uno-victime_LP  THEN check
+8_vs-bet_LP  THEN call
+5_uno-raiser_LP  THEN raise 14.7083333333
+3_uno-raiser_LP  THEN check
+4_unopened_LP  THEN check
+2_uno-raiser_LP  THEN raise 0.6625
+4_uno-raiser_LP  THEN check
+8_uno-raiser_LP  THEN check
+8_vs-bet_MP  THEN fold
+5_uno-raiser_LP  THEN raise 0.75
+3_vs-bet_LP  THEN call
+4_uno-raiser_LP  THEN raise 0.666666666667
+4_vs-bet_HP  THEN call
+9_uno-raiser_LP  THEN raise 0.75
+5_uno-raiser_MP  THEN check
+9_uno-raiser_LP  THEN raise 0.75
+0_uno-raiser_LP  THEN raise 0.5
+10_uno-raiser_HP  THEN check
+1_uno-raiser_LP  THEN raise 0.6625
+9_uno-victime_LP  THEN raise 0.75
+9_uno-raiser_LP  THEN raise 0.75
+3_uno-raiser_MP  THEN check
+0_uno-raiser_LP  THEN check
+5_uno-raiser_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.6625
+10_vs-bet_MP  THEN raise 1.10878661088
+7_uno-victime_MP  THEN check
+7_vs-bet_HP  THEN call
+5_uno-raiser_LP  THEN check
+8_unopened_LP  THEN raise 0.5
+3_uno-raiser_LP  THEN raise 0.671875
+10_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN raise 1.33333333333
+2_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN fold
+3_uno-victime_MP  THEN check
+4_uno-raiser_LP  THEN check
+5_uno-victime_MP  THEN check
+5_vs-bet_HP  THEN fold
+4_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+5_uno-raiser_LP  THEN raise 0.671875
+3_uno-victime_MP  THEN check
+6_unopened_LP  THEN check
+6_vs-bet_LP  THEN fold
+9_uno-raiser_LP  THEN raise 0.75
+3_uno-victime_LP  THEN check
+3_vs-bet_HP  THEN fold
+9_uno-raiser_LP  THEN raise 0.5
+9_vs-bet_HP  THEN call
+2_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+6_unopened_LP  THEN check
+5_unopened_LP  THEN check
+7_uno-victime_MP  THEN check
+7_vs-bet_HP  THEN call
+8_uno-victime_HP  THEN check
+8_vs-bet_HP  THEN fold
+9_uno-raiser_MP  THEN check
+8_vs-bet_HP  THEN call
+7_uno-raiser_LP  THEN check
+0_uno-victime_MP  THEN check
+0_vs-bet_HP  THEN fold
+9_uno-raiser_LP  THEN raise 0.671875
+8_uno-victime_MP  THEN check
+8_vs-bet_HP  THEN call
+3_uno-victime_MP  THEN check
+2_vs-bet_HP  THEN fold
+9_uno-raiser_MP  THEN check
+7_uno-raiser_MP  THEN raise 0.666666666667
+8_vs-bet_HP  THEN call
+1_uno-victime_HP  THEN check
+2_uno-victime_LP  THEN check
+5_vs-bet_MP  THEN call
+8_uno-victime_LP  THEN check
+3_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN raise 8.41263157895
+0_uno-raiser_LP  THEN raise 0.5
+1_uno-victime_MP  THEN check
+4_unopened_LP  THEN check
+0_uno-raiser_LP  THEN raise 0.671875
+8_uno-raiser_LP  THEN raise 0.5
+6_uno-victime_LP  THEN check
+1_vs-bet_MP  THEN fold
+9_vs-bet_MP  THEN raise 0.833333333333
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN fold
+5_uno-raiser_MP  THEN check
+9_unopened_LP  THEN check
+9_vs-bet_LP  THEN raise 1.25
+8_uno-raiser_MP  THEN raise 0.5
+0_uno-victime_LP  THEN check
+1_vs-bet_HP  THEN fold
+2_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+8_unopened_LP  THEN check
+7_unopened_LP  THEN check
+7_uno-raiser_HP  THEN check
+7_uno-raiser_LP  THEN raise 0.375
+3_uno-raiser_LP  THEN check
+9_vs-bet_MP  THEN raise 1.39285714286
+5_uno-raiser_LP  THEN raise 0.671875
+9_uno-raiser_MP  THEN raise 0.666666666667
+1_vs-bet_MP  THEN fold
+2_uno-victime_HP  THEN check
+1_vs-bet_HP  THEN fold
+1_vs-bet_HP  THEN call
+7_vs-bet_LP  THEN raise 0.7
+1_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+7_vs-bet_LP  THEN call
+1_unopened_LP  THEN check
+2_uno-raiser_LP  THEN check
+7_uno-raiser_LP  THEN check
+6_unopened_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+6_unopened_LP  THEN check
+3_unopened_LP  THEN check
+4_vs-bet_LP  THEN call
+6_uno-victime_LP  THEN check
+5_vs-bet_LP  THEN call
+3_vs-bet_LP  THEN call
+6_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+1_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+6_vs-bet_LP  THEN call
+8_vs-bet_LP  THEN call
+9_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+4_uno-raiser_LP  THEN check
+5_unopened_LP  THEN check
+5_uno-raiser_HP  THEN raise 0.5
+7_vs-bet_LP  THEN call
+4_unopened_LP  THEN check
+3_uno-victime_LP  THEN check
+3_vs-bet_LP  THEN call
+5_unopened_LP  THEN check
+4_uno-raiser_LP  THEN check
+4_uno-victime_LP  THEN check
+4_vs-bet_LP  THEN fold
+8_vs-bet_LP  THEN raise 0.4
+6_unopened_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.5
+8_vs-bet_HP  THEN call
+4_uno-raiser_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+7_unopened_LP  THEN check
+8_vs-bet_LP  THEN raise 1.10416666667
+6_vs-bet_HP  THEN fold
+9_unopened_LP  THEN raise 0.6625
+0_unopened_LP  THEN check
+1_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN fold
+6_unopened_LP  THEN check
+5_vs-bet_LP  THEN raise 0.925
+9_vs-bet_HP  THEN raise 1.0
+2_unopened_LP  THEN check
+3_vs-bet_LP  THEN call
+7_unopened_LP  THEN check
+2_uno-raiser_LP  THEN check
+8_vs-bet_HP  THEN call
+9_uno-raiser_HP  THEN raise 0.1
+9_vs-bet_HP  THEN call
+0_uno-victime_MP  THEN check
+7_uno-victime_MP  THEN check
+7_vs-bet_HP  THEN call
+3_vs-bet_HP  THEN call
+4_vs-bet_HP  THEN fold
+8_unopened_LP  THEN raise 0.75
+5_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN fold
+5_uno-raiser_LP  THEN raise 0.75
+3_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+4_uno-raiser_LP  THEN check
+2_uno-raiser_LP  THEN check
+6_uno-victime_MP  THEN check
+6_vs-bet_HP  THEN call
+3_uno-victime_MP  THEN check
+9_uno-raiser_LP  THEN raise 0.75
+5_uno-raiser_HP  THEN raise 0.5
+6_uno-raiser_LP  THEN check
+8_uno-raiser_HP  THEN check
+4_uno-raiser_LP  THEN raise 0.671875
+3_uno-raiser_LP  THEN check
+4_uno-raiser_LP  THEN raise 0.671875
+2_vs-bet_HP  THEN raise 0.9
+4_uno-raiser_LP  THEN check
+0_uno-raiser_LP  THEN raise 0.671875
+3_uno-victime_MP  THEN check
+1_uno-raiser_LP  THEN raise 0.671875
+6_uno-victime_MP  THEN check
+4_uno-victime_HP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+2_uno-victime_MP  THEN check
+0_vs-bet_HP  THEN raise 1.2380952381
+7_uno-raiser_LP  THEN check
+4_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN call
+9_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN call
+7_uno-raiser_LP  THEN check
+7_uno-victime_MP  THEN check
+3_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN fold
+0_uno-victime_MP  THEN check
+0_vs-bet_HP  THEN fold
+6_vs-bet_HP  THEN call
+2_uno-victime_MP  THEN check
+2_vs-bet_HP  THEN raise 1.2380952381
+5_uno-raiser_LP  THEN check
+6_uno-raiser_LP  THEN raise 0.671875
+1_uno-raiser_LP  THEN raise 0.75
+3_uno-raiser_HP  THEN raise 0.5
+4_vs-bet_HP  THEN fold
+3_uno-raiser_LP  THEN check
+7_uno-victime_MP  THEN check
+7_vs-bet_HP  THEN call
+10_uno-raiser_HP  THEN raise 0.6625
+4_uno-raiser_HP  THEN raise 0.666666666667
+1_uno-raiser_LP  THEN check
+1_uno-raiser_LP  THEN check
+3_uno-raiser_MP  THEN check
+5_uno-raiser_MP  THEN check
+6_uno-victime_MP  THEN check
+9_uno-raiser_HP  THEN raise 0.666666666667
+3_uno-raiser_LP  THEN check
+7_uno-raiser_HP  THEN check
+10_uno-raiser_LP  THEN raise 0.75
+6_uno-victime_MP  THEN check
+7_uno-raiser_LP  THEN check
+9_uno-victime_MP  THEN check
+8_uno-victime_HP  THEN check
+7_vs-bet_HP  THEN raise 2.02290983607
+5_uno-raiser_LP  THEN raise 0.75
+2_uno-victime_LP  THEN check
+0_uno-victime_LP  THEN check
+0_vs-bet_MP  THEN raise 10.4986915888
+3_unopened_LP  THEN check
+3_vs-bet_LP  THEN call
+6_vs-bet_HP  THEN raise 2.04619047619
+5_unopened_LP  THEN check
+6_vs-bet_HP  THEN fold
+3_uno-victime_LP  THEN check
+8_uno-victime_LP  THEN check
+1_uno-raiser_LP  THEN check
+0_uno-raiser_LP  THEN raise 0.671875
+2_uno-victime_HP  THEN check
+6_uno-raiser_MP  THEN raise 0.666666666667
+7_uno-victime_LP  THEN check
+7_vs-bet_MP  THEN fold
+4_vs-bet_HP  THEN call
+6_unopened_LP  THEN check
+6_vs-bet_LP  THEN fold
+0_vs-bet_HP  THEN call
+6_unopened_LP  THEN check
+4_uno-raiser_MP  THEN raise 0.666666666667
+1_uno-raiser_MP  THEN raise 0.5
+2_uno-victime_MP  THEN check
+5_uno-victime_MP  THEN check
+5_vs-bet_HP  THEN fold
+9_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+0_uno-victime_LP  THEN check
+4_uno-raiser_LP  THEN raise 0.671875
+0_uno-victime_LP  THEN check
+7_uno-victime_LP  THEN check
+8_vs-bet_HP  THEN call
+9_uno-victime_LP  THEN check
+8_vs-bet_HP  THEN call
+2_uno-victime_MP  THEN check
+2_vs-bet_HP  THEN fold
+2_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN call
+4_vs-bet_HP  THEN fold
+3_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+1_uno-victime_MP  THEN check
+0_vs-bet_HP  THEN fold
+4_uno-raiser_MP  THEN raise 0.666666666667
+7_uno-victime_MP  THEN check
+3_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+5_uno-victime_MP  THEN check
+5_vs-bet_HP  THEN call
+9_vs-bet_HP  THEN call
+1_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN call
+6_uno-victime_MP  THEN check
+7_vs-bet_HP  THEN fold
+7_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+1_uno-raiser_LP  THEN check
+9_vs-bet_MP  THEN raise 1.10416666667
+5_unopened_LP  THEN check
+9_vs-bet_MP  THEN call
+7_uno-victime_LP  THEN check
+7_vs-bet_MP  THEN call
+6_uno-raiser_LP  THEN raise 0.671875
+7_vs-bet_HP  THEN call
+5_uno-raiser_MP  THEN raise 0.666666666667
+7_uno-victime_LP  THEN check
+9_uno-victime_LP  THEN check
+2_vs-bet_HP  THEN fold
+4_vs-bet_HP  THEN call
+4_uno-raiser_MP  THEN check
+8_uno-victime_LP  THEN check
+7_uno-raiser_MP  THEN raise 0.666666666667
+7_uno-raiser_MP  THEN raise 0.666666666667
+8_uno-raiser_HP  THEN raise 0.666666666667
+0_uno-raiser_LP  THEN raise 0.75
+5_uno-raiser_LP  THEN check
+1_uno-victime_HP  THEN check
+10_uno-raiser_LP  THEN raise 0.671875
+5_uno-victime_LP  THEN check
+2_uno-raiser_LP  THEN raise 0.75
+1_uno-raiser_LP  THEN check
+8_vs-bet_LP  THEN raise 1.2030075188
+4_uno-raiser_MP  THEN raise 0.666666666667
+8_vs-bet_LP  THEN raise 1.05
+4_uno-victime_LP  THEN check
+4_vs-bet_LP  THEN fold
+8_uno-victime_MP  THEN raise 0.75
+5_uno-raiser_MP  THEN raise 0.666666666667
+7_vs-bet_LP  THEN fold
+6_uno-raiser_MP  THEN check
+6_vs-bet_HP  THEN fold
+0_vs-bet_LP  THEN fold
+7_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+1_vs-bet_LP  THEN call
+6_uno-raiser_LP  THEN raise 0.6625
+3_vs-bet_LP  THEN fold
+3_uno-raiser_MP  THEN check
+3_vs-bet_LP  THEN fold
+1_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+0_uno-raiser_HP  THEN raise 0.666666666667
+0_vs-bet_HP  THEN call
+6_vs-bet_LP  THEN call
+5_uno-raiser_MP  THEN check
+6_vs-bet_HP  THEN fold
+4_vs-bet_LP  THEN raise 0.925
+7_vs-bet_LP  THEN call
+6_vs-bet_LP  THEN raise 0.925
+6_unopened_LP  THEN raise 0.5
+6_vs-bet_LP  THEN fold
+4_uno-victime_LP  THEN check
+5_vs-bet_LP  THEN raise 1.11111111111
+7_vs-bet_LP  THEN call
+8_uno-raiser_HP  THEN raise 0.5
+7_vs-bet_HP  THEN call
+2_unopened_LP  THEN check
+2_unopened_LP  THEN check
+2_uno-raiser_LP  THEN raise 0.6625
+7_uno-raiser_MP  THEN raise 0.5
+10_uno-raiser_LP  THEN raise 0.75
+4_uno-raiser_MP  THEN raise 0.666666666667
+7_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+4_vs-bet_LP  THEN fold
+1_uno-raiser_LP  THEN raise 0.75
+9_uno-raiser_LP  THEN raise 0.75
+7_uno-victime_LP  THEN check
+7_vs-bet_LP  THEN call
+5_uno-raiser_LP  THEN check
+3_uno-victime_LP  THEN check
+7_vs-bet_LP  THEN call
+0_unopened_LP  THEN check
+5_vs-bet_HP  THEN fold
+6_uno-victime_LP  THEN check
+6_vs-bet_MP  THEN fold
+4_unopened_LP  THEN check
+4_vs-bet_LP  THEN fold
+8_unopened_LP  THEN raise 0.5
+4_uno-raiser_LP  THEN check
+2_unopened_LP  THEN raise 0.5
+8_vs-bet_LP  THEN raise 1.10416666667
+8_vs-bet_HP  THEN call
+7_vs-bet_LP  THEN call
+2_unopened_LP  THEN check
+5_vs-bet_LP  THEN fold
+3_uno-raiser_LP  THEN raise 0.666666666667
+9_vs-bet_HP  THEN raise 0.859813084112
+5_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+9_uno-raiser_LP  THEN raise 0.6625
+4_uno-victime_LP  THEN check
+9_uno-raiser_HP  THEN raise 0.666666666667
+8_uno-raiser_LP  THEN raise 0.75
+4_uno-victime_LP  THEN check
+5_vs-bet_HP  THEN fold
+3_uno-raiser_LP  THEN check
+9_uno-victime_LP  THEN check
+10_vs-bet_LP  THEN raise 1.25
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+1_vs-bet_MP  THEN call
+6_uno-raiser_MP  THEN check
+6_uno-raiser_LP  THEN raise 0.6625
+8_vs-bet_HP  THEN call
+8_uno-victime_LP  THEN check
+9_vs-bet_LP  THEN raise 1.05
+6_uno-victime_LP  THEN check
+9_uno-victime_HP  THEN raise 0.671875
+4_uno-raiser_HP  THEN check
+1_uno-raiser_LP  THEN check
+8_uno-victime_LP  THEN check
+7_vs-bet_HP  THEN call
+3_vs-bet_LP  THEN fold
+5_uno-raiser_LP  THEN check
+0_vs-bet_MP  THEN raise 0.769230769231
+8_unopened_LP  THEN check
+8_vs-bet_LP  THEN raise 1.25
+3_uno-raiser_LP  THEN check
+8_uno-raiser_HP  THEN raise 0.5
+8_vs-bet_HP  THEN call
+5_uno-victime_LP  THEN check
+5_uno-raiser_LP  THEN raise 0.5
+6_uno-raiser_LP  THEN raise 0.75
+5_uno-raiser_LP  THEN raise 0.75
+9_uno-victime_MP  THEN raise 0.75
+4_uno-raiser_LP  THEN check
+5_vs-bet_MP  THEN fold
+4_uno-victime_MP  THEN check
+3_vs-bet_LP  THEN fold
+0_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+3_vs-bet_LP  THEN raise 1.05
+4_vs-bet_LP  THEN raise 0.925
+1_unopened_LP  THEN raise 1.0
+2_vs-bet_LP  THEN fold
+5_vs-bet_LP  THEN raise 1.05
+8_uno-raiser_LP  THEN raise 0.6625
+7_unopened_LP  THEN check
+2_uno-raiser_LP  THEN check
+6_uno-victime_LP  THEN check
+6_vs-bet_MP  THEN call
+3_uno-raiser_LP  THEN check
+2_uno-victime_LP  THEN check
+1_uno-victime_LP  THEN check
+1_vs-bet_MP  THEN fold
+0_uno-raiser_LP  THEN raise 0.6625
+5_uno-raiser_MP  THEN raise 0.5
+4_uno-raiser_LP  THEN raise 0.6625
+6_vs-bet_HP  THEN fold
+5_uno-raiser_LP  THEN raise 0.6625
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+2_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+3_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+9_uno-raiser_MP  THEN raise 0.666666666667
+4_uno-raiser_LP  THEN raise 0.671875
+9_unopened_LP  THEN raise 0.6625
+1_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+0_uno-raiser_LP  THEN check
+6_uno-raiser_MP  THEN check
+8_vs-bet_LP  THEN raise 0.925
+3_uno-raiser_MP  THEN raise 0.5
+10_vs-bet_LP  THEN call
+2_vs-bet_HP  THEN fold
+9_unopened_LP  THEN raise 0.5
+3_uno-raiser_LP  THEN raise 24.673125
+1_unopened_LP  THEN check
+0_vs-bet_MP  THEN call
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+9_uno-raiser_LP  THEN raise 0.671875
+2_unopened_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+0_unopened_LP  THEN check
+0_uno-raiser_LP  THEN raise 0.75
+4_unopened_LP  THEN check
+9_uno-victime_MP  THEN raise 0.666666666667
+9_uno-raiser_LP  THEN raise 0.671875
+8_uno-raiser_MP  THEN raise 0.666666666667
+5_unopened_LP  THEN check
+6_uno-raiser_LP  THEN check
+1_unopened_LP  THEN check
+9_unopened_LP  THEN raise 0.6625
+2_uno-raiser_LP  THEN check
+4_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+9_unopened_LP  THEN raise 0.6625
+6_uno-victime_LP  THEN check
+4_unopened_LP  THEN check
+6_uno-raiser_LP  THEN check
+0_uno-raiser_LP  THEN check
+8_unopened_LP  THEN check
+1_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+5_vs-bet_MP  THEN fold
+0_uno-victime_LP  THEN check
+7_vs-bet_MP  THEN call
+9_unopened_LP  THEN raise 0.6625
+9_uno-raiser_LP  THEN raise 0.671875
+8_unopened_LP  THEN raise 0.6625
+9_uno-raiser_LP  THEN raise 0.671875
+8_uno-raiser_MP  THEN raise 0.666666666667
+9_uno-raiser_LP  THEN raise 0.671875
+0_unopened_LP  THEN check
+5_unopened_LP  THEN raise 0.6625
+4_uno-raiser_HP  THEN raise 0.5
+4_uno-raiser_LP  THEN check
+5_uno-raiser_LP  THEN check
+7_unopened_LP  THEN check
+7_uno-raiser_HP  THEN raise 0.5
+6_unopened_LP  THEN check
+1_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+4_vs-bet_MP  THEN fold
+5_vs-bet_MP  THEN fold
+0_uno-victime_LP  THEN check
+5_uno-raiser_LP  THEN raise 0.5
+2_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+4_uno-victime_MP  THEN raise 0.666666666667
+8_unopened_LP  THEN check
+0_unopened_LP  THEN check
+3_uno-victime_MP  THEN check
+8_uno-raiser_LP  THEN raise 0.671875
+1_unopened_LP  THEN check
+6_unopened_LP  THEN check
+7_unopened_LP  THEN raise 0.6625
+3_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+8_uno-raiser_LP  THEN raise 0.671875
+6_unopened_LP  THEN raise 0.5
+0_uno-raiser_LP  THEN check
+2_unopened_LP  THEN raise 0.6625
+2_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+8_unopened_LP  THEN check
+6_unopened_LP  THEN raise 0.75
+8_uno-raiser_LP  THEN raise 0.671875
+4_uno-victime_LP  THEN check
+4_unopened_LP  THEN raise 0.5
+9_unopened_LP  THEN raise 0.6625
+6_unopened_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.671875
+8_unopened_LP  THEN raise 0.5
+4_unopened_LP  THEN raise 0.6625
+3_unopened_LP  THEN check
+7_unopened_LP  THEN raise 0.6625
+9_unopened_LP  THEN raise 0.6625
+9_unopened_LP  THEN raise 0.6625
+9_vs-bet_MP  THEN call
+2_vs-bet_LP  THEN raise 0.925
+6_uno-raiser_MP  THEN raise 0.666666666667
+8_unopened_LP  THEN raise 0.6625
+5_uno-raiser_LP  THEN check
+7_unopened_LP  THEN check
+2_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+2_uno-raiser_MP  THEN raise 0.666666666667
+0_uno-raiser_MP  THEN raise 0.666666666667
+0_vs-bet_HP  THEN raise 0.833333333333
+2_uno-victime_HP  THEN raise 0.5
+0_unopened_LP  THEN check
+8_vs-bet_MP  THEN call
+9_unopened_LP  THEN raise 0.5
+0_uno-raiser_LP  THEN check
+0_uno-raiser_LP  THEN check
+0_vs-bet_HP  THEN fold
+5_uno-raiser_LP  THEN raise 0.75
+3_uno-raiser_MP  THEN raise 0.666666666667
+5_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+9_uno-raiser_MP  THEN raise 0.666666666667
+7_unopened_LP  THEN check
+1_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+3_uno-victime_LP  THEN check
+5_uno-victime_LP  THEN check
+5_vs-bet_LP  THEN call
+6_uno-raiser_LP  THEN raise 0.5
+1_uno-raiser_LP  THEN check
+0_uno-victime_LP  THEN check
+6_uno-raiser_LP  THEN raise 0.5
+6_uno-raiser_HP  THEN raise 0.5
+1_vs-bet_HP  THEN fold
+3_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+5_uno-raiser_LP  THEN raise 0.671875
+2_uno-raiser_HP  THEN raise 0.671875
+2_uno-raiser_MP  THEN check
+1_uno-raiser_LP  THEN raise 0.671875
+3_unopened_LP  THEN check
+1_uno-raiser_MP  THEN raise 0.666666666667
+0_uno-raiser_MP  THEN raise 0.666666666667
+7_unopened_LP  THEN check
+5_vs-bet_MP  THEN raise 0.642857142857
+4_uno-victime_LP  THEN check
+5_vs-bet_HP  THEN call
+9_uno-raiser_HP  THEN raise 0.5
+9_uno-raiser_HP  THEN raise 0.671875
+0_uno-raiser_LP  THEN check
+7_vs-bet_LP  THEN raise 0.7
+3_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+6_uno-raiser_LP  THEN check
+4_uno-raiser_MP  THEN raise 0.5
+4_vs-bet_MP  THEN call
+0_uno-raiser_MP  THEN raise 0.625
+6_unopened_LP  THEN check
+6_vs-bet_MP  THEN fold
+7_uno-raiser_MP  THEN raise 0.666666666667
+1_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+7_uno-victime_LP  THEN check
+6_uno-raiser_MP  THEN raise 0.5
+7_uno-raiser_HP  THEN raise 0.5
+5_uno-victime_LP  THEN check
+4_uno-raiser_LP  THEN check
+5_uno-victime_HP  THEN check
+5_vs-bet_HP  THEN fold
+9_uno-raiser_MP  THEN raise 0.666666666667
+7_uno-raiser_MP  THEN check
+0_unopened_LP  THEN raise 0.5
+0_vs-bet_MP  THEN call
+5_vs-bet_HP  THEN fold
+1_uno-raiser_MP  THEN raise 0.5
+8_uno-raiser_MP  THEN raise 0.666666666667
+8_uno-raiser_MP  THEN raise 0.5
+2_unopened_LP  THEN check
+9_vs-bet_MP  THEN call
+6_uno-raiser_HP  THEN check
+6_vs-bet_HP  THEN fold
+6_unopened_LP  THEN check
+6_vs-bet_LP  THEN call
+1_unopened_LP  THEN check
+9_uno-raiser_MP  THEN raise 0.666666666667
+7_vs-bet_HP  THEN call
+2_uno-raiser_MP  THEN raise 0.666666666667
+2_vs-bet_HP  THEN fold
+5_uno-raiser_MP  THEN raise 0.666666666667
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+8_uno-raiser_MP  THEN raise 0.666666666667
+5_uno-raiser_MP  THEN check
+5_uno-victime_HP  THEN check
+4_vs-bet_HP  THEN fold
+9_uno-raiser_MP  THEN raise 0.666666666667
+3_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+3_uno-victime_LP  THEN check
+5_vs-bet_MP  THEN fold
+8_vs-bet_MP  THEN raise 0.857142857143
+10_uno-victime_LP  THEN check
+10_vs-bet_HP  THEN raise 1.34375
+4_vs-bet_HP  THEN fold
+5_uno-raiser_HP  THEN raise 0.5
+2_unopened_LP  THEN check
+7_vs-bet_HP  THEN call
+3_uno-raiser_MP  THEN check
+0_unopened_LP  THEN raise 0.6625
+4_uno-raiser_LP  THEN raise 0.75
+7_vs-bet_MP  THEN call
+4_uno-raiser_MP  THEN check
+4_vs-bet_HP  THEN fold
+7_uno-raiser_MP  THEN check
+5_uno-raiser_MP  THEN raise 0.666666666667
+9_vs-bet_HP  THEN raise 1.11111111111
+7_unopened_LP  THEN raise 0.5
+6_uno-raiser_LP  THEN check
+8_uno-victime_LP  THEN check
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN call
+4_uno-raiser_MP  THEN check
+3_uno-victime_LP  THEN check
+6_uno-raiser_HP  THEN check
+7_vs-bet_HP  THEN fold
+9_uno-raiser_MP  THEN raise 0.5
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN call
+3_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+8_uno-raiser_MP  THEN raise 0.666666666667
+0_vs-bet_HP  THEN call
+5_uno-victime_LP  THEN check
+9_uno-raiser_MP  THEN raise 0.666666666667
+9_uno-raiser_MP  THEN raise 0.666666666667
+2_uno-raiser_MP  THEN check
+7_uno-raiser_HP  THEN raise 0.5
+7_uno-raiser_HP  THEN raise 0.5
+4_uno-raiser_MP  THEN raise 0.666666666667
+2_uno-raiser_MP  THEN raise 0.666666666667
+4_uno-raiser_MP  THEN raise 0.666666666667
+6_uno-raiser_HP  THEN check
+0_uno-raiser_LP  THEN raise 0.6625
+7_uno-raiser_MP  THEN raise 0.666666666667
+8_vs-bet_MP  THEN raise 0.857142857143
+6_uno-raiser_MP  THEN raise 0.666666666667
+0_unopened_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.671875
+6_unopened_LP  THEN raise 0.5
+7_vs-bet_LP  THEN call
+0_unopened_LP  THEN check
+7_vs-bet_MP  THEN raise 0.857142857143
+4_vs-bet_MP  THEN raise 0.857142857143
+8_unopened_LP  THEN raise 0.6625
+5_uno-raiser_HP  THEN raise 0.5
+0_vs-bet_HP  THEN fold
+10_uno-raiser_MP  THEN raise 0.666666666667
+5_uno-raiser_MP  THEN check
+7_uno-raiser_HP  THEN raise 0.6625
+7_uno-victime_LP  THEN raise 0.671875
+8_uno-raiser_MP  THEN raise 0.666666666667
+8_uno-raiser_MP  THEN check
+3_unopened_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+8_vs-bet_MP  THEN raise 0.857142857143
+5_uno-raiser_MP  THEN check
+9_vs-bet_LP  THEN raise 0.925
+4_uno-raiser_MP  THEN check
+4_vs-bet_MP  THEN fold
+8_uno-raiser_MP  THEN raise 0.5
+1_uno-victime_LP  THEN check
+2_uno-victime_LP  THEN check
+4_vs-bet_HP  THEN fold
+4_uno-raiser_HP  THEN raise 0.5
+1_uno-raiser_MP  THEN raise 0.666666666667
+8_uno-raiser_MP  THEN raise 0.5
+9_uno-raiser_HP  THEN raise 0.5
+9_uno-raiser_MP  THEN raise 0.666666666667
+5_uno-raiser_MP  THEN raise 0.666666666667
+6_uno-raiser_MP  THEN check
+0_uno-raiser_MP  THEN raise 0.666666666667
+7_vs-bet_MP  THEN call
+4_uno-raiser_HP  THEN raise 0.5
+4_uno-raiser_MP  THEN check
+5_unopened_LP  THEN check
+9_uno-raiser_MP  THEN raise 0.666666666667
+6_uno-victime_LP  THEN check
+6_vs-bet_HP  THEN fold
+0_uno-victime_LP  THEN check
+0_vs-bet_LP  THEN fold
+8_uno-raiser_MP  THEN raise 0.666666666667
+1_uno-victime_LP  THEN check
+1_vs-bet_MP  THEN fold
+5_uno-raiser_MP  THEN check
+5_uno-victime_LP  THEN check
+7_vs-bet_LP  THEN call
+2_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+2_uno-victime_LP  THEN check
+2_vs-bet_HP  THEN fold
+8_uno-victime_LP  THEN check
+3_uno-raiser_LP  THEN check
+3_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN raise 0.552631578947
+9_vs-bet_HP  THEN call
+3_uno-victime_LP  THEN check
+10_uno-raiser_MP  THEN raise 0.666666666667
+5_unopened_LP  THEN raise 0.6625
+6_uno-raiser_LP  THEN raise 0.671875
+7_vs-bet_HP  THEN fold
+9_uno-raiser_MP  THEN raise 0.666666666667
+9_uno-raiser_LP  THEN raise 0.6625
+1_uno-raiser_LP  THEN raise 0.6625
+5_uno-raiser_LP  THEN check
+3_uno-victime_LP  THEN check
+4_vs-bet_LP  THEN call
+7_uno-victime_LP  THEN check
+2_uno-raiser_LP  THEN raise 0.75
+4_uno-raiser_LP  THEN raise 0.6625
+3_vs-bet_LP  THEN raise 1.15909090909
+4_vs-bet_MP  THEN fold
+9_unopened_LP  THEN check
+10_vs-bet_LP  THEN call
+9_uno-victime_LP  THEN check
+1_unopened_LP  THEN check
+8_uno-victime_HP  THEN check
+7_vs-bet_HP  THEN fold
+7_unopened_LP  THEN check
+5_uno-victime_LP  THEN check
+5_unopened_LP  THEN check
+4_vs-bet_LP  THEN fold
+6_uno-raiser_LP  THEN check
+5_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+4_unopened_LP  THEN check
+1_unopened_LP  THEN check
+0_unopened_LP  THEN raise 0.75
+3_uno-raiser_LP  THEN check
+5_uno-raiser_LP  THEN check
+8_uno-victime_LP  THEN check
+8_vs-bet_LP  THEN call
+3_unopened_LP  THEN check
+6_uno-raiser_LP  THEN raise 0.6625
+6_unopened_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.5
+1_uno-raiser_LP  THEN check
+10_uno-raiser_LP  THEN raise 0.666666666667
+8_unopened_LP  THEN check
+8_vs-bet_LP  THEN fold
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+9_uno-raiser_LP  THEN raise 0.75
+7_unopened_LP  THEN check
+8_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.6625
+1_uno-victime_LP  THEN check
+8_uno-victime_MP  THEN raise 0.666666666667
+2_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+9_unopened_LP  THEN check
+4_uno-raiser_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.666666666667
+5_uno-victime_HP  THEN check
+9_unopened_LP  THEN check
+3_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+6_uno-victime_LP  THEN check
+5_vs-bet_LP  THEN fold
+4_uno-raiser_LP  THEN check
+3_uno-raiser_LP  THEN check
+9_uno-victime_LP  THEN check
+9_vs-bet_LP  THEN call
+5_unopened_LP  THEN check
+5_unopened_LP  THEN check
+4_vs-bet_LP  THEN fold
+2_unopened_LP  THEN check
+5_unopened_LP  THEN check
+5_vs-bet_LP  THEN fold
+5_unopened_LP  THEN check
+5_unopened_LP  THEN check
+5_vs-bet_LP  THEN call
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+1_unopened_LP  THEN check
+3_uno-victime_LP  THEN check
+3_vs-bet_MP  THEN fold
+9_uno-victime_LP  THEN raise 0.666666666667
+1_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+5_uno-raiser_LP  THEN raise 0.5
+3_unopened_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.6625
+5_uno-victime_LP  THEN check
+6_uno-raiser_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.666666666667
+9_uno-victime_HP  THEN raise 0.666666666667
+9_unopened_LP  THEN check
+9_vs-bet_HP  THEN raise 7.57882352941
+0_uno-raiser_HP  THEN raise 0.5
+7_uno-raiser_MP  THEN check
+4_vs-bet_HP  THEN fold
+6_uno-victime_LP  THEN check
+6_vs-bet_HP  THEN call
+6_uno-raiser_LP  THEN raise 0.671875
+6_uno-victime_LP  THEN check
+8_uno-raiser_MP  THEN raise 0.666666666667
+3_uno-victime_LP  THEN check
+4_vs-bet_HP  THEN fold
+0_uno-victime_LP  THEN check
+0_vs-bet_HP  THEN fold
+5_uno-victime_LP  THEN check
+2_uno-raiser_MP  THEN raise 0.666666666667
+3_uno-raiser_MP  THEN raise 0.666666666667
+6_uno-raiser_MP  THEN check
+6_uno-raiser_HP  THEN raise 0.5
+6_uno-victime_HP  THEN check
+10_uno-victime_LP  THEN check
+10_vs-bet_HP  THEN call
+6_uno-raiser_HP  THEN raise 0.5
+8_uno-raiser_MP  THEN raise 0.5
+5_uno-raiser_MP  THEN check
+0_uno-raiser_HP  THEN raise 0.5
+6_uno-raiser_HP  THEN raise 0.5
+1_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN fold
+4_uno-raiser_MP  THEN raise 0.5
+6_uno-raiser_MP  THEN raise 0.5
+4_uno-raiser_MP  THEN check
+4_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN fold
+3_uno-raiser_MP  THEN check
+0_uno-raiser_HP  THEN raise 0.5
+8_uno-raiser_MP  THEN raise 0.5
+9_uno-victime_MP  THEN check
+0_uno-raiser_LP  THEN raise 0.6625
+8_uno-raiser_HP  THEN raise 0.666666666667
+7_uno-raiser_MP  THEN raise 0.666666666667
+3_uno-raiser_MP  THEN raise 0.666666666667
+9_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN raise 1.2380952381
+4_uno-victime_MP  THEN check
+6_uno-victime_MP  THEN check
+6_uno-raiser_HP  THEN raise 0.5
+5_vs-bet_HP  THEN fold
+5_uno-victime_MP  THEN check
+6_vs-bet_HP  THEN fold
+4_uno-raiser_MP  THEN check
+2_uno-victime_MP  THEN check
+2_vs-bet_HP  THEN fold
+9_uno-raiser_MP  THEN raise 0.666666666667
+1_uno-raiser_MP  THEN check
+0_uno-victime_MP  THEN check
+0_vs-bet_HP  THEN fold
+10_uno-victime_MP  THEN check
+10_vs-bet_HP  THEN raise 1.2380952381
+6_uno-victime_HP  THEN check
+4_uno-raiser_LP  THEN raise 0.6625
+4_vs-bet_HP  THEN call
+8_uno-victime_MP  THEN check
+4_uno-raiser_MP  THEN check
+3_uno-raiser_MP  THEN check
+0_uno-raiser_LP  THEN check
+1_uno-raiser_LP  THEN raise 0.6625
+10_uno-raiser_MP  THEN raise 0.666666666667
+5_vs-bet_HP  THEN fold
+5_uno-raiser_MP  THEN check
+3_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN fold
+5_uno-raiser_MP  THEN check
+7_uno-raiser_HP  THEN raise 0.666666666667
+4_uno-raiser_LP  THEN check
+3_uno-victime_MP  THEN check
+2_uno-victime_MP  THEN check
+6_uno-raiser_MP  THEN raise 0.5
+6_vs-bet_HP  THEN fold
+6_uno-raiser_MP  THEN check
+6_uno-victime_MP  THEN check
+5_vs-bet_HP  THEN fold
+2_uno-victime_MP  THEN check
+2_uno-raiser_MP  THEN raise 0.666666666667
+8_uno-victime_MP  THEN check
+1_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN call
+0_uno-raiser_LP  THEN raise 0.6625
+5_uno-raiser_HP  THEN check
+8_uno-raiser_MP  THEN raise 0.666666666667
+3_uno-victime_MP  THEN check
+6_uno-raiser_MP  THEN raise 0.666666666667
+7_uno-victime_MP  THEN check
+5_uno-victime_MP  THEN check
+5_vs-bet_HP  THEN fold
+3_uno-raiser_MP  THEN raise 0.666666666667
+3_vs-bet_HP  THEN fold
+4_uno-victime_MP  THEN check
+6_vs-bet_HP  THEN call
+5_uno-victime_MP  THEN check
+5_vs-bet_HP  THEN fold
+0_uno-victime_MP  THEN check
+4_uno-raiser_MP  THEN check
+2_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN fold
+9_uno-raiser_MP  THEN raise 0.666666666667
+6_uno-victime_MP  THEN check
+5_vs-bet_HP  THEN fold
+4_uno-victime_MP  THEN check
+0_uno-raiser_MP  THEN check
+3_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN call
+4_uno-victime_HP  THEN check
+1_uno-raiser_MP  THEN check
+3_uno-raiser_MP  THEN check
+5_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN fold
+5_uno-victime_MP  THEN check
+5_vs-bet_HP  THEN raise 1.2380952381
+10_uno-raiser_MP  THEN raise 0.75
+6_uno-raiser_HP  THEN check
+0_uno-raiser_MP  THEN raise 0.666666666667
+9_uno-raiser_MP  THEN raise 0.666666666667
+8_uno-raiser_HP  THEN check
+2_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+0_uno-victime_HP  THEN raise 0.5
+3_uno-victime_MP  THEN check
+9_uno-raiser_MP  THEN raise 0.666666666667
+2_uno-victime_MP  THEN check
+2_vs-bet_HP  THEN call
+0_uno-victime_MP  THEN check
+0_vs-bet_HP  THEN fold
+4_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN call
+1_uno-raiser_LP  THEN raise 0.6625
+9_uno-raiser_HP  THEN raise 0.666666666667
+8_uno-raiser_MP  THEN raise 0.666666666667
+3_uno-raiser_MP  THEN check
+4_uno-raiser_HP  THEN check
+5_vs-bet_HP  THEN raise 1.2380952381
+4_uno-raiser_MP  THEN check
+8_uno-raiser_MP  THEN raise 0.666666666667
+8_vs-bet_HP  THEN fold
+6_uno-victime_MP  THEN check
+6_vs-bet_HP  THEN call
+8_uno-raiser_MP  THEN raise 0.666666666667
+9_uno-victime_MP  THEN check
+0_uno-raiser_MP  THEN check
+8_uno-victime_MP  THEN check
+3_uno-raiser_MP  THEN check
+9_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN call
+8_uno-victime_MP  THEN check
+8_vs-bet_HP  THEN call
+5_uno-victime_MP  THEN check
+6_uno-raiser_MP  THEN check
+9_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN call
+7_uno-victime_MP  THEN check
+9_uno-victime_MP  THEN check
+4_uno-raiser_MP  THEN check
+1_uno-victime_MP  THEN check
+2_vs-bet_HP  THEN fold
+1_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN fold
+1_uno-raiser_MP  THEN check
+1_uno-raiser_HP  THEN raise 0.638888888889
+2_uno-victime_MP  THEN check
+2_vs-bet_HP  THEN fold
+5_uno-raiser_MP  THEN raise 0.5
+3_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN fold
+9_uno-victime_MP  THEN check
+10_vs-bet_HP  THEN raise 1.2380952381
+6_uno-raiser_MP  THEN check
+5_uno-raiser_HP  THEN check
+0_uno-raiser_MP  THEN raise 0.666666666667
+5_uno-victime_MP  THEN check
+4_uno-victime_HP  THEN check
+10_uno-victime_MP  THEN check
+1_uno-raiser_LP  THEN check
+10_uno-raiser_MP  THEN raise 0.666666666667
+7_uno-victime_MP  THEN check
+7_vs-bet_HP  THEN fold
+1_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN fold
+0_uno-victime_MP  THEN check
+0_vs-bet_HP  THEN fold
+0_uno-raiser_MP  THEN check
+6_uno-victime_MP  THEN check
+4_uno-raiser_MP  THEN check
+9_uno-raiser_HP  THEN raise 0.5
+5_uno-victime_MP  THEN check
+6_vs-bet_HP  THEN fold
+6_uno-raiser_MP  THEN raise 0.666666666667
+5_vs-bet_HP  THEN call
+6_uno-raiser_MP  THEN check
+4_uno-victime_MP  THEN check
+6_vs-bet_HP  THEN fold
+2_uno-victime_MP  THEN check
+1_uno-victime_MP  THEN check
+8_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN call
+2_uno-raiser_MP  THEN check
+8_uno-victime_MP  THEN check
+8_vs-bet_HP  THEN call
+4_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN fold
+8_uno-raiser_HP  THEN raise 0.5
+5_uno-raiser_HP  THEN raise 0.5
+6_vs-bet_HP  THEN fold
+9_uno-raiser_MP  THEN raise 0.666666666667
+6_uno-victime_MP  THEN check
+2_uno-victime_LP  THEN check
+2_vs-bet_MP  THEN call
+5_uno-raiser_LP  THEN raise 0.675
+4_vs-bet_HP  THEN fold
+9_uno-raiser_LP  THEN raise 0.5
+4_uno-raiser_LP  THEN raise 0.5
+9_uno-raiser_LP  THEN raise 0.666666666667
+6_uno-victime_LP  THEN check
+5_vs-bet_LP  THEN fold
+7_uno-raiser_LP  THEN check
+2_uno-victime_LP  THEN check
+2_vs-bet_LP  THEN fold
+1_uno-raiser_LP  THEN raise 0.6625
+0_uno-victime_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.25
+2_uno-victime_LP  THEN check
+2_vs-bet_LP  THEN fold
+6_uno-raiser_LP  THEN raise 0.75
+2_vs-bet_HP  THEN raise 3.98315789474
+8_uno-raiser_MP  THEN raise 0.5
+9_uno-raiser_MP  THEN raise 0.5
+5_uno-victime_LP  THEN check
+5_vs-bet_LP  THEN fold
+5_uno-victime_LP  THEN check
+6_uno-victime_LP  THEN check
+7_vs-bet_LP  THEN fold
+3_uno-raiser_LP  THEN raise 0.5
+7_uno-victime_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.5
+9_vs-bet_MP  THEN call
+1_uno-raiser_LP  THEN raise 0.5
+3_uno-raiser_HP  THEN raise 0.5
+3_vs-bet_HP  THEN fold
+8_uno-raiser_LP  THEN raise 0.6625
+4_uno-raiser_MP  THEN raise 0.5
+6_uno-raiser_LP  THEN check
+4_uno-victime_LP  THEN check
+2_vs-bet_LP  THEN call
+4_uno-victime_LP  THEN check
+5_unopened_LP  THEN check
+4_vs-bet_LP  THEN fold
+4_vs-bet_HP  THEN fold
+2_vs-bet_MP  THEN fold
+8_unopened_LP  THEN raise 0.6625
+5_uno-raiser_LP  THEN check
+8_uno-victime_MP  THEN check
+5_unopened_LP  THEN check
+5_vs-bet_LP  THEN fold
+3_uno-raiser_LP  THEN check
+0_uno-raiser_MP  THEN check
+7_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+8_vs-bet_LP  THEN call
+4_unopened_LP  THEN check
+3_uno-raiser_LP  THEN check
+5_unopened_LP  THEN check
+6_vs-bet_LP  THEN call
+3_unopened_LP  THEN check
+7_vs-bet_HP  THEN call
+7_unopened_LP  THEN check
+8_vs-bet_LP  THEN fold
+0_unopened_LP  THEN check
+7_vs-bet_MP  THEN call
+2_unopened_LP  THEN check
+3_unopened_LP  THEN check
+7_vs-bet_MP  THEN call
+9_uno-raiser_MP  THEN raise 0.666666666667
+5_unopened_LP  THEN check
+5_unopened_LP  THEN check
+4_vs-bet_LP  THEN call
+7_uno-raiser_MP  THEN raise 0.666666666667
+1_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+7_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+7_uno-raiser_LP  THEN raise 0.671875
+9_uno-raiser_MP  THEN check
+4_unopened_LP  THEN check
+1_unopened_LP  THEN check
+1_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+3_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+5_uno-victime_LP  THEN check
+4_vs-bet_LP  THEN call
+4_unopened_LP  THEN check
+8_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+1_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+8_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+8_vs-bet_LP  THEN call
+9_uno-raiser_LP  THEN raise 0.25
+5_uno-raiser_MP  THEN check
+5_vs-bet_HP  THEN call
+0_uno-victime_LP  THEN check
+0_vs-bet_MP  THEN fold
+6_uno-victime_LP  THEN check
+5_uno-raiser_LP  THEN check
+6_uno-raiser_LP  THEN raise 0.5
+4_uno-victime_LP  THEN check
+3_vs-bet_MP  THEN fold
+8_uno-raiser_LP  THEN check
+6_uno-raiser_MP  THEN raise 0.666666666667
+1_uno-victime_LP  THEN check
+3_vs-bet_MP  THEN call
+5_uno-raiser_MP  THEN raise 0.666666666667
+7_uno-raiser_HP  THEN raise 0.666666666667
+7_vs-bet_HP  THEN raise 0.804207317073
+8_uno-raiser_LP  THEN raise 0.6625
+4_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN call
+8_uno-victime_MP  THEN check
+8_vs-bet_HP  THEN raise 1.25
+9_vs-bet_HP  THEN call
+7_unopened_LP  THEN check
+6_unopened_LP  THEN check
+5_vs-bet_LP  THEN call
+7_unopened_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.5
+7_vs-bet_HP  THEN fold
+2_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+1_unopened_LP  THEN check
+6_unopened_LP  THEN check
+6_vs-bet_LP  THEN call
+9_uno-raiser_LP  THEN raise 0.671875
+1_unopened_LP  THEN check
+4_unopened_LP  THEN check
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+9_unopened_LP  THEN raise 0.6625
+9_unopened_LP  THEN check
+9_vs-bet_LP  THEN raise 1.0
+5_unopened_LP  THEN check
+5_unopened_LP  THEN check
+0_uno-raiser_LP  THEN check
+9_unopened_LP  THEN raise 0.5
+9_uno-raiser_MP  THEN check
+8_vs-bet_MP  THEN call
+3_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+4_unopened_LP  THEN check
+2_vs-bet_LP  THEN call
+6_unopened_LP  THEN raise 0.5
+5_uno-raiser_LP  THEN check
+5_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+5_uno-raiser_HP  THEN check
+5_vs-bet_HP  THEN fold
+2_unopened_LP  THEN check
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN call
+6_unopened_LP  THEN check
+7_uno-raiser_MP  THEN raise 0.5
+6_vs-bet_HP  THEN fold
+2_vs-bet_MP  THEN raise 0.895833333333
+6_uno-raiser_LP  THEN check
+7_unopened_LP  THEN check
+2_vs-bet_LP  THEN call
+5_uno-raiser_MP  THEN raise 0.666666666667
+8_unopened_LP  THEN check
+8_vs-bet_LP  THEN raise 1.10416666667
+8_vs-bet_HP  THEN call
+9_vs-bet_LP  THEN raise 1.05
+4_unopened_LP  THEN check
+4_unopened_LP  THEN check
+4_vs-bet_LP  THEN call
+3_uno-raiser_MP  THEN check
+7_unopened_LP  THEN check
+0_uno-raiser_LP  THEN raise 0.671875
+9_vs-bet_LP  THEN call
+9_unopened_LP  THEN check
+1_unopened_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.75
+4_uno-raiser_LP  THEN raise 0.75
+5_vs-bet_HP  THEN call
+7_unopened_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.25
+6_unopened_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.671875
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+2_uno-raiser_LP  THEN check
+1_uno-raiser_LP  THEN raise 0.671875
+6_unopened_LP  THEN check
+7_uno-raiser_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.3
+5_uno-raiser_LP  THEN raise 0.671875
+9_unopened_LP  THEN check
+9_vs-bet_LP  THEN call
+4_uno-raiser_LP  THEN check
+3_uno-raiser_MP  THEN raise 0.666666666667
+2_uno-raiser_LP  THEN check
+9_unopened_LP  THEN check
+9_vs-bet_LP  THEN raise 1.5
+9_vs-bet_HP  THEN call
+4_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+0_uno-raiser_LP  THEN raise 0.671875
+5_unopened_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.671875
+7_vs-bet_HP  THEN call
+5_unopened_LP  THEN check
+3_uno-raiser_MP  THEN raise 0.666666666667
+4_unopened_LP  THEN check
+4_vs-bet_LP  THEN call
+0_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+5_unopened_LP  THEN check
+6_vs-bet_LP  THEN call
+10_uno-raiser_LP  THEN raise 0.671875
+7_uno-raiser_LP  THEN check
+5_unopened_LP  THEN check
+10_uno-raiser_LP  THEN raise 0.75
+7_unopened_LP  THEN check
+6_vs-bet_LP  THEN call
+7_uno-raiser_LP  THEN raise 0.5
+5_unopened_LP  THEN check
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN call
+3_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+4_unopened_LP  THEN check
+8_unopened_LP  THEN raise 0.5
+6_unopened_LP  THEN check
+4_uno-raiser_LP  THEN check
+9_uno-raiser_LP  THEN check
+9_unopened_LP  THEN check
+1_uno-raiser_LP  THEN raise 0.671875
+5_uno-raiser_LP  THEN check
+5_uno-raiser_MP  THEN raise 0.5
+5_uno-raiser_LP  THEN raise 0.5
+9_uno-raiser_LP  THEN raise 0.5
+5_unopened_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.5
+5_unopened_LP  THEN check
+9_vs-bet_LP  THEN raise 0.925
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+7_uno-raiser_LP  THEN raise 0.671875
+2_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+9_uno-raiser_LP  THEN raise 0.5
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+8_uno-raiser_LP  THEN raise 0.5
+5_unopened_LP  THEN check
+2_uno-raiser_LP  THEN check
+1_unopened_LP  THEN check
+0_uno-raiser_LP  THEN raise 0.5
+7_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+2_vs-bet_LP  THEN call
+2_uno-raiser_LP  THEN check
+1_unopened_LP  THEN check
+0_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+5_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+4_uno-raiser_LP  THEN check
+8_unopened_LP  THEN check
+5_vs-bet_MP  THEN call
+7_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+8_unopened_LP  THEN check
+8_unopened_LP  THEN raise 0.5
+8_uno-raiser_LP  THEN raise 0.5
+5_uno-raiser_MP  THEN check
+8_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+1_uno-raiser_LP  THEN raise 0.5
+1_vs-bet_HP  THEN call
+1_unopened_LP  THEN check
+4_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+1_uno-raiser_LP  THEN raise 0.671875
+3_unopened_LP  THEN check
+9_unopened_LP  THEN check
+3_uno-raiser_LP  THEN check
+4_unopened_LP  THEN check
+4_uno-raiser_LP  THEN raise 0.5
+2_unopened_LP  THEN check
+1_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+4_unopened_LP  THEN check
+1_vs-bet_LP  THEN raise 0.925
+3_unopened_LP  THEN check
+2_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+2_uno-raiser_LP  THEN check
+8_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+5_unopened_LP  THEN check
+3_vs-bet_LP  THEN call
+2_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+1_unopened_LP  THEN check
+10_uno-raiser_MP  THEN raise 0.666666666667
+10_vs-bet_HP  THEN call
+8_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+1_unopened_LP  THEN check
+2_vs-bet_LP  THEN call
+3_uno-victime_MP  THEN check
+2_vs-bet_HP  THEN fold
+2_uno-raiser_LP  THEN raise 0.5
+7_uno-victime_LP  THEN check
+6_vs-bet_HP  THEN fold
+7_uno-victime_LP  THEN check
+1_uno-victime_LP  THEN check
+3_vs-bet_HP  THEN fold
+8_uno-raiser_MP  THEN check
+5_uno-victime_LP  THEN check
+4_vs-bet_HP  THEN raise 1.22857142857
+4_uno-victime_LP  THEN check
+7_uno-victime_LP  THEN check
+8_vs-bet_HP  THEN call
+8_uno-raiser_MP  THEN raise 0.666666666667
+7_uno-raiser_MP  THEN check
+6_vs-bet_HP  THEN call
+3_vs-bet_HP  THEN fold
+9_uno-victime_LP  THEN check
+3_uno-raiser_MP  THEN raise 0.666666666667
+2_uno-victime_LP  THEN check
+4_uno-victime_LP  THEN check
+3_vs-bet_HP  THEN fold
+9_uno-victime_LP  THEN check
+5_uno-victime_LP  THEN check
+5_vs-bet_HP  THEN call
+4_uno-raiser_MP  THEN check
+4_uno-raiser_MP  THEN check
+2_vs-bet_LP  THEN fold
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN call
+8_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+8_unopened_LP  THEN raise 0.5
+0_unopened_LP  THEN check
+7_uno-raiser_LP  THEN check
+3_unopened_LP  THEN raise 0.5
+9_unopened_LP  THEN raise 0.5
+9_unopened_LP  THEN raise 0.5
+8_vs-bet_LP  THEN call
+2_uno-raiser_LP  THEN raise 0.75
+2_vs-bet_HP  THEN call
+4_uno-raiser_MP  THEN raise 0.75
+6_uno-raiser_LP  THEN raise 0.375
+1_unopened_LP  THEN raise 0.5
+7_unopened_LP  THEN raise 0.5
+0_uno-raiser_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.75
+3_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+9_uno-raiser_LP  THEN raise 0.75
+10_vs-bet_HP  THEN raise 1.43333333333
+1_unopened_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.75
+2_unopened_LP  THEN raise 0.5
+6_uno-raiser_LP  THEN raise 0.75
+4_uno-raiser_LP  THEN raise 0.671875
+3_uno-victime_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+9_uno-victime_LP  THEN check
+6_uno-raiser_LP  THEN check
+5_uno-raiser_LP  THEN raise 0.671875
+5_unopened_LP  THEN check
+4_vs-bet_LP  THEN call
+9_unopened_LP  THEN raise 0.5
+8_uno-victime_HP  THEN check
+9_vs-bet_HP  THEN call
+9_uno-raiser_MP  THEN raise 0.333333333333
+3_uno-raiser_HP  THEN raise 1.03140625
+5_vs-bet_HP  THEN fold
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN call
+2_vs-bet_HP  THEN fold
+3_vs-bet_HP  THEN call
+9_vs-bet_HP  THEN call
+8_unopened_LP  THEN check
+6_vs-bet_MP  THEN fold
+4_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+9_unopened_LP  THEN check
+10_vs-bet_LP  THEN call
+9_uno-raiser_LP  THEN raise 0.671875
+6_uno-raiser_MP  THEN check
+6_vs-bet_HP  THEN fold
+9_uno-raiser_LP  THEN raise 0.671875
+8_vs-bet_MP  THEN call
+3_uno-victime_LP  THEN check
+4_vs-bet_MP  THEN fold
+1_vs-bet_HP  THEN call
+4_uno-raiser_MP  THEN check
+9_vs-bet_HP  THEN raise 1.25
+2_uno-victime_LP  THEN check
+1_vs-bet_HP  THEN call
+5_vs-bet_MP  THEN call
+6_uno-victime_LP  THEN check
+9_unopened_LP  THEN raise 0.75
+6_uno-victime_LP  THEN check
+4_vs-bet_HP  THEN call
+7_uno-victime_MP  THEN check
+7_vs-bet_HP  THEN fold
+4_uno-victime_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+2_uno-victime_MP  THEN check
+8_uno-raiser_LP  THEN raise 0.671875
+8_uno-raiser_MP  THEN raise 0.666666666667
+1_vs-bet_MP  THEN fold
+9_uno-raiser_HP  THEN raise 0.666666666667
+8_uno-victime_MP  THEN check
+4_uno-raiser_LP  THEN raise 0.671875
+4_vs-bet_HP  THEN call
+9_vs-bet_HP  THEN call
+2_uno-victime_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.625
+10_vs-bet_HP  THEN raise 0.826086956522
+2_uno-raiser_LP  THEN raise 0.671875
+9_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN raise 0.857142857143
+9_vs-bet_HP  THEN call
+6_uno-victime_LP  THEN check
+7_vs-bet_HP  THEN fold
+6_uno-raiser_LP  THEN check
+2_uno-victime_LP  THEN check
+2_vs-bet_HP  THEN fold
+8_uno-victime_LP  THEN check
+5_uno-raiser_LP  THEN raise 0.671875
+5_vs-bet_HP  THEN call
+9_unopened_LP  THEN raise 0.6625
+8_uno-raiser_LP  THEN raise 0.671875
+2_uno-victime_LP  THEN check
+1_vs-bet_MP  THEN call
+3_vs-bet_MP  THEN fold
+9_uno-raiser_MP  THEN raise 0.666666666667
+3_uno-raiser_MP  THEN raise 0.708333333333
+8_uno-victime_MP  THEN raise 0.666666666667
+9_uno-raiser_LP  THEN raise 0.671875
+2_vs-bet_HP  THEN fold
+0_uno-victime_LP  THEN check
+10_vs-bet_HP  THEN call
+6_uno-raiser_LP  THEN check
+4_uno-victime_HP  THEN check
+5_vs-bet_HP  THEN fold
+10_uno-raiser_LP  THEN check
+7_uno-victime_HP  THEN check
+0_uno-victime_MP  THEN check
+0_vs-bet_HP  THEN call
+3_uno-victime_MP  THEN check
+3_uno-raiser_LP  THEN raise 0.25
+7_uno-raiser_LP  THEN raise 0.671875
+7_uno-victime_MP  THEN check
+8_vs-bet_HP  THEN fold
+1_uno-victime_LP  THEN check
+0_vs-bet_MP  THEN fold
+5_uno-raiser_LP  THEN raise 0.671875
+4_uno-victime_MP  THEN check
+9_uno-raiser_LP  THEN check
+10_uno-raiser_HP  THEN raise 0.666666666667
+9_uno-victime_MP  THEN check
+6_uno-raiser_MP  THEN check
+9_uno-raiser_HP  THEN raise 0.5
+5_uno-raiser_LP  THEN check
+2_uno-victime_MP  THEN check
+2_vs-bet_HP  THEN call
+1_uno-raiser_LP  THEN raise 0.671875
+5_vs-bet_MP  THEN fold
+9_vs-bet_LP  THEN call
+5_unopened_LP  THEN check
+5_vs-bet_LP  THEN fold
+1_unopened_LP  THEN check
+5_uno-raiser_HP  THEN raise 5.36354166667
+6_uno-raiser_LP  THEN check
+0_uno-victime_LP  THEN check
+0_vs-bet_HP  THEN fold
+1_uno-victime_LP  THEN check
+2_vs-bet_MP  THEN call
+5_uno-raiser_LP  THEN check
+4_unopened_LP  THEN check
+4_vs-bet_LP  THEN call
+1_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+9_uno-raiser_LP  THEN raise 0.75
+6_unopened_LP  THEN check
+8_uno-raiser_LP  THEN check
+3_uno-victime_LP  THEN check
+3_vs-bet_HP  THEN fold
+0_uno-victime_LP  THEN check
+1_vs-bet_HP  THEN fold
+3_uno-raiser_LP  THEN raise 0.5
+9_uno-raiser_LP  THEN raise 0.375
+7_uno-victime_MP  THEN check
+6_vs-bet_HP  THEN fold
+2_uno-victime_LP  THEN check
+3_vs-bet_MP  THEN fold
+1_uno-raiser_LP  THEN raise 0.5
+9_uno-raiser_LP  THEN raise 0.671875
+2_uno-victime_LP  THEN check
+3_vs-bet_LP  THEN fold
+9_uno-raiser_LP  THEN raise 0.671875
+8_uno-victime_LP  THEN check
+8_vs-bet_MP  THEN call
+9_vs-bet_MP  THEN raise 1.10416666667
+2_unopened_LP  THEN check
+6_uno-victime_LP  THEN check
+6_vs-bet_MP  THEN fold
+8_uno-victime_LP  THEN check
+8_vs-bet_MP  THEN call
+3_uno-raiser_LP  THEN raise 0.5
+5_unopened_LP  THEN raise 0.5
+6_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.6625
+9_uno-raiser_LP  THEN check
+5_uno-victime_MP  THEN check
+5_vs-bet_HP  THEN fold
+1_uno-victime_MP  THEN check
+4_uno-raiser_LP  THEN check
+1_uno-victime_LP  THEN check
+1_vs-bet_HP  THEN fold
+9_uno-raiser_LP  THEN raise 0.6625
+4_uno-victime_LP  THEN check
+2_unopened_LP  THEN check
+8_uno-victime_LP  THEN check
+8_vs-bet_HP  THEN call
+5_uno-victime_LP  THEN check
+5_vs-bet_HP  THEN fold
+9_vs-bet_HP  THEN call
+8_unopened_LP  THEN raise 0.5
+8_vs-bet_MP  THEN call
+9_vs-bet_HP  THEN call
+3_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN call
+8_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN call
+6_uno-raiser_LP  THEN raise 0.671875
+6_vs-bet_HP  THEN fold
+7_uno-raiser_LP  THEN raise 0.6625
+4_uno-victime_LP  THEN check
+4_vs-bet_LP  THEN fold
+5_uno-raiser_LP  THEN raise 0.5
+9_uno-victime_LP  THEN check
+9_uno-victime_LP  THEN check
+5_uno-victime_LP  THEN check
+8_vs-bet_LP  THEN raise 1.25
+4_uno-victime_HP  THEN check
+1_uno-victime_HP  THEN raise 0.671875
+8_uno-raiser_HP  THEN check
+8_vs-bet_HP  THEN fold
+2_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+3_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+9_uno-raiser_MP  THEN raise 0.666666666667
+8_uno-victime_MP  THEN check
+7_uno-raiser_LP  THEN raise 0.671875
+6_uno-victime_MP  THEN check
+5_vs-bet_HP  THEN fold
+2_uno-victime_MP  THEN check
+2_vs-bet_HP  THEN fold
+2_uno-victime_MP  THEN check
+6_uno-raiser_MP  THEN raise 0.666666666667
+1_uno-victime_MP  THEN check
+5_uno-raiser_LP  THEN raise 0.671875
+4_vs-bet_HP  THEN fold
+7_uno-victime_MP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+7_uno-raiser_MP  THEN raise 0.666666666667
+3_uno-victime_MP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+7_uno-victime_MP  THEN check
+6_vs-bet_HP  THEN call
+2_uno-raiser_MP  THEN check
+4_uno-raiser_LP  THEN check
+3_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+3_uno-raiser_MP  THEN raise 0.666666666667
+5_uno-victime_MP  THEN check
+5_vs-bet_HP  THEN call
+5_uno-raiser_HP  THEN raise 0.6625
+2_uno-raiser_LP  THEN raise 0.671875
+2_uno-victime_MP  THEN check
+6_uno-raiser_LP  THEN check
+3_uno-raiser_LP  THEN raise 0.671875
+9_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN raise 1.2380952381
+1_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN fold
+9_uno-victime_MP  THEN check
+4_uno-raiser_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+4_uno-victime_MP  THEN check
+2_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+9_uno-raiser_LP  THEN raise 0.6625
+5_uno-raiser_LP  THEN check
+1_uno-raiser_LP  THEN raise 0.671875
+0_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN fold
+9_uno-raiser_LP  THEN raise 0.6625
+0_uno-victime_MP  THEN check
+5_uno-raiser_LP  THEN raise 0.6625
+9_uno-raiser_HP  THEN raise 0.666666666667
+1_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN fold
+5_unopened_LP  THEN check
+7_uno-raiser_LP  THEN check
+1_uno-raiser_LP  THEN check
+3_uno-raiser_LP  THEN check
+8_uno-victime_MP  THEN check
+8_vs-bet_HP  THEN call
+6_uno-raiser_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.75
+7_uno-victime_MP  THEN check
+2_uno-victime_MP  THEN check
+1_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN fold
+8_vs-bet_HP  THEN raise 0.857142857143
+7_vs-bet_HP  THEN call
+4_uno-victime_LP  THEN check
+2_uno-raiser_LP  THEN raise 0.671875
+6_uno-victime_LP  THEN check
+2_uno-raiser_LP  THEN check
+2_vs-bet_HP  THEN fold
+0_uno-raiser_LP  THEN check
+9_vs-bet_MP  THEN raise 1.10416666667
+6_unopened_LP  THEN check
+9_vs-bet_MP  THEN call
+6_uno-victime_LP  THEN check
+6_vs-bet_MP  THEN call
+7_uno-raiser_LP  THEN raise 0.671875
+6_vs-bet_HP  THEN call
+5_uno-raiser_MP  THEN raise 0.666666666667
+8_uno-victime_LP  THEN check
+9_uno-victime_LP  THEN check
+2_vs-bet_HP  THEN fold
+3_vs-bet_HP  THEN call
+4_uno-raiser_MP  THEN check
+8_uno-victime_LP  THEN check
+7_uno-raiser_MP  THEN raise 0.666666666667
+7_uno-raiser_MP  THEN raise 0.666666666667
+9_uno-raiser_HP  THEN raise 0.666666666667
+6_unopened_LP  THEN check
+4_uno-raiser_LP  THEN check
+6_unopened_LP  THEN check
+6_vs-bet_LP  THEN fold
+2_uno-victime_LP  THEN check
+3_uno-victime_MP  THEN check
+5_uno-victime_MP  THEN check
+6_vs-bet_HP  THEN fold
+4_uno-raiser_LP  THEN check
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+4_vs-bet_MP  THEN call
+5_unopened_LP  THEN check
+5_vs-bet_LP  THEN call
+8_uno-raiser_LP  THEN raise 0.671875
+7_uno-victime_MP  THEN check
+8_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+2_uno-raiser_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.5
+8_uno-victime_LP  THEN check
+4_uno-raiser_HP  THEN check
+5_uno-victime_MP  THEN check
+6_vs-bet_HP  THEN fold
+10_uno-raiser_LP  THEN raise 0.671875
+8_vs-bet_MP  THEN call
+9_vs-bet_HP  THEN raise 1.2380952381
+3_unopened_LP  THEN check
+8_uno-victime_LP  THEN check
+8_vs-bet_MP  THEN call
+1_uno-raiser_LP  THEN check
+4_vs-bet_HP  THEN fold
+9_uno-raiser_MP  THEN raise 0.5
+5_uno-victime_LP  THEN check
+4_uno-victime_MP  THEN check
+1_uno-victime_LP  THEN check
+1_vs-bet_MP  THEN fold
+7_uno-raiser_LP  THEN raise 0.671875
+7_uno-raiser_LP  THEN raise 0.5
+10_unopened_LP  THEN check
+0_vs-bet_MP  THEN fold
+8_uno-victime_MP  THEN check
+6_uno-victime_LP  THEN check
+2_vs-bet_MP  THEN fold
+6_unopened_LP  THEN raise 0.5
+2_uno-raiser_HP  THEN raise 0.5
+4_vs-bet_MP  THEN fold
+0_uno-raiser_LP  THEN check
+3_uno-victime_LP  THEN check
+2_uno-raiser_LP  THEN check
+5_uno-victime_LP  THEN check
+2_uno-raiser_LP  THEN check
+1_uno-raiser_LP  THEN check
+6_uno-raiser_LP  THEN check
+3_uno-victime_LP  THEN check
+5_uno-victime_HP  THEN check
+0_vs-bet_HP  THEN call
+1_vs-bet_MP  THEN call
+9_unopened_LP  THEN check
+9_vs-bet_LP  THEN call
+5_vs-bet_HP  THEN fold
+3_uno-raiser_LP  THEN check
+8_uno-victime_MP  THEN check
+2_vs-bet_MP  THEN call
+6_vs-bet_HP  THEN call
+5_uno-victime_LP  THEN check
+4_uno-raiser_LP  THEN raise 0.671875
+3_uno-victime_LP  THEN check
+3_vs-bet_HP  THEN fold
+6_uno-raiser_HP  THEN check
+4_unopened_LP  THEN check
+5_vs-bet_MP  THEN call
+8_uno-victime_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+10_uno-victime_LP  THEN check
+10_vs-bet_MP  THEN raise 1.25
+3_uno-victime_LP  THEN check
+6_uno-raiser_LP  THEN check
+8_uno-raiser_HP  THEN check
+1_uno-raiser_MP  THEN raise 0.75
+1_unopened_LP  THEN check
+5_vs-bet_LP  THEN call
+5_uno-raiser_HP  THEN raise 0.5
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+6_vs-bet_HP  THEN call
+5_vs-bet_MP  THEN fold
+4_uno-victime_MP  THEN check
+9_uno-raiser_LP  THEN raise 0.75
+7_uno-raiser_LP  THEN check
+2_uno-raiser_LP  THEN check
+5_uno-raiser_HP  THEN check
+2_vs-bet_MP  THEN fold
+0_uno-raiser_LP  THEN raise 0.671875
+6_uno-raiser_MP  THEN check
+10_uno-raiser_MP  THEN raise 0.666666666667
+9_vs-bet_LP  THEN call
+4_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN fold
+3_uno-victime_LP  THEN check
+1_uno-raiser_LP  THEN check
+0_uno-raiser_LP  THEN raise 0.5
+9_uno-victime_LP  THEN check
+0_uno-raiser_LP  THEN raise 0.671875
+0_uno-victime_MP  THEN check
+0_vs-bet_HP  THEN fold
+5_unopened_LP  THEN check
+4_uno-raiser_LP  THEN raise 0.671875
+10_vs-bet_MP  THEN call
+5_uno-raiser_HP  THEN check
+5_uno-victime_MP  THEN check
+5_vs-bet_HP  THEN fold
+4_uno-victime_HP  THEN check
+6_uno-victime_LP  THEN check
+5_vs-bet_LP  THEN fold
+8_uno-victime_LP  THEN raise 0.6625
+7_vs-bet_MP  THEN call
+7_unopened_LP  THEN check
+6_vs-bet_LP  THEN fold
+8_vs-bet_HP  THEN call
+4_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+7_uno-victime_MP  THEN check
+0_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+8_uno-raiser_LP  THEN raise 0.671875
+2_vs-bet_HP  THEN fold
+5_vs-bet_MP  THEN call
+9_unopened_LP  THEN check
+3_uno-victime_HP  THEN check
+4_unopened_LP  THEN check
+3_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+9_uno-victime_HP  THEN check
+8_uno-victime_MP  THEN check
+10_uno-raiser_LP  THEN raise 0.75
+6_uno-victime_LP  THEN check
+6_vs-bet_LP  THEN fold
+8_uno-raiser_LP  THEN raise 0.5
+8_vs-bet_HP  THEN fold
+5_vs-bet_HP  THEN call
+5_uno-raiser_LP  THEN raise 0.5
+10_uno-raiser_LP  THEN raise 0.75
+7_uno-victime_LP  THEN check
+3_unopened_LP  THEN check
+2_uno-raiser_LP  THEN raise 0.6625
+10_uno-raiser_LP  THEN check
+8_uno-victime_LP  THEN check
+9_unopened_LP  THEN check
+5_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+8_vs-bet_HP  THEN call
+6_unopened_LP  THEN check
+5_vs-bet_LP  THEN fold
+9_uno-raiser_LP  THEN raise 0.75
+7_unopened_LP  THEN check
+4_uno-raiser_LP  THEN raise 0.6625
+5_unopened_LP  THEN raise 0.5
+5_vs-bet_LP  THEN fold
+0_uno-raiser_LP  THEN check
+4_uno-raiser_LP  THEN raise 0.75
+5_unopened_LP  THEN check
+0_uno-raiser_LP  THEN raise 0.6625
+5_uno-raiser_LP  THEN raise 0.75
+2_uno-victime_MP  THEN check
+2_vs-bet_HP  THEN fold
+8_uno-victime_MP  THEN check
+2_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN call
+10_uno-victime_MP  THEN check
+3_uno-raiser_LP  THEN check
+4_uno-raiser_LP  THEN check
+5_uno-victime_MP  THEN check
+5_uno-victime_MP  THEN check
+6_vs-bet_HP  THEN call
+6_uno-victime_HP  THEN check
+5_uno-victime_HP  THEN check
+4_uno-raiser_LP  THEN check
+7_uno-raiser_MP  THEN check
+4_uno-raiser_LP  THEN check
+5_uno-victime_MP  THEN check
+9_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN call
+9_uno-raiser_LP  THEN raise 0.6625
+10_uno-victime_MP  THEN check
+10_vs-bet_HP  THEN raise 1.2
+10_vs-bet_HP  THEN call
+3_uno-raiser_LP  THEN check
+0_uno-raiser_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.6625
+5_uno-raiser_MP  THEN check
+7_unopened_LP  THEN check
+8_vs-bet_LP  THEN raise 1.10416666667
+4_vs-bet_HP  THEN fold
+9_unopened_LP  THEN raise 0.6625
+0_unopened_LP  THEN check
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+6_unopened_LP  THEN check
+7_vs-bet_LP  THEN fold
+6_unopened_LP  THEN check
+5_vs-bet_LP  THEN raise 0.925
+9_vs-bet_HP  THEN raise 1.0
+4_unopened_LP  THEN check
+3_vs-bet_LP  THEN call
+7_unopened_LP  THEN check
+5_vs-bet_HP  THEN call
+3_uno-raiser_LP  THEN check
+4_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN fold
+1_unopened_LP  THEN check
+10_uno-raiser_LP  THEN raise 0.671875
+5_vs-bet_HP  THEN fold
+9_uno-raiser_HP  THEN check
+6_uno-victime_LP  THEN check
+5_uno-victime_MP  THEN check
+6_vs-bet_HP  THEN call
+2_uno-victime_MP  THEN check
+2_vs-bet_HP  THEN fold
+5_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN fold
+9_vs-bet_HP  THEN call
+8_uno-raiser_LP  THEN check
+1_uno-victime_MP  THEN check
+0_vs-bet_HP  THEN fold
+2_uno-raiser_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+8_uno-raiser_LP  THEN raise 0.671875
+5_uno-raiser_HP  THEN check
+5_vs-bet_HP  THEN fold
+5_uno-victime_MP  THEN check
+6_vs-bet_HP  THEN fold
+4_uno-victime_MP  THEN check
+6_uno-victime_LP  THEN check
+5_vs-bet_LP  THEN fold
+8_uno-raiser_HP  THEN check
+7_vs-bet_HP  THEN fold
+9_uno-raiser_LP  THEN raise 0.675
+6_uno-victime_LP  THEN check
+3_uno-raiser_LP  THEN raise 0.675
+2_uno-victime_LP  THEN check
+8_uno-victime_LP  THEN check
+7_vs-bet_LP  THEN call
+1_uno-raiser_HP  THEN raise 0.5
+7_uno-victime_LP  THEN check
+7_vs-bet_LP  THEN fold
+2_uno-victime_LP  THEN check
+2_vs-bet_MP  THEN fold
+4_uno-raiser_LP  THEN check
+9_uno-victime_HP  THEN check
+4_uno-victime_LP  THEN check
+4_vs-bet_LP  THEN fold
+10_uno-victime_LP  THEN raise 0.666666666667
+5_uno-victime_LP  THEN check
+4_uno-victime_LP  THEN check
+6_uno-raiser_LP  THEN raise 0.675
+4_uno-victime_LP  THEN check
+4_vs-bet_LP  THEN fold
+0_uno-victime_LP  THEN check
+0_vs-bet_MP  THEN raise 1.11904761905
+0_vs-bet_HP  THEN raise 1.80245989305
+0_uno-victime_LP  THEN check
+0_vs-bet_LP  THEN raise 0.9
+7_uno-victime_HP  THEN check
+4_uno-raiser_HP  THEN raise 0.666666666667
+8_uno-raiser_LP  THEN check
+3_uno-victime_LP  THEN check
+3_vs-bet_MP  THEN fold
+8_uno-raiser_LP  THEN raise 0.6625
+4_vs-bet_HP  THEN fold
+9_uno-victime_LP  THEN check
+9_vs-bet_LP  THEN call
+4_vs-bet_HP  THEN call
+5_uno-victime_LP  THEN check
+4_vs-bet_LP  THEN fold
+5_uno-victime_LP  THEN check
+6_uno-victime_LP  THEN check
+6_vs-bet_LP  THEN fold
+4_uno-victime_LP  THEN check
+9_uno-victime_LP  THEN check
+6_uno-victime_LP  THEN check
+9_uno-victime_HP  THEN check
+5_uno-victime_LP  THEN check
+4_vs-bet_LP  THEN call
+7_uno-victime_MP  THEN check
+6_uno-raiser_HP  THEN raise 0.5
+9_uno-victime_LP  THEN check
+9_vs-bet_MP  THEN call
+9_uno-raiser_LP  THEN raise 0.75
+4_unopened_LP  THEN check
+6_uno-raiser_LP  THEN check
+4_unopened_LP  THEN check
+4_vs-bet_LP  THEN fold
+6_unopened_LP  THEN check
+5_unopened_LP  THEN check
+7_vs-bet_HP  THEN fold
+1_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+4_uno-raiser_LP  THEN check
+3_uno-raiser_LP  THEN check
+4_uno-victime_LP  THEN check
+4_vs-bet_LP  THEN call
+4_vs-bet_MP  THEN raise 0.895833333333
+2_uno-raiser_LP  THEN raise 0.5
+7_uno-victime_LP  THEN check
+7_vs-bet_HP  THEN fold
+7_uno-victime_LP  THEN check
+1_uno-victime_LP  THEN check
+2_vs-bet_HP  THEN fold
+8_uno-raiser_MP  THEN check
+5_uno-victime_LP  THEN check
+5_vs-bet_HP  THEN raise 1.22857142857
+4_uno-victime_LP  THEN check
+8_uno-victime_LP  THEN check
+7_vs-bet_HP  THEN call
+8_uno-raiser_MP  THEN raise 0.666666666667
+5_uno-raiser_MP  THEN check
+5_vs-bet_HP  THEN call
+2_vs-bet_HP  THEN fold
+10_uno-victime_LP  THEN check
+3_uno-raiser_MP  THEN raise 0.666666666667
+2_uno-victime_LP  THEN check
+4_uno-victime_LP  THEN check
+4_vs-bet_HP  THEN fold
+10_uno-victime_LP  THEN check
+5_uno-victime_LP  THEN check
+4_vs-bet_HP  THEN call
+3_uno-raiser_MP  THEN check
+3_uno-raiser_MP  THEN check
+2_vs-bet_HP  THEN fold
+1_uno-raiser_LP  THEN check
+9_vs-bet_MP  THEN raise 1.10416666667
+6_unopened_LP  THEN check
+9_vs-bet_MP  THEN call
+6_uno-victime_LP  THEN check
+6_vs-bet_MP  THEN call
+7_uno-raiser_LP  THEN raise 0.671875
+7_vs-bet_HP  THEN call
+4_uno-raiser_MP  THEN raise 0.666666666667
+8_uno-victime_LP  THEN check
+8_uno-victime_LP  THEN check
+2_vs-bet_HP  THEN fold
+4_vs-bet_HP  THEN call
+5_uno-raiser_MP  THEN check
+8_uno-victime_LP  THEN check
+7_uno-raiser_MP  THEN raise 0.666666666667
+8_uno-raiser_MP  THEN raise 0.666666666667
+9_uno-raiser_HP  THEN raise 0.666666666667
+9_uno-raiser_LP  THEN raise 0.671875
+5_uno-victime_LP  THEN check
+4_vs-bet_HP  THEN fold
+4_uno-victime_LP  THEN check
+5_uno-raiser_LP  THEN raise 0.75
+5_uno-raiser_LP  THEN check
+8_vs-bet_LP  THEN call
+6_uno-raiser_HP  THEN check
+4_uno-raiser_LP  THEN raise 0.671875
+1_unopened_LP  THEN raise 0.5
+4_uno-victime_LP  THEN check
+4_vs-bet_LP  THEN fold
+6_uno-victime_LP  THEN check
+10_uno-raiser_LP  THEN raise 0.75
+5_uno-raiser_HP  THEN raise 0.583333333333
+0_uno-raiser_LP  THEN raise 0.671875
+9_uno-raiser_HP  THEN raise 0.75
+9_uno-raiser_LP  THEN raise 0.75
+7_unopened_LP  THEN check
+0_uno-victime_LP  THEN check
+9_uno-victime_LP  THEN check
+7_vs-bet_HP  THEN fold
+8_uno-raiser_HP  THEN raise 0.5
+3_uno-raiser_LP  THEN check
+1_vs-bet_LP  THEN call
+4_vs-bet_HP  THEN call
+4_uno-raiser_HP  THEN raise 0.5
+8_uno-raiser_LP  THEN check
+4_uno-victime_LP  THEN check
+4_vs-bet_HP  THEN fold
+2_uno-raiser_LP  THEN check
+1_uno-raiser_LP  THEN check
+8_uno-victime_LP  THEN check
+8_uno-victime_LP  THEN check
+4_uno-victime_MP  THEN check
+7_uno-raiser_LP  THEN check
+3_uno-victime_LP  THEN check
+3_vs-bet_HP  THEN fold
+5_uno-raiser_LP  THEN check
+1_uno-raiser_LP  THEN check
+4_uno-raiser_LP  THEN raise 0.671875
+9_unopened_LP  THEN check
+1_uno-victime_LP  THEN check
+3_uno-raiser_MP  THEN raise 0.5
+1_vs-bet_HP  THEN fold
+5_uno-raiser_LP  THEN raise 0.671875
+5_uno-victime_LP  THEN check
+7_vs-bet_HP  THEN call
+8_uno-victime_LP  THEN check
+5_uno-raiser_HP  THEN raise 0.5
+1_unopened_LP  THEN check
+3_uno-raiser_LP  THEN check
+9_unopened_LP  THEN check
+9_vs-bet_LP  THEN raise 1.34375
+4_uno-raiser_LP  THEN raise 0.671875
+1_uno-victime_LP  THEN check
+1_vs-bet_HP  THEN fold
+0_uno-victime_LP  THEN check
+0_unopened_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.625
+6_uno-raiser_MP  THEN check
+9_uno-victime_LP  THEN check
+4_vs-bet_MP  THEN call
+7_uno-raiser_LP  THEN raise 0.5
+9_uno-raiser_HP  THEN raise 0.5
+9_uno-raiser_LP  THEN raise 0.6875
+2_uno-raiser_LP  THEN check
+5_uno-victime_LP  THEN check
+6_vs-bet_HP  THEN fold
+2_uno-victime_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+2_vs-bet_HP  THEN fold
+5_uno-raiser_HP  THEN raise 0.5
+1_uno-raiser_LP  THEN raise 0.5
+6_uno-victime_LP  THEN check
+6_vs-bet_LP  THEN call
+4_uno-raiser_HP  THEN raise 0.666666666667
+5_uno-raiser_LP  THEN raise 0.7
+3_uno-raiser_MP  THEN raise 0.666666666667
+1_vs-bet_HP  THEN call
+7_uno-victime_LP  THEN check
+4_uno-victime_LP  THEN check
+4_vs-bet_LP  THEN fold
+5_uno-raiser_LP  THEN check
+5_uno-raiser_HP  THEN check
+8_uno-raiser_MP  THEN raise 0.666666666667
+4_uno-raiser_MP  THEN raise 0.5
+10_uno-raiser_MP  THEN raise 0.666666666667
+5_uno-victime_LP  THEN check
+0_uno-raiser_LP  THEN check
+1_uno-raiser_LP  THEN check
+9_vs-bet_MP  THEN raise 0.583333333333
+8_uno-raiser_HP  THEN raise 0.5
+9_vs-bet_HP  THEN call
+7_uno-victime_LP  THEN check
+0_uno-victime_LP  THEN check
+0_vs-bet_LP  THEN call
+3_uno-raiser_HP  THEN raise 0.666666666667
+7_uno-victime_MP  THEN check
+3_uno-victime_LP  THEN check
+3_vs-bet_HP  THEN fold
+6_vs-bet_HP  THEN call
+9_uno-victime_MP  THEN check
+8_uno-victime_MP  THEN check
+8_vs-bet_HP  THEN call
+7_uno-victime_LP  THEN check
+7_vs-bet_HP  THEN call
+1_uno-raiser_LP  THEN check
+0_vs-bet_HP  THEN fold
+6_uno-victime_LP  THEN check
+6_vs-bet_HP  THEN call
+0_vs-bet_HP  THEN call
+6_uno-victime_LP  THEN check
+6_vs-bet_HP  THEN fold
+0_uno-victime_LP  THEN check
+0_vs-bet_HP  THEN fold
+3_uno-victime_LP  THEN check
+3_uno-raiser_LP  THEN check
+5_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN fold
+10_uno-victime_MP  THEN check
+1_uno-victime_MP  THEN check
+4_uno-victime_MP  THEN check
+0_uno-victime_MP  THEN check
+0_vs-bet_HP  THEN fold
+9_uno-raiser_LP  THEN raise 0.6625
+1_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN fold
+7_uno-victime_MP  THEN check
+3_uno-victime_MP  THEN check
+10_uno-raiser_LP  THEN raise 0.671875
+6_uno-victime_LP  THEN check
+5_vs-bet_LP  THEN fold
+8_uno-raiser_LP  THEN raise 0.6625
+0_uno-raiser_LP  THEN check
+0_uno-raiser_LP  THEN raise 0.75
+6_uno-raiser_LP  THEN raise 0.6625
+2_uno-raiser_LP  THEN raise 0.6625
+5_uno-victime_LP  THEN check
+6_vs-bet_LP  THEN raise 1.0
+5_vs-bet_HP  THEN fold
+6_uno-raiser_LP  THEN check
+2_uno-raiser_LP  THEN raise 0.75
+8_uno-raiser_LP  THEN check
+1_uno-victime_LP  THEN check
+1_vs-bet_LP  THEN fold
+4_uno-raiser_LP  THEN raise 0.6625
+0_uno-victime_LP  THEN check
+0_vs-bet_LP  THEN raise 1.2
+8_uno-raiser_LP  THEN raise 0.75
+5_uno-raiser_HP  THEN raise 1.10861111111
+6_uno-raiser_LP  THEN check
+5_uno-victime_LP  THEN check
+4_vs-bet_LP  THEN fold
+0_uno-raiser_LP  THEN raise 0.625
+4_uno-raiser_LP  THEN check
+2_uno-raiser_LP  THEN check
+8_uno-victime_LP  THEN check
+7_vs-bet_LP  THEN call
+2_uno-raiser_LP  THEN raise 0.6625
+7_uno-raiser_LP  THEN check
+7_uno-raiser_LP  THEN check
+8_uno-victime_LP  THEN check
+9_vs-bet_LP  THEN call
+8_uno-raiser_LP  THEN check
+0_uno-victime_LP  THEN check
+1_uno-raiser_LP  THEN check
+9_uno-victime_LP  THEN check
+9_vs-bet_LP  THEN call
+9_uno-raiser_LP  THEN raise 0.6625
+5_uno-victime_LP  THEN check
+3_uno-raiser_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.75
+2_uno-victime_LP  THEN check
+4_vs-bet_LP  THEN fold
+7_uno-raiser_LP  THEN raise 0.6625
+10_uno-raiser_LP  THEN raise 0.75
+3_uno-raiser_LP  THEN raise 0.75
+2_uno-raiser_HP  THEN raise 0.666666666667
+2_vs-bet_HP  THEN fold
+5_uno-raiser_LP  THEN raise 0.75
+9_uno-raiser_HP  THEN raise 0.5
+6_uno-raiser_LP  THEN check
+7_uno-raiser_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.666666666667
+7_vs-bet_HP  THEN call
+7_uno-raiser_LP  THEN check
+9_uno-victime_LP  THEN raise 0.75
+1_uno-raiser_LP  THEN check
+1_uno-raiser_HP  THEN raise 0.666666666667
+9_uno-raiser_LP  THEN raise 0.6625
+2_uno-raiser_LP  THEN raise 0.75
+6_uno-raiser_LP  THEN raise 0.6625
+3_uno-raiser_LP  THEN check
+5_uno-raiser_LP  THEN check
+9_uno-victime_LP  THEN check
+9_vs-bet_LP  THEN call
+2_uno-raiser_LP  THEN check
+5_uno-raiser_HP  THEN raise 0.5
+6_uno-raiser_LP  THEN check
+6_uno-raiser_LP  THEN raise 0.6625
+8_uno-victime_LP  THEN check
+8_vs-bet_LP  THEN call
+1_uno-victime_LP  THEN check
+6_unopened_LP  THEN raise 0.6625
+8_uno-victime_LP  THEN check
+7_vs-bet_LP  THEN call
+7_uno-raiser_LP  THEN check
+2_uno-victime_LP  THEN check
+2_vs-bet_LP  THEN fold
+8_uno-raiser_LP  THEN raise 0.6625
+6_unopened_LP  THEN raise 0.5
+0_uno-raiser_LP  THEN check
+3_uno-victime_LP  THEN check
+1_uno-raiser_LP  THEN raise 0.25
+4_uno-raiser_MP  THEN raise 0.5
+7_uno-raiser_LP  THEN raise 0.75
+4_uno-raiser_LP  THEN raise 0.666666666667
+5_vs-bet_HP  THEN raise 0.769230769231
+1_uno-raiser_LP  THEN raise 0.6625
+7_uno-raiser_MP  THEN raise 0.666666666667
+6_vs-bet_HP  THEN fold
+3_uno-raiser_LP  THEN raise 0.666666666667
+3_uno-raiser_LP  THEN raise 0.6625
+4_vs-bet_MP  THEN fold
+1_unopened_LP  THEN check
+0_unopened_LP  THEN check
+6_uno-raiser_LP  THEN raise 0.5
+5_uno-raiser_LP  THEN raise 0.666666666667
+9_uno-raiser_LP  THEN raise 0.375
+7_uno-raiser_MP  THEN check
+6_vs-bet_HP  THEN call
+0_unopened_LP  THEN check
+7_unopened_LP  THEN check
+2_uno-raiser_LP  THEN raise 0.5
+8_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+2_unopened_LP  THEN check
+2_vs-bet_LP  THEN raise 1.25
+6_unopened_LP  THEN raise 0.5
+8_uno-raiser_LP  THEN raise 0.666666666667
+10_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+5_uno-raiser_MP  THEN raise 0.666666666667
+1_unopened_LP  THEN check
+2_vs-bet_HP  THEN fold
+6_uno-raiser_LP  THEN raise 0.6625
+6_vs-bet_HP  THEN fold
+0_unopened_LP  THEN raise 0.5
+0_unopened_LP  THEN check
+0_vs-bet_MP  THEN fold
+3_uno-raiser_LP  THEN raise 0.5
+4_uno-raiser_LP  THEN raise 0.75
+4_uno-raiser_LP  THEN raise 0.666666666667
+6_vs-bet_HP  THEN fold
+6_uno-raiser_LP  THEN raise 0.6625
+6_unopened_LP  THEN raise 0.5
+3_vs-bet_HP  THEN fold
+1_uno-victime_LP  THEN check
+3_vs-bet_MP  THEN fold
+5_vs-bet_LP  THEN call
+5_vs-bet_MP  THEN fold
+6_unopened_LP  THEN check
+6_vs-bet_LP  THEN call
+9_uno-raiser_LP  THEN raise 0.3
+9_vs-bet_MP  THEN raise 0.884615384615
+2_unopened_LP  THEN check
+0_unopened_LP  THEN check
+0_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+2_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+1_uno-raiser_LP  THEN check
+1_uno-victime_LP  THEN check
+1_vs-bet_LP  THEN fold
+8_uno-raiser_HP  THEN raise 0.666666666667
+4_uno-raiser_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.375
+3_uno-raiser_LP  THEN raise 0.671875
+9_uno-raiser_HP  THEN raise 0.75
+8_unopened_LP  THEN check
+3_uno-raiser_LP  THEN raise 0.671875
+3_unopened_LP  THEN check
+3_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+3_unopened_LP  THEN check
+1_unopened_LP  THEN check
+7_unopened_LP  THEN check
+0_unopened_LP  THEN check
+5_unopened_LP  THEN check
+6_unopened_LP  THEN check
+0_unopened_LP  THEN check
+5_unopened_LP  THEN check
+6_uno-raiser_MP  THEN raise 13.02875
+9_unopened_LP  THEN raise 0.75
+0_unopened_LP  THEN check
+9_uno-raiser_MP  THEN raise 0.666666666667
+9_vs-bet_HP  THEN call
+6_uno-raiser_MP  THEN raise 0.666666666667
+5_vs-bet_HP  THEN fold
+10_uno-raiser_LP  THEN raise 0.671875
+0_uno-victime_LP  THEN check
+4_vs-bet_HP  THEN fold
+5_unopened_LP  THEN check
+9_uno-victime_LP  THEN check
+3_uno-raiser_LP  THEN raise 0.671875
+7_unopened_LP  THEN check
+3_uno-raiser_LP  THEN raise 0.671875
+8_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+0_unopened_LP  THEN raise 0.75
+1_uno-victime_LP  THEN check
+1_vs-bet_MP  THEN call
+4_uno-raiser_LP  THEN check
+5_uno-raiser_LP  THEN check
+1_uno-victime_LP  THEN check
+9_unopened_LP  THEN raise 0.6625
+1_uno-raiser_LP  THEN raise 0.75
+5_uno-victime_LP  THEN check
+5_vs-bet_MP  THEN fold
+9_uno-raiser_LP  THEN raise 0.671875
+9_vs-bet_HP  THEN call
+7_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+7_unopened_LP  THEN raise 0.6625
+2_uno-victime_LP  THEN check
+2_vs-bet_MP  THEN fold
+5_uno-raiser_LP  THEN check
+4_uno-raiser_LP  THEN check
+5_unopened_LP  THEN check
+5_vs-bet_LP  THEN fold
+9_uno-raiser_LP  THEN raise 0.671875
+0_vs-bet_HP  THEN call
+8_uno-victime_LP  THEN check
+8_vs-bet_MP  THEN call
+5_uno-raiser_LP  THEN check
+9_vs-bet_HP  THEN raise 2.680125
+8_uno-victime_LP  THEN check
+2_uno-victime_LP  THEN check
+2_vs-bet_MP  THEN fold
+2_uno-raiser_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.671875
+7_vs-bet_HP  THEN call
+9_uno-raiser_LP  THEN raise 0.671875
+7_uno-victime_LP  THEN check
+8_vs-bet_HP  THEN call
+0_uno-raiser_LP  THEN raise 0.671875
+4_uno-raiser_HP  THEN raise 0.5
+5_uno-victime_LP  THEN check
+6_uno-raiser_LP  THEN raise 0.671875
+6_vs-bet_HP  THEN call
+0_uno-victime_LP  THEN check
+0_vs-bet_MP  THEN fold
+8_uno-raiser_LP  THEN raise 0.671875
+1_uno-victime_LP  THEN check
+5_uno-victime_HP  THEN check
+3_uno-victime_LP  THEN check
+8_unopened_LP  THEN check
+3_uno-raiser_LP  THEN check
+7_uno-victime_LP  THEN check
+5_vs-bet_HP  THEN fold
+9_uno-raiser_LP  THEN raise 0.671875
+8_uno-victime_MP  THEN check
+8_vs-bet_HP  THEN call
+10_uno-raiser_LP  THEN raise 0.5
+9_uno-raiser_LP  THEN raise 0.671875
+9_uno-victime_LP  THEN check
+9_vs-bet_HP  THEN call
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN raise 1.10416666667
+6_vs-bet_HP  THEN fold
+9_unopened_LP  THEN raise 0.6625
+0_unopened_LP  THEN check
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+6_unopened_LP  THEN check
+7_vs-bet_LP  THEN fold
+5_unopened_LP  THEN check
+5_vs-bet_LP  THEN raise 0.925
+9_vs-bet_HP  THEN raise 1.0
+3_unopened_LP  THEN check
+3_vs-bet_LP  THEN call
+7_unopened_LP  THEN check
+7_uno-victime_MP  THEN check
+8_vs-bet_HP  THEN call
+9_vs-bet_HP  THEN call
+2_uno-victime_LP  THEN check
+2_vs-bet_HP  THEN fold
+1_uno-victime_MP  THEN check
+5_uno-raiser_LP  THEN check
+9_uno-victime_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.671875
+4_uno-raiser_LP  THEN check
+1_uno-victime_LP  THEN check
+9_vs-bet_HP  THEN call
+5_vs-bet_HP  THEN fold
+7_vs-bet_HP  THEN call
+6_uno-victime_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.671875
+9_uno-victime_LP  THEN check
+0_uno-raiser_MP  THEN check
+4_uno-victime_MP  THEN check
+5_vs-bet_HP  THEN fold
+0_uno-raiser_LP  THEN raise 0.671875
+9_uno-victime_HP  THEN check
+9_uno-raiser_LP  THEN check
+4_uno-raiser_LP  THEN check
+1_vs-bet_HP  THEN fold
+8_uno-raiser_LP  THEN raise 0.671875
+8_uno-victime_MP  THEN check
+6_uno-victime_LP  THEN check
+4_vs-bet_HP  THEN fold
+6_uno-victime_LP  THEN check
+8_vs-bet_MP  THEN call
+2_uno-raiser_LP  THEN check
+4_uno-raiser_LP  THEN check
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN fold
+2_uno-raiser_LP  THEN check
+2_uno-victime_LP  THEN check
+7_uno-victime_LP  THEN check
+6_unopened_LP  THEN check
+0_uno-victime_LP  THEN check
+0_vs-bet_MP  THEN fold
+7_uno-raiser_LP  THEN raise 0.5
+4_uno-victime_MP  THEN check
+5_uno-raiser_LP  THEN raise 0.5
+3_uno-victime_LP  THEN raise 0.25
+0_uno-raiser_LP  THEN raise 0.5
+5_uno-victime_LP  THEN check
+5_vs-bet_LP  THEN fold
+9_uno-raiser_LP  THEN raise 0.5
+2_uno-victime_LP  THEN check
+2_vs-bet_LP  THEN fold
+7_uno-raiser_LP  THEN raise 0.6625
+7_vs-bet_MP  THEN call
+3_uno-victime_LP  THEN check
+1_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN fold
+7_uno-raiser_LP  THEN check
+0_vs-bet_HP  THEN fold
+4_vs-bet_LP  THEN call
+7_uno-raiser_LP  THEN raise 0.671875
+6_vs-bet_HP  THEN call
+5_uno-raiser_LP  THEN raise 0.671875
+6_uno-victime_MP  THEN check
+6_uno-raiser_HP  THEN raise 0.666666666667
+9_uno-raiser_LP  THEN raise 0.25
+4_vs-bet_HP  THEN call
+1_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN fold
+5_vs-bet_MP  THEN fold
+6_uno-raiser_MP  THEN raise 0.75
+8_uno-victime_MP  THEN check
+8_vs-bet_HP  THEN call
+8_vs-bet_MP  THEN raise 1.39285714286
+9_uno-raiser_HP  THEN raise 0.666666666667
+7_unopened_LP  THEN check
+1_uno-raiser_LP  THEN raise 0.671875
+3_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+1_uno-raiser_LP  THEN raise 0.5
+0_uno-victime_LP  THEN check
+1_vs-bet_MP  THEN fold
+9_uno-raiser_LP  THEN raise 0.6625
+7_uno-raiser_LP  THEN check
+7_uno-victime_LP  THEN check
+5_uno-raiser_LP  THEN check
+8_uno-raiser_HP  THEN raise 0.5
+5_uno-victime_LP  THEN check
+9_vs-bet_HP  THEN raise 1.2380952381
+9_vs-bet_HP  THEN call
+5_uno-raiser_LP  THEN check
+0_uno-victime_HP  THEN raise 0.666666666667
+9_uno-raiser_LP  THEN raise 0.666666666667
+9_uno-victime_LP  THEN check
+9_vs-bet_MP  THEN call
+3_uno-victime_MP  THEN check
+0_uno-raiser_LP  THEN raise 0.6625
+5_vs-bet_HP  THEN call
+4_uno-victime_LP  THEN check
+4_vs-bet_MP  THEN call
+2_uno-raiser_LP  THEN check
+2_vs-bet_MP  THEN fold
+4_uno-victime_LP  THEN check
+3_uno-raiser_LP  THEN check
+0_vs-bet_LP  THEN fold
+5_uno-raiser_LP  THEN raise 0.6625
+8_uno-victime_LP  THEN check
+5_vs-bet_HP  THEN fold
+9_uno-raiser_HP  THEN raise 0.666666666667
+5_uno-raiser_HP  THEN check
+7_uno-raiser_LP  THEN check
+3_uno-victime_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.6625
+7_uno-victime_LP  THEN raise 0.666666666667
+4_uno-raiser_LP  THEN check
+5_uno-victime_MP  THEN check
+5_uno-raiser_LP  THEN raise 0.6625
+5_vs-bet_HP  THEN fold
+4_uno-raiser_LP  THEN raise 0.5
+8_uno-raiser_LP  THEN check
+8_uno-victime_LP  THEN check
+1_unopened_LP  THEN check
+3_uno-raiser_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.6625
+7_uno-raiser_LP  THEN raise 0.671875
+3_uno-raiser_MP  THEN raise 0.666666666667
+8_uno-raiser_LP  THEN check
+1_unopened_LP  THEN check
+1_vs-bet_HP  THEN fold
+2_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+3_uno-raiser_LP  THEN check
+5_vs-bet_HP  THEN fold
+5_unopened_LP  THEN check
+7_vs-bet_LP  THEN fold
+7_uno-raiser_MP  THEN check
+10_uno-victime_HP  THEN raise 0.277777777778
+2_uno-raiser_MP  THEN check
+4_uno-victime_MP  THEN check
+5_vs-bet_HP  THEN fold
+3_uno-raiser_MP  THEN check
+7_uno-raiser_MP  THEN raise 0.25
+6_uno-raiser_HP  THEN check
+7_uno-victime_MP  THEN check
+7_uno-raiser_HP  THEN check
+6_vs-bet_HP  THEN fold
+7_uno-raiser_MP  THEN check
+0_uno-victime_MP  THEN check
+0_uno-victime_MP  THEN check
+0_vs-bet_HP  THEN call
+0_uno-raiser_LP  THEN check
+0_uno-victime_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+8_vs-bet_HP  THEN call
+8_unopened_LP  THEN check
+9_uno-raiser_MP  THEN raise 0.666666666667
+9_vs-bet_HP  THEN call
+6_uno-raiser_LP  THEN raise 0.671875
+3_uno-victime_MP  THEN check
+6_uno-victime_MP  THEN check
+9_uno-raiser_LP  THEN raise 0.6625
+9_uno-victime_HP  THEN raise 0.673076923077
+3_uno-raiser_MP  THEN check
+3_uno-victime_MP  THEN check
+3_uno-victime_HP  THEN check
+0_uno-raiser_MP  THEN raise 0.666666666667
+9_uno-victime_MP  THEN check
+5_uno-raiser_LP  THEN raise 0.25
+5_vs-bet_HP  THEN fold
+5_uno-raiser_HP  THEN raise 0.5
+7_unopened_LP  THEN raise 0.6625
+5_vs-bet_HP  THEN fold
+2_uno-victime_HP  THEN check
+3_uno-victime_MP  THEN check
+9_uno-raiser_MP  THEN raise 0.666666666667
+6_uno-raiser_MP  THEN check
+2_uno-victime_MP  THEN check
+4_uno-raiser_HP  THEN raise 0.5
+8_uno-raiser_MP  THEN raise 0.666666666667
+3_uno-victime_MP  THEN check
+5_uno-raiser_MP  THEN check
+1_uno-victime_MP  THEN check
+0_vs-bet_HP  THEN fold
+2_uno-victime_LP  THEN check
+1_uno-victime_MP  THEN check
+7_uno-raiser_MP  THEN raise 0.666666666667
+9_uno-raiser_HP  THEN raise 0.5
+1_uno-victime_MP  THEN check
+4_uno-raiser_LP  THEN raise 0.671875
+9_uno-victime_MP  THEN check
+1_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN fold
+3_uno-victime_MP  THEN check
+4_uno-raiser_LP  THEN check
+4_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN call
+0_uno-victime_MP  THEN raise 0.666666666667
+4_uno-victime_MP  THEN check
+4_uno-raiser_LP  THEN check
+7_uno-victime_MP  THEN check
+4_uno-victime_LP  THEN check
+6_uno-raiser_HP  THEN check
+8_uno-victime_MP  THEN raise 0.75
+2_uno-victime_MP  THEN check
+8_uno-victime_HP  THEN check
+3_uno-raiser_LP  THEN check
+6_uno-victime_LP  THEN check
+9_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN raise 1.25
+3_uno-victime_HP  THEN check
+4_uno-victime_MP  THEN check
+6_uno-raiser_LP  THEN raise 0.671875
+5_uno-raiser_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.671875
+1_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+2_unopened_LP  THEN check
+1_vs-bet_LP  THEN call
+7_uno-raiser_LP  THEN raise 0.6625
+6_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+1_uno-raiser_LP  THEN raise 0.7
+8_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+4_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+0_unopened_LP  THEN raise 0.5
+4_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+7_vs-bet_LP  THEN call
+6_unopened_LP  THEN check
+6_vs-bet_LP  THEN call
+2_unopened_LP  THEN check
+10_vs-bet_HP  THEN call
+9_uno-raiser_LP  THEN raise 0.6625
+4_vs-bet_LP  THEN call
+9_unopened_LP  THEN raise 0.75
+3_vs-bet_MP  THEN fold
+6_unopened_LP  THEN check
+5_vs-bet_LP  THEN raise 1.5
+0_uno-raiser_LP  THEN raise 0.75
+2_uno-victime_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.75
+1_uno-victime_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.75
+1_unopened_LP  THEN raise 0.5
+2_vs-bet_HP  THEN fold
+4_uno-victime_LP  THEN check
+3_vs-bet_LP  THEN call
+5_uno-raiser_LP  THEN raise 0.75
+2_uno-raiser_LP  THEN raise 0.5
+7_uno-raiser_LP  THEN raise 0.75
+5_uno-raiser_LP  THEN raise 0.6625
+9_uno-victime_LP  THEN check
+9_vs-bet_LP  THEN call
+7_uno-raiser_LP  THEN raise 0.875
+6_uno-raiser_LP  THEN raise 0.583333333333
+3_unopened_LP  THEN check
+2_uno-victime_LP  THEN check
+2_vs-bet_MP  THEN fold
+8_uno-victime_LP  THEN check
+9_vs-bet_MP  THEN call
+3_uno-raiser_LP  THEN raise 0.75
+8_vs-bet_LP  THEN call
+2_uno-raiser_LP  THEN check
+7_unopened_LP  THEN raise 0.75
+3_unopened_LP  THEN raise 0.75
+4_uno-victime_LP  THEN check
+0_unopened_LP  THEN check
+0_unopened_LP  THEN check
+3_uno-raiser_LP  THEN raise 0.6625
+4_unopened_LP  THEN raise 0.75
+5_uno-raiser_LP  THEN check
+7_vs-bet_HP  THEN call
+8_uno-victime_LP  THEN check
+10_unopened_LP  THEN raise 0.75
+1_vs-bet_HP  THEN fold
+0_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+4_uno-raiser_LP  THEN raise 0.75
+4_uno-victime_LP  THEN check
+5_vs-bet_HP  THEN call
+8_uno-raiser_LP  THEN raise 0.875
+10_uno-raiser_LP  THEN raise 0.6625
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+4_uno-raiser_LP  THEN raise 0.75
+3_unopened_LP  THEN raise 0.75
+8_uno-raiser_LP  THEN raise 0.75
+1_unopened_LP  THEN check
+0_vs-bet_LP  THEN call
+1_uno-raiser_LP  THEN check
+7_unopened_LP  THEN check
+6_vs-bet_LP  THEN fold
+4_vs-bet_HP  THEN fold
+0_uno-victime_LP  THEN raise 0.75
+8_uno-raiser_LP  THEN raise 0.375
+8_uno-raiser_LP  THEN raise 0.75
+4_uno-victime_LP  THEN check
+4_vs-bet_MP  THEN fold
+7_uno-raiser_LP  THEN raise 0.6625
+2_vs-bet_LP  THEN fold
+8_uno-raiser_LP  THEN raise 0.625
+8_vs-bet_HP  THEN call
+1_uno-victime_LP  THEN check
+1_vs-bet_MP  THEN raise 1.2380952381
+0_uno-victime_LP  THEN check
+1_vs-bet_MP  THEN fold
+1_uno-victime_LP  THEN check
+3_vs-bet_MP  THEN fold
+0_uno-raiser_LP  THEN check
+6_uno-victime_LP  THEN check
+9_unopened_LP  THEN raise 0.75
+8_uno-raiser_LP  THEN raise 0.6625
+8_uno-victime_LP  THEN raise 0.75
+1_vs-bet_HP  THEN call
+9_uno-victime_LP  THEN check
+8_vs-bet_MP  THEN call
+9_uno-victime_MP  THEN raise 0.708333333333
+4_uno-victime_LP  THEN check
+4_vs-bet_MP  THEN fold
+0_vs-bet_HP  THEN fold
+7_uno-victime_LP  THEN raise 0.666666666667
+3_unopened_LP  THEN check
+5_vs-bet_LP  THEN call
+0_uno-victime_LP  THEN raise 0.666666666667
+1_vs-bet_LP  THEN call
+4_uno-victime_LP  THEN check
+2_vs-bet_MP  THEN fold
+2_unopened_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.5
+3_uno-victime_LP  THEN check
+2_uno-victime_HP  THEN check
+2_unopened_LP  THEN check
+2_vs-bet_LP  THEN raise 1.39285714286
+7_uno-raiser_LP  THEN raise 0.6625
+3_unopened_LP  THEN check
+10_uno-raiser_LP  THEN raise 0.75
+1_uno-victime_LP  THEN check
+1_vs-bet_LP  THEN fold
+0_unopened_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.75
+3_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+8_uno-victime_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.75
+8_uno-victime_LP  THEN raise 0.75
+5_uno-raiser_HP  THEN raise 0.5
+5_vs-bet_HP  THEN fold
+7_uno-victime_LP  THEN check
+7_vs-bet_MP  THEN raise 1.2380952381
+2_vs-bet_LP  THEN fold
+0_uno-raiser_LP  THEN raise 0.6625
+3_uno-raiser_HP  THEN raise 0.666666666667
+6_uno-raiser_LP  THEN raise 0.75
+2_uno-victime_LP  THEN check
+4_uno-raiser_LP  THEN raise 0.75
+8_uno-raiser_LP  THEN raise 0.666666666667
+6_uno-raiser_LP  THEN raise 0.6625
+6_vs-bet_MP  THEN call
+8_uno-victime_LP  THEN raise 0.75
+4_uno-raiser_LP  THEN raise 0.666666666667
+9_uno-raiser_LP  THEN raise 0.671875
+2_uno-victime_MP  THEN check
+8_uno-victime_LP  THEN raise 0.75
+4_uno-raiser_LP  THEN raise 0.6625
+2_uno-victime_LP  THEN check
+3_uno-victime_LP  THEN check
+2_vs-bet_MP  THEN fold
+7_uno-raiser_LP  THEN raise 0.75
+9_uno-raiser_HP  THEN raise 0.666666666667
+0_uno-victime_MP  THEN check
+9_uno-raiser_LP  THEN raise 0.75
+8_uno-raiser_LP  THEN raise 0.75
+5_uno-victime_LP  THEN check
+5_vs-bet_MP  THEN fold
+9_vs-bet_LP  THEN raise 1.05
+9_vs-bet_HP  THEN call
+9_unopened_LP  THEN check
+9_vs-bet_LP  THEN raise 1.39285714286
+7_uno-raiser_LP  THEN raise 0.75
+9_vs-bet_HP  THEN call
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+3_vs-bet_LP  THEN raise 1.05
+8_uno-raiser_LP  THEN raise 0.671875
+1_unopened_LP  THEN raise 1.0
+2_uno-victime_MP  THEN check
+2_unopened_LP  THEN raise 0.75
+0_uno-raiser_LP  THEN check
+0_uno-raiser_LP  THEN raise 0.75
+8_uno-victime_LP  THEN check
+8_vs-bet_MP  THEN call
+6_uno-raiser_LP  THEN raise 0.583333333333
+5_unopened_LP  THEN check
+5_vs-bet_LP  THEN call
+3_uno-raiser_LP  THEN raise 1.16666666667
+8_uno-victime_LP  THEN raise 0.75
+4_vs-bet_HP  THEN fold
+3_vs-bet_LP  THEN fold
+6_uno-raiser_LP  THEN check
+1_unopened_LP  THEN check
+1_vs-bet_LP  THEN raise 1.125
+9_vs-bet_LP  THEN raise 1.39285714286
+5_uno-victime_LP  THEN check
+5_vs-bet_MP  THEN fold
+7_uno-raiser_LP  THEN raise 0.75
+4_uno-victime_LP  THEN check
+2_vs-bet_LP  THEN call
+4_uno-victime_LP  THEN check
+4_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+5_vs-bet_HP  THEN fold
+2_vs-bet_MP  THEN fold
+9_unopened_LP  THEN raise 0.6625
+7_uno-raiser_LP  THEN check
+8_uno-victime_MP  THEN check
+5_unopened_LP  THEN check
+6_vs-bet_LP  THEN fold
+4_uno-raiser_LP  THEN check
+1_uno-raiser_MP  THEN check
+8_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+8_vs-bet_LP  THEN call
+5_unopened_LP  THEN check
+4_uno-raiser_LP  THEN check
+6_unopened_LP  THEN check
+5_vs-bet_LP  THEN call
+3_unopened_LP  THEN check
+8_vs-bet_HP  THEN call
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN fold
+0_unopened_LP  THEN check
+6_vs-bet_MP  THEN call
+2_unopened_LP  THEN check
+3_unopened_LP  THEN check
+8_vs-bet_MP  THEN call
+9_uno-raiser_MP  THEN raise 0.666666666667
+6_unopened_LP  THEN check
+3_unopened_LP  THEN check
+4_vs-bet_LP  THEN call
+7_uno-raiser_MP  THEN raise 0.666666666667
+1_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+7_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+8_uno-raiser_LP  THEN raise 0.671875
+8_uno-raiser_MP  THEN check
+4_unopened_LP  THEN check
+0_unopened_LP  THEN check
+1_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+4_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+5_uno-victime_LP  THEN check
+6_vs-bet_LP  THEN call
+5_unopened_LP  THEN check
+8_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+2_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+8_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+7_vs-bet_LP  THEN call
+9_uno-raiser_LP  THEN raise 0.25
+6_uno-raiser_MP  THEN check
+3_vs-bet_HP  THEN call
+0_uno-victime_LP  THEN check
+0_vs-bet_MP  THEN fold
+6_uno-victime_LP  THEN check
+4_uno-raiser_LP  THEN check
+6_uno-raiser_LP  THEN raise 0.5
+4_uno-victime_LP  THEN check
+4_vs-bet_MP  THEN fold
+8_uno-raiser_LP  THEN check
+6_uno-raiser_MP  THEN raise 0.666666666667
+2_uno-victime_LP  THEN check
+2_vs-bet_MP  THEN call
+5_uno-raiser_MP  THEN raise 0.666666666667
+6_uno-raiser_HP  THEN raise 0.666666666667
+7_vs-bet_HP  THEN raise 0.804207317073
+9_uno-raiser_LP  THEN raise 0.6625
+4_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN call
+8_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN raise 1.25
+9_vs-bet_HP  THEN call
+6_unopened_LP  THEN check
+6_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+8_unopened_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.5
+6_vs-bet_HP  THEN fold
+2_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+0_unopened_LP  THEN check
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+9_uno-raiser_LP  THEN raise 0.671875
+1_unopened_LP  THEN check
+3_unopened_LP  THEN check
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+8_unopened_LP  THEN raise 0.6625
+9_unopened_LP  THEN check
+9_vs-bet_LP  THEN raise 1.0
+5_unopened_LP  THEN check
+3_unopened_LP  THEN check
+0_uno-raiser_LP  THEN check
+9_unopened_LP  THEN raise 0.5
+9_uno-raiser_MP  THEN check
+8_vs-bet_MP  THEN call
+3_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+4_unopened_LP  THEN check
+3_vs-bet_LP  THEN call
+6_unopened_LP  THEN raise 0.5
+5_uno-raiser_LP  THEN check
+6_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+5_uno-raiser_HP  THEN check
+6_vs-bet_HP  THEN fold
+2_unopened_LP  THEN check
+0_unopened_LP  THEN check
+1_vs-bet_LP  THEN call
+6_unopened_LP  THEN check
+6_uno-raiser_MP  THEN raise 0.5
+6_vs-bet_HP  THEN fold
+3_vs-bet_MP  THEN raise 0.895833333333
+5_uno-raiser_LP  THEN check
+7_unopened_LP  THEN check
+2_vs-bet_LP  THEN call
+6_uno-raiser_MP  THEN raise 0.666666666667
+9_unopened_LP  THEN check
+8_vs-bet_LP  THEN raise 1.10416666667
+8_vs-bet_HP  THEN call
+9_vs-bet_LP  THEN raise 1.05
+4_unopened_LP  THEN check
+4_unopened_LP  THEN check
+5_vs-bet_LP  THEN call
+4_uno-raiser_MP  THEN check
+7_unopened_LP  THEN check
+0_uno-raiser_LP  THEN raise 0.671875
+9_vs-bet_LP  THEN call
+9_unopened_LP  THEN check
+2_unopened_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.75
+4_uno-raiser_LP  THEN raise 0.75
+5_vs-bet_HP  THEN call
+7_unopened_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.25
+7_unopened_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.671875
+1_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+2_uno-raiser_LP  THEN check
+1_uno-raiser_LP  THEN raise 0.671875
+6_unopened_LP  THEN check
+6_uno-raiser_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.3
+5_uno-raiser_LP  THEN raise 0.671875
+9_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+6_uno-raiser_LP  THEN check
+4_uno-raiser_MP  THEN raise 0.666666666667
+1_uno-raiser_LP  THEN check
+9_unopened_LP  THEN check
+9_vs-bet_LP  THEN raise 1.5
+9_vs-bet_HP  THEN call
+3_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+1_uno-raiser_LP  THEN raise 0.671875
+6_unopened_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.671875
+7_vs-bet_HP  THEN call
+6_unopened_LP  THEN check
+2_uno-raiser_MP  THEN raise 0.666666666667
+3_unopened_LP  THEN check
+3_vs-bet_LP  THEN call
+1_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+6_unopened_LP  THEN check
+5_vs-bet_LP  THEN call
+9_uno-raiser_LP  THEN raise 0.671875
+8_uno-raiser_LP  THEN check
+5_unopened_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.75
+6_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+7_uno-raiser_LP  THEN raise 0.5
+5_unopened_LP  THEN check
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN call
+4_unopened_LP  THEN check
+4_vs-bet_LP  THEN fold
+5_unopened_LP  THEN check
+7_unopened_LP  THEN raise 0.5
+6_unopened_LP  THEN check
+3_uno-raiser_LP  THEN check
+9_uno-raiser_LP  THEN check
+9_unopened_LP  THEN check
+1_uno-raiser_LP  THEN raise 0.671875
+5_uno-raiser_LP  THEN check
+3_uno-raiser_MP  THEN raise 0.5
+4_uno-raiser_LP  THEN raise 0.5
+9_uno-raiser_LP  THEN raise 0.5
+6_unopened_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.5
+4_unopened_LP  THEN check
+8_vs-bet_LP  THEN raise 0.925
+7_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+8_uno-raiser_LP  THEN raise 0.671875
+1_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+8_uno-raiser_LP  THEN raise 0.5
+7_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+8_uno-raiser_LP  THEN raise 0.5
+5_unopened_LP  THEN check
+3_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+1_uno-raiser_LP  THEN raise 0.5
+7_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+4_vs-bet_LP  THEN call
+2_uno-raiser_LP  THEN check
+1_unopened_LP  THEN check
+0_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+5_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+4_uno-raiser_LP  THEN check
+8_unopened_LP  THEN check
+4_vs-bet_MP  THEN call
+8_unopened_LP  THEN check
+4_uno-raiser_LP  THEN check
+8_unopened_LP  THEN check
+7_unopened_LP  THEN raise 0.5
+8_uno-raiser_LP  THEN raise 0.5
+4_uno-raiser_MP  THEN check
+8_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+1_uno-raiser_LP  THEN raise 0.5
+0_vs-bet_HP  THEN call
+1_unopened_LP  THEN check
+4_uno-raiser_LP  THEN check
+1_unopened_LP  THEN check
+1_uno-raiser_LP  THEN raise 0.671875
+3_unopened_LP  THEN check
+9_unopened_LP  THEN check
+3_uno-raiser_LP  THEN check
+4_unopened_LP  THEN check
+4_uno-raiser_LP  THEN raise 0.5
+3_unopened_LP  THEN check
+1_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+4_uno-raiser_LP  THEN check
+4_unopened_LP  THEN check
+1_vs-bet_LP  THEN raise 0.925
+3_unopened_LP  THEN check
+2_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+8_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+4_unopened_LP  THEN check
+4_vs-bet_LP  THEN call
+2_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+2_unopened_LP  THEN check
+9_uno-raiser_MP  THEN raise 0.666666666667
+9_vs-bet_HP  THEN call
+8_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+1_unopened_LP  THEN check
+1_vs-bet_LP  THEN call
+0_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+4_uno-raiser_LP  THEN raise 0.671875
+0_unopened_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.671875
+6_unopened_LP  THEN check
+5_vs-bet_LP  THEN fold
+9_uno-raiser_LP  THEN raise 0.671875
+3_unopened_LP  THEN check
+9_unopened_LP  THEN check
+3_uno-raiser_LP  THEN raise 0.671875
+7_unopened_LP  THEN raise 0.5
+7_vs-bet_LP  THEN call
+8_uno-raiser_LP  THEN raise 0.671875
+1_unopened_LP  THEN check
+4_uno-raiser_LP  THEN raise 0.671875
+2_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+7_uno-raiser_LP  THEN check
+9_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN call
+0_unopened_LP  THEN check
+2_uno-raiser_LP  THEN raise 0.671875
+6_vs-bet_HP  THEN call
+3_unopened_LP  THEN check
+4_vs-bet_LP  THEN fold
+0_uno-victime_MP  THEN check
+3_uno-raiser_LP  THEN raise 0.671875
+4_uno-raiser_LP  THEN check
+8_uno-victime_MP  THEN check
+3_unopened_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.671875
+3_vs-bet_HP  THEN fold
+4_unopened_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.75
+2_unopened_LP  THEN raise 0.5
+2_vs-bet_MP  THEN fold
+9_uno-raiser_LP  THEN raise 0.671875
+4_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+9_unopened_LP  THEN raise 0.75
+7_uno-victime_LP  THEN check
+2_uno-raiser_LP  THEN check
+3_uno-victime_MP  THEN check
+4_unopened_LP  THEN check
+4_unopened_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.75
+1_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+7_unopened_LP  THEN raise 0.6625
+9_uno-victime_MP  THEN check
+6_uno-victime_HP  THEN check
+2_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+7_uno-raiser_LP  THEN raise 0.671875
+7_vs-bet_HP  THEN call
+2_unopened_LP  THEN check
+3_vs-bet_HP  THEN fold
+9_unopened_LP  THEN raise 0.75
+3_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+5_unopened_LP  THEN check
+5_vs-bet_LP  THEN fold
+5_vs-bet_HP  THEN call
+9_unopened_LP  THEN raise 0.5
+0_unopened_LP  THEN check
+6_uno-raiser_LP  THEN check
+1_unopened_LP  THEN check
+3_uno-raiser_LP  THEN check
+5_unopened_LP  THEN check
+7_uno-raiser_LP  THEN check
+7_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+6_unopened_LP  THEN check
+8_unopened_LP  THEN raise 1.0
+7_uno-raiser_LP  THEN check
+1_unopened_LP  THEN check
+7_uno-victime_MP  THEN check
+5_vs-bet_HP  THEN fold
+7_uno-raiser_LP  THEN raise 0.671875
+0_unopened_LP  THEN check
+2_vs-bet_HP  THEN fold
+3_uno-raiser_LP  THEN check
+1_unopened_LP  THEN raise 0.75
+8_uno-raiser_LP  THEN raise 0.671875
+3_uno-victime_MP  THEN check
+4_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+3_uno-raiser_LP  THEN check
+6_unopened_LP  THEN check
+8_uno-victime_MP  THEN check
+2_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+3_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+9_uno-raiser_MP  THEN raise 0.666666666667
+6_uno-raiser_LP  THEN check
+6_vs-bet_HP  THEN fold
+7_uno-victime_LP  THEN check
+7_vs-bet_HP  THEN fold
+5_uno-raiser_LP  THEN raise 0.671875
+9_uno-raiser_MP  THEN raise 0.5
+4_uno-raiser_LP  THEN check
+2_uno-raiser_MP  THEN raise 0.666666666667
+4_uno-raiser_MP  THEN raise 0.666666666667
+5_vs-bet_HP  THEN call
+4_uno-raiser_LP  THEN raise 0.6625
+5_uno-raiser_HP  THEN check
+9_vs-bet_HP  THEN call
+5_uno-victime_LP  THEN check
+6_uno-raiser_LP  THEN raise 0.5
+2_uno-raiser_MP  THEN check
+3_vs-bet_HP  THEN fold
+5_uno-raiser_LP  THEN check
+7_uno-raiser_HP  THEN check
+0_uno-raiser_LP  THEN check
+5_uno-victime_LP  THEN check
+5_vs-bet_HP  THEN fold
+4_uno-raiser_LP  THEN check
+9_uno-victime_LP  THEN check
+9_vs-bet_HP  THEN call
+6_unopened_LP  THEN check
+5_vs-bet_LP  THEN call
+9_unopened_LP  THEN check
+9_vs-bet_LP  THEN raise 1.35338345865
+4_uno-raiser_LP  THEN check
+5_unopened_LP  THEN check
+5_vs-bet_LP  THEN call
+5_uno-raiser_LP  THEN raise 0.6625
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN raise 1.25
+6_uno-raiser_LP  THEN raise 0.5
+5_vs-bet_LP  THEN call
+7_uno-raiser_LP  THEN raise 0.75
+4_uno-raiser_LP  THEN check
+8_unopened_LP  THEN check
+0_uno-victime_LP  THEN check
+0_vs-bet_LP  THEN fold
+5_uno-raiser_LP  THEN check
+6_uno-raiser_LP  THEN check
+10_uno-raiser_LP  THEN raise 0.75
+3_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+8_vs-bet_LP  THEN raise 0.925
+3_uno-victime_LP  THEN check
+8_unopened_LP  THEN raise 0.5
+5_uno-raiser_LP  THEN raise 0.75
+7_uno-victime_MP  THEN check
+6_uno-raiser_LP  THEN raise 0.5
+6_vs-bet_HP  THEN fold
+2_uno-victime_LP  THEN check
+1_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+2_uno-raiser_LP  THEN raise 0.75
+6_vs-bet_LP  THEN fold
+1_unopened_LP  THEN check
+0_uno-raiser_LP  THEN raise 0.75
+5_uno-raiser_LP  THEN check
+1_uno-victime_LP  THEN check
+6_uno-victime_LP  THEN check
+6_vs-bet_LP  THEN fold
+9_unopened_LP  THEN check
+2_vs-bet_HP  THEN fold
+6_uno-raiser_LP  THEN raise 0.75
+4_uno-raiser_LP  THEN raise 0.75
+5_vs-bet_MP  THEN fold
+9_uno-raiser_LP  THEN raise 0.75
+8_uno-raiser_LP  THEN raise 0.75
+3_uno-raiser_MP  THEN raise 0.5
+6_uno-raiser_LP  THEN check
+1_uno-victime_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.75
+4_uno-raiser_LP  THEN raise 0.75
+6_unopened_LP  THEN check
+6_vs-bet_LP  THEN call
+5_uno-raiser_LP  THEN raise 0.75
+8_uno-victime_LP  THEN check
+0_unopened_LP  THEN check
+2_uno-raiser_LP  THEN check
+9_uno-raiser_HP  THEN raise 0.5
+6_uno-raiser_LP  THEN raise 0.75
+9_uno-raiser_MP  THEN raise 0.666666666667
+3_uno-victime_LP  THEN check
+5_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+2_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+6_uno-raiser_HP  THEN raise 0.5
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+4_uno-raiser_LP  THEN raise 0.6625
+2_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+1_vs-bet_LP  THEN fold
+5_uno-raiser_LP  THEN check
+1_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+5_uno-raiser_LP  THEN check
+4_vs-bet_LP  THEN raise 0.857142857143
+5_unopened_LP  THEN check
+5_vs-bet_LP  THEN fold
+3_uno-raiser_LP  THEN check
+5_uno-raiser_LP  THEN raise 0.6625
+9_uno-raiser_LP  THEN raise 0.75
+3_vs-bet_LP  THEN fold
+1_uno-victime_LP  THEN check
+0_vs-bet_LP  THEN call
+6_uno-raiser_MP  THEN raise 0.5
+5_vs-bet_LP  THEN fold
+6_uno-victime_LP  THEN check
+7_uno-raiser_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.5
+5_uno-raiser_LP  THEN raise 0.6625
+4_uno-victime_LP  THEN check
+3_vs-bet_LP  THEN fold
+5_uno-victime_LP  THEN check
+5_vs-bet_LP  THEN fold
+4_uno-raiser_MP  THEN raise 0.5
+3_vs-bet_LP  THEN fold
+2_uno-raiser_LP  THEN raise 0.666666666667
+1_uno-raiser_LP  THEN raise 0.75
+2_vs-bet_MP  THEN fold
+3_uno-raiser_LP  THEN raise 0.5
+7_uno-raiser_LP  THEN raise 0.666666666667
+6_uno-victime_MP  THEN check
+7_uno-raiser_LP  THEN check
+5_uno-raiser_LP  THEN raise 0.6625
+4_uno-victime_LP  THEN check
+5_vs-bet_LP  THEN fold
+7_uno-raiser_LP  THEN raise 0.75
+7_vs-bet_MP  THEN fold
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+4_uno-raiser_LP  THEN check
+9_unopened_LP  THEN raise 0.5
+5_uno-raiser_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.6625
+9_uno-victime_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.75
+9_unopened_LP  THEN raise 0.5
+7_vs-bet_LP  THEN call
+4_uno-raiser_MP  THEN raise 0.5
+1_uno-raiser_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.75
+3_uno-victime_MP  THEN check
+7_uno-victime_LP  THEN check
+7_vs-bet_LP  THEN call
+6_uno-raiser_LP  THEN check
+6_uno-raiser_HP  THEN raise 3.17291666667
+2_uno-victime_LP  THEN check
+2_vs-bet_LP  THEN fold
+7_vs-bet_LP  THEN raise 1.05
+8_uno-raiser_MP  THEN raise 0.666666666667
+8_vs-bet_HP  THEN call
+3_uno-raiser_LP  THEN check
+8_uno-victime_LP  THEN check
+9_vs-bet_LP  THEN call
+7_uno-raiser_MP  THEN raise 0.666666666667
+8_uno-raiser_LP  THEN raise 0.6625
+4_vs-bet_HP  THEN fold
+0_uno-raiser_LP  THEN raise 0.666666666667
+0_vs-bet_HP  THEN call
+1_uno-victime_LP  THEN check
+6_vs-bet_MP  THEN fold
+2_uno-victime_LP  THEN check
+1_vs-bet_LP  THEN call
+4_uno-raiser_LP  THEN check
+7_uno-raiser_LP  THEN check
+6_vs-bet_MP  THEN call
+10_uno-raiser_LP  THEN raise 0.75
+9_uno-raiser_LP  THEN raise 0.75
+9_uno-victime_LP  THEN raise 1.0
+2_uno-raiser_LP  THEN check
+3_uno-raiser_HP  THEN raise 0.5
+5_uno-raiser_LP  THEN check
+6_uno-raiser_LP  THEN raise 0.75
+3_unopened_LP  THEN raise 0.5
+2_vs-bet_LP  THEN fold
+4_uno-raiser_LP  THEN check
+1_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+2_uno-raiser_LP  THEN raise 0.75
+9_vs-bet_LP  THEN raise 1.4
+1_vs-bet_LP  THEN fold
+3_vs-bet_LP  THEN call
+1_uno-raiser_LP  THEN raise 0.666666666667
+1_vs-bet_HP  THEN call
+6_uno-raiser_LP  THEN check
+6_uno-victime_LP  THEN check
+3_uno-raiser_LP  THEN raise 0.75
+5_uno-victime_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.75
+5_uno-raiser_LP  THEN raise 0.6625
+2_uno-raiser_LP  THEN raise 0.6625
+1_unopened_LP  THEN check
+2_uno-victime_HP  THEN check
+5_uno-raiser_HP  THEN check
+1_uno-raiser_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.75
+5_uno-raiser_MP  THEN raise 0.5
+4_uno-victime_MP  THEN check
+3_uno-victime_LP  THEN raise 0.666666666667
+7_vs-bet_LP  THEN call
+9_uno-victime_LP  THEN check
+1_vs-bet_LP  THEN fold
+5_uno-raiser_MP  THEN raise 0.666666666667
+3_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+1_uno-victime_LP  THEN check
+1_vs-bet_LP  THEN fold
+7_vs-bet_LP  THEN fold
+5_uno-raiser_LP  THEN check
+6_uno-raiser_LP  THEN check
+4_vs-bet_HP  THEN call
+6_uno-raiser_LP  THEN check
+5_uno-raiser_HP  THEN raise 0.5
+5_vs-bet_HP  THEN fold
+5_uno-raiser_LP  THEN check
+1_uno-victime_MP  THEN check
+2_vs-bet_HP  THEN fold
+6_uno-raiser_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.671875
+5_uno-raiser_MP  THEN raise 0.5
+6_uno-victime_HP  THEN check
+10_uno-raiser_LP  THEN raise 0.671875
+4_vs-bet_MP  THEN fold
+4_uno-raiser_LP  THEN check
+4_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN call
+8_vs-bet_MP  THEN call
+8_uno-victime_MP  THEN check
+8_vs-bet_HP  THEN raise 12.2292105263
+7_uno-raiser_LP  THEN check
+9_uno-raiser_HP  THEN raise 2.63888888889
+5_uno-raiser_LP  THEN raise 0.6625
+5_uno-raiser_LP  THEN raise 0.6625
+5_uno-raiser_MP  THEN check
+8_uno-raiser_HP  THEN raise 0.666666666667
+7_uno-raiser_LP  THEN raise 0.6625
+3_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN call
+4_unopened_LP  THEN check
+5_vs-bet_LP  THEN fold
+2_uno-victime_LP  THEN raise 0.6625
+9_unopened_LP  THEN raise 0.75
+0_uno-victime_MP  THEN raise 0.75
+0_vs-bet_HP  THEN call
+9_uno-raiser_LP  THEN raise 0.75
+9_uno-victime_MP  THEN raise 0.75
+3_uno-raiser_LP  THEN check
+4_uno-raiser_LP  THEN check
+3_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+8_unopened_LP  THEN raise 0.75
+6_uno-raiser_LP  THEN raise 0.671875
+4_uno-raiser_MP  THEN check
+5_vs-bet_HP  THEN fold
+3_uno-raiser_LP  THEN raise 0.671875
+10_uno-raiser_LP  THEN raise 0.671875
+5_uno-raiser_MP  THEN check
+6_uno-victime_MP  THEN check
+6_vs-bet_HP  THEN fold
+4_uno-raiser_LP  THEN raise 0.75
+7_unopened_LP  THEN raise 0.6625
+6_vs-bet_MP  THEN call
+2_unopened_LP  THEN check
+4_uno-raiser_MP  THEN check
+3_vs-bet_HP  THEN fold
+4_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN fold
+4_unopened_LP  THEN check
+9_unopened_LP  THEN raise 0.75
+8_unopened_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+9_vs-bet_HP  THEN raise 1.11917098446
+1_uno-raiser_LP  THEN check
+1_unopened_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.671875
+6_uno-raiser_LP  THEN check
+8_uno-victime_MP  THEN check
+4_unopened_LP  THEN check
+6_uno-raiser_LP  THEN raise 0.671875
+6_vs-bet_HP  THEN call
+0_unopened_LP  THEN check
+6_unopened_LP  THEN check
+6_vs-bet_LP  THEN fold
+2_uno-raiser_LP  THEN check
+8_uno-victime_LP  THEN check
+8_vs-bet_HP  THEN call
+3_uno-victime_MP  THEN check
+2_vs-bet_HP  THEN fold
+2_uno-victime_MP  THEN check
+2_vs-bet_HP  THEN call
+5_vs-bet_HP  THEN fold
+2_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+0_uno-victime_MP  THEN check
+0_vs-bet_HP  THEN fold
+4_uno-raiser_MP  THEN raise 0.666666666667
+7_uno-victime_MP  THEN check
+3_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+3_uno-victime_MP  THEN check
+5_vs-bet_HP  THEN call
+9_vs-bet_HP  THEN call
+2_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN call
+7_uno-victime_MP  THEN check
+6_vs-bet_HP  THEN fold
+8_uno-victime_MP  THEN check
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN raise 0.666666666667
+4_uno-victime_LP  THEN check
+4_vs-bet_MP  THEN call
+0_vs-bet_MP  THEN call
+0_uno-victime_MP  THEN check
+10_uno-raiser_LP  THEN raise 0.671875
+4_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+9_uno-raiser_LP  THEN raise 0.671875
+5_unopened_LP  THEN check
+4_vs-bet_LP  THEN fold
+5_uno-victime_MP  THEN check
+2_unopened_LP  THEN check
+3_unopened_LP  THEN check
+3_vs-bet_HP  THEN fold
+6_unopened_LP  THEN check
+10_uno-victime_MP  THEN check
+10_vs-bet_HP  THEN raise 0.933333333333
+9_uno-raiser_LP  THEN check
+7_unopened_LP  THEN raise 0.5
+3_uno-raiser_LP  THEN check
+3_uno-victime_MP  THEN check
+1_uno-raiser_LP  THEN check
+5_uno-raiser_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.671875
+2_vs-bet_HP  THEN fold
+3_uno-raiser_LP  THEN raise 0.5
+5_uno-victime_LP  THEN check
+0_uno-victime_LP  THEN check
+8_unopened_LP  THEN raise 0.5
+8_uno-victime_LP  THEN check
+5_vs-bet_MP  THEN fold
+3_uno-victime_LP  THEN check
+3_vs-bet_HP  THEN fold
+6_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+2_uno-victime_LP  THEN check
+3_vs-bet_HP  THEN fold
+1_unopened_LP  THEN check
+2_vs-bet_HP  THEN fold
+4_uno-raiser_LP  THEN raise 0.5
+4_vs-bet_HP  THEN fold
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN fold
+4_uno-raiser_LP  THEN check
+4_uno-victime_MP  THEN check
+2_uno-raiser_LP  THEN raise 0.5
+9_uno-victime_LP  THEN check
+9_vs-bet_MP  THEN call
+3_uno-raiser_LP  THEN raise 0.6625
+2_unopened_LP  THEN check
+3_uno-raiser_LP  THEN raise 0.5
+0_uno-victime_LP  THEN check
+2_uno-victime_LP  THEN check
+3_vs-bet_HP  THEN call
+10_uno-victime_LP  THEN check
+4_uno-raiser_LP  THEN raise 0.5
+5_uno-victime_LP  THEN check
+4_vs-bet_HP  THEN raise 1.34375
+5_vs-bet_HP  THEN fold
+4_vs-bet_MP  THEN call
+9_unopened_LP  THEN check
+3_uno-raiser_LP  THEN raise 0.671875
+9_unopened_LP  THEN check
+6_uno-victime_MP  THEN check
+5_vs-bet_LP  THEN call
+4_uno-raiser_LP  THEN check
+3_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+7_vs-bet_HP  THEN fold
+2_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+2_vs-bet_MP  THEN call
+8_uno-raiser_HP  THEN check
+2_uno-raiser_LP  THEN check
+1_unopened_LP  THEN check
+4_uno-raiser_LP  THEN check
+6_uno-raiser_LP  THEN check
+4_uno-victime_MP  THEN check
+0_uno-raiser_LP  THEN check
+5_uno-victime_LP  THEN check
+5_vs-bet_LP  THEN fold
+4_uno-raiser_LP  THEN check
+4_uno-victime_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+9_uno-victime_LP  THEN check
+0_uno-victime_MP  THEN raise 0.5
+8_uno-victime_LP  THEN check
+8_vs-bet_HP  THEN fold
+9_vs-bet_LP  THEN raise 0.925
+9_uno-raiser_HP  THEN raise 0.5
+3_uno-victime_MP  THEN check
+4_unopened_LP  THEN check
+3_uno-victime_LP  THEN check
+3_uno-raiser_LP  THEN check
+4_unopened_LP  THEN check
+8_uno-raiser_LP  THEN check
+9_uno-victime_LP  THEN check
+1_uno-victime_MP  THEN check
+6_uno-victime_MP  THEN check
+4_uno-raiser_LP  THEN raise 0.5
+2_unopened_LP  THEN check
+2_vs-bet_LP  THEN call
+4_uno-raiser_LP  THEN check
+3_uno-raiser_HP  THEN raise 3.88354166667
+4_unopened_LP  THEN check
+4_vs-bet_LP  THEN call
+5_vs-bet_LP  THEN call
+4_uno-raiser_MP  THEN raise 0.666666666667
+3_uno-raiser_MP  THEN check
+5_unopened_LP  THEN check
+6_vs-bet_LP  THEN fold
+4_uno-raiser_LP  THEN check
+9_uno-victime_LP  THEN check
+3_unopened_LP  THEN check
+4_vs-bet_LP  THEN call
+8_uno-raiser_LP  THEN check
+5_uno-raiser_HP  THEN check
+2_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+3_uno-victime_LP  THEN check
+2_vs-bet_HP  THEN fold
+5_uno-raiser_LP  THEN check
+2_uno-raiser_LP  THEN check
+0_uno-raiser_LP  THEN raise 0.671875
+0_unopened_LP  THEN check
+6_unopened_LP  THEN check
+5_vs-bet_LP  THEN fold
+8_uno-victime_LP  THEN check
+8_vs-bet_MP  THEN call
+8_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+8_uno-raiser_HP  THEN check
+8_vs-bet_HP  THEN raise 2.78675
+2_uno-raiser_LP  THEN raise 1.0
+5_uno-raiser_LP  THEN check
+4_uno-victime_LP  THEN check
+4_vs-bet_MP  THEN call
+4_uno-raiser_LP  THEN check
+4_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+9_vs-bet_MP  THEN raise 1.10416666667
+5_unopened_LP  THEN check
+6_vs-bet_LP  THEN fold
+5_uno-raiser_LP  THEN check
+3_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN raise 7.74894736842
+9_uno-raiser_HP  THEN raise 0.5
+6_uno-raiser_LP  THEN check
+0_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+9_uno-raiser_LP  THEN raise 0.671875
+5_vs-bet_HP  THEN fold
+1_unopened_LP  THEN check
+4_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+7_uno-raiser_LP  THEN check
+1_unopened_LP  THEN raise 0.6625
+2_uno-raiser_HP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+9_vs-bet_HP  THEN call
+9_uno-raiser_LP  THEN raise 0.671875
+9_uno-raiser_LP  THEN raise 0.671875
+7_uno-victime_LP  THEN check
+6_vs-bet_MP  THEN fold
+4_uno-raiser_LP  THEN check
+7_vs-bet_MP  THEN call
+5_uno-raiser_LP  THEN raise 0.6625
+9_uno-raiser_LP  THEN raise 0.6625
+5_vs-bet_HP  THEN fold
+4_uno-raiser_MP  THEN raise 0.666666666667
+7_uno-raiser_MP  THEN raise 0.666666666667
+4_uno-victime_LP  THEN check
+0_uno-victime_LP  THEN check
+0_vs-bet_HP  THEN fold
+7_vs-bet_HP  THEN fold
+3_unopened_LP  THEN check
+9_uno-raiser_HP  THEN raise 0.5
+2_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN call
+4_uno-raiser_MP  THEN check
+6_vs-bet_HP  THEN fold
+8_unopened_LP  THEN check
+1_uno-victime_LP  THEN check
+0_vs-bet_MP  THEN fold
+3_uno-raiser_MP  THEN raise 0.666666666667
+4_vs-bet_HP  THEN call
+7_uno-victime_LP  THEN check
+7_vs-bet_MP  THEN call
+5_uno-raiser_LP  THEN raise 0.671875
+3_uno-raiser_LP  THEN check
+2_vs-bet_HP  THEN fold
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+4_vs-bet_MP  THEN fold
+5_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+4_uno-raiser_MP  THEN raise 0.666666666667
+5_uno-victime_LP  THEN check
+6_vs-bet_MP  THEN fold
+7_uno-victime_LP  THEN check
+8_vs-bet_HP  THEN call
+4_unopened_LP  THEN check
+5_vs-bet_LP  THEN fold
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+6_uno-raiser_MP  THEN check
+8_uno-raiser_HP  THEN raise 0.5
+5_uno-victime_LP  THEN check
+4_vs-bet_MP  THEN fold
+7_uno-raiser_HP  THEN raise 0.5
+5_uno-raiser_MP  THEN check
+4_unopened_LP  THEN check
+5_vs-bet_LP  THEN fold
+7_vs-bet_MP  THEN raise 0.928571428571
+8_vs-bet_HP  THEN fold
+5_uno-victime_LP  THEN check
+4_vs-bet_HP  THEN fold
+7_uno-raiser_MP  THEN check
+1_uno-victime_LP  THEN check
+1_vs-bet_MP  THEN fold
+3_unopened_LP  THEN check
+7_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+5_uno-raiser_MP  THEN check
+9_unopened_LP  THEN check
+6_vs-bet_HP  THEN call
+3_uno-raiser_MP  THEN raise 0.666666666667
+3_uno-victime_LP  THEN check
+3_vs-bet_MP  THEN fold
+2_uno-raiser_MP  THEN raise 0.666666666667
+1_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN fold
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN raise 1.10416666667
+0_uno-raiser_MP  THEN raise 0.666666666667
+1_vs-bet_HP  THEN fold
+3_uno-raiser_MP  THEN check
+2_vs-bet_HP  THEN fold
+4_uno-victime_LP  THEN check
+6_vs-bet_MP  THEN fold
+7_uno-raiser_HP  THEN raise 0.666666666667
+6_vs-bet_HP  THEN call
+9_uno-victime_LP  THEN check
+6_vs-bet_MP  THEN fold
+2_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+0_uno-raiser_MP  THEN check
+3_uno-raiser_MP  THEN check
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+5_uno-victime_LP  THEN check
+8_uno-raiser_HP  THEN raise 0.666666666667
+8_unopened_LP  THEN raise 0.6625
+7_vs-bet_MP  THEN call
+3_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+4_uno-victime_LP  THEN check
+3_vs-bet_MP  THEN call
+6_vs-bet_HP  THEN call
+8_uno-victime_MP  THEN check
+6_uno-raiser_MP  THEN raise 0.5
+9_vs-bet_HP  THEN call
+8_uno-victime_LP  THEN check
+7_uno-raiser_MP  THEN raise 0.666666666667
+0_uno-victime_LP  THEN check
+5_uno-raiser_MP  THEN check
+3_uno-victime_LP  THEN check
+4_vs-bet_HP  THEN fold
+3_uno-raiser_MP  THEN raise 0.666666666667
+2_uno-victime_MP  THEN check
+3_vs-bet_HP  THEN fold
+0_uno-victime_LP  THEN check
+0_vs-bet_MP  THEN fold
+0_uno-victime_LP  THEN check
+0_vs-bet_MP  THEN fold
+3_vs-bet_HP  THEN fold
+5_uno-victime_MP  THEN check
+4_unopened_LP  THEN check
+4_vs-bet_LP  THEN call
+4_unopened_LP  THEN check
+4_vs-bet_LP  THEN fold
+2_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+5_vs-bet_HP  THEN fold
+2_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+8_uno-raiser_HP  THEN raise 0.5
+9_vs-bet_HP  THEN raise 1.11111111111
+7_vs-bet_HP  THEN call
+6_uno-raiser_MP  THEN check
+5_uno-raiser_HP  THEN raise 0.666666666667
+9_vs-bet_HP  THEN raise 1.11111111111
+3_uno-victime_LP  THEN check
+9_vs-bet_HP  THEN call
+6_vs-bet_HP  THEN fold
+7_uno-victime_MP  THEN check
+7_vs-bet_HP  THEN fold
+8_vs-bet_HP  THEN call
+8_uno-raiser_HP  THEN raise 0.666666666667
+8_uno-raiser_MP  THEN raise 0.666666666667
+8_uno-victime_LP  THEN check
+8_uno-raiser_MP  THEN check
+8_uno-raiser_MP  THEN raise 0.666666666667
+7_vs-bet_HP  THEN call
+8_unopened_LP  THEN check
+8_vs-bet_LP  THEN fold
+4_uno-raiser_HP  THEN raise 0.666666666667
+8_vs-bet_HP  THEN call
+9_uno-victime_LP  THEN check
+9_vs-bet_HP  THEN raise 1.5
+9_uno-victime_LP  THEN raise 0.671875
+7_uno-victime_MP  THEN check
+7_vs-bet_HP  THEN call
+9_vs-bet_HP  THEN raise 1.11111111111
+3_uno-raiser_MP  THEN raise 0.5
+8_uno-raiser_HP  THEN raise 0.666666666667
+7_vs-bet_HP  THEN fold
+4_uno-victime_LP  THEN check
+3_vs-bet_HP  THEN call
+6_uno-raiser_MP  THEN check
+4_uno-victime_LP  THEN check
+2_uno-raiser_MP  THEN raise 0.666666666667
+1_uno-victime_LP  THEN check
+1_vs-bet_MP  THEN fold
+4_uno-raiser_MP  THEN raise 0.666666666667
+4_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+1_vs-bet_HP  THEN fold
+8_uno-raiser_MP  THEN raise 0.666666666667
+0_unopened_LP  THEN raise 0.6625
+1_vs-bet_MP  THEN call
+3_vs-bet_HP  THEN call
+3_uno-victime_LP  THEN check
+4_vs-bet_HP  THEN fold
+10_uno-victime_LP  THEN check
+10_vs-bet_MP  THEN call
+1_vs-bet_HP  THEN fold
+7_uno-raiser_HP  THEN check
+7_vs-bet_HP  THEN call
+0_uno-victime_MP  THEN check
+0_vs-bet_HP  THEN call
+5_vs-bet_HP  THEN fold
+4_uno-victime_LP  THEN check
+5_vs-bet_HP  THEN call
+1_uno-victime_HP  THEN check
+5_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN fold
+10_uno-raiser_MP  THEN raise 0.666666666667
+4_uno-raiser_MP  THEN check
+4_uno-victime_LP  THEN check
+3_vs-bet_MP  THEN fold
+6_uno-raiser_MP  THEN check
+3_uno-raiser_MP  THEN check
+5_uno-raiser_MP  THEN check
+6_unopened_LP  THEN check
+7_vs-bet_LP  THEN fold
+9_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN call
+1_uno-victime_LP  THEN check
+1_vs-bet_HP  THEN fold
+4_uno-victime_LP  THEN check
+5_vs-bet_MP  THEN call
+1_uno-raiser_MP  THEN check
+8_uno-raiser_MP  THEN raise 0.666666666667
+0_uno-victime_LP  THEN check
+0_vs-bet_MP  THEN fold
+1_vs-bet_HP  THEN call
+5_uno-victime_LP  THEN check
+8_uno-raiser_MP  THEN raise 0.666666666667
+8_uno-raiser_MP  THEN raise 0.666666666667
+3_uno-raiser_MP  THEN check
+1_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+2_uno-victime_MP  THEN check
+1_vs-bet_HP  THEN call
+5_uno-raiser_HP  THEN check
+5_vs-bet_HP  THEN fold
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+4_uno-raiser_MP  THEN check
+1_uno-raiser_MP  THEN raise 0.666666666667
+6_unopened_LP  THEN check
+6_vs-bet_LP  THEN fold
+5_uno-raiser_MP  THEN raise 0.708333333333
+0_uno-raiser_MP  THEN check
+5_uno-raiser_MP  THEN check
+6_uno-victime_LP  THEN check
+6_vs-bet_HP  THEN fold
+7_uno-victime_MP  THEN check
+5_uno-victime_MP  THEN check
+10_uno-raiser_MP  THEN raise 0.5
+8_uno-victime_HP  THEN check
+8_unopened_LP  THEN raise 0.6625
+8_vs-bet_MP  THEN call
+5_uno-raiser_MP  THEN check
+6_vs-bet_HP  THEN fold
+8_vs-bet_HP  THEN fold
+8_unopened_LP  THEN check
+3_uno-victime_LP  THEN check
+9_uno-victime_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.5
+5_uno-victime_HP  THEN check
+5_vs-bet_HP  THEN fold
+2_uno-raiser_LP  THEN check
+5_uno-victime_HP  THEN check
+7_uno-victime_MP  THEN check
+7_vs-bet_HP  THEN raise 6.86208333333
+6_uno-raiser_LP  THEN raise 0.6625
+6_uno-victime_LP  THEN check
+3_uno-raiser_LP  THEN check
+5_uno-victime_LP  THEN check
+5_uno-victime_MP  THEN check
+5_uno-raiser_MP  THEN raise 0.666666666667
+6_uno-victime_MP  THEN check
+5_uno-victime_LP  THEN check
+5_vs-bet_LP  THEN fold
+3_uno-raiser_LP  THEN check
+4_vs-bet_HP  THEN fold
+5_uno-victime_LP  THEN check
+6_uno-raiser_LP  THEN raise 0.6625
+4_uno-victime_LP  THEN check
+1_uno-victime_LP  THEN check
+0_uno-raiser_LP  THEN check
+9_uno-victime_LP  THEN check
+9_vs-bet_MP  THEN call
+6_uno-raiser_LP  THEN raise 0.6625
+5_uno-raiser_HP  THEN raise 0.5
+2_uno-victime_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.6625
+7_uno-raiser_LP  THEN raise 0.6625
+10_uno-raiser_LP  THEN raise 0.75
+7_uno-raiser_LP  THEN raise 0.6625
+5_uno-raiser_LP  THEN check
+4_vs-bet_MP  THEN fold
+0_uno-raiser_LP  THEN raise 0.6625
+6_uno-raiser_LP  THEN raise 0.75
+6_vs-bet_MP  THEN call
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+5_uno-raiser_LP  THEN check
+4_uno-raiser_LP  THEN raise 0.671875
+4_uno-raiser_LP  THEN check
+6_uno-raiser_MP  THEN check
+6_vs-bet_MP  THEN call
+8_uno-raiser_MP  THEN raise 0.666666666667
+8_unopened_LP  THEN check
+7_uno-victime_MP  THEN raise 0.5
+5_unopened_LP  THEN check
+7_vs-bet_LP  THEN fold
+9_uno-raiser_LP  THEN raise 0.75
+7_unopened_LP  THEN check
+6_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+9_uno-raiser_LP  THEN raise 0.671875
+9_uno-raiser_LP  THEN raise 0.671875
+9_vs-bet_HP  THEN call
+5_uno-victime_HP  THEN check
+5_vs-bet_HP  THEN fold
+7_uno-victime_HP  THEN check
+6_vs-bet_HP  THEN raise 5.16914285714
+9_uno-victime_LP  THEN check
+9_vs-bet_MP  THEN call
+7_uno-victime_LP  THEN check
+9_uno-raiser_HP  THEN raise 0.5
+9_vs-bet_HP  THEN call
+4_uno-victime_HP  THEN check
+3_vs-bet_HP  THEN fold
+2_unopened_LP  THEN check
+2_uno-victime_LP  THEN check
+2_vs-bet_MP  THEN call
+3_uno-raiser_LP  THEN raise 0.675
+5_vs-bet_HP  THEN fold
+8_uno-raiser_LP  THEN raise 0.5
+3_uno-raiser_LP  THEN raise 0.5
+7_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+4_vs-bet_LP  THEN fold
+8_vs-bet_HP  THEN raise 5.46833333333
+4_uno-victime_LP  THEN check
+8_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+0_unopened_LP  THEN check
+2_uno-raiser_LP  THEN check
+2_uno-victime_LP  THEN check
+4_vs-bet_MP  THEN fold
+3_uno-raiser_LP  THEN raise 0.671875
+3_uno-victime_LP  THEN check
+3_vs-bet_MP  THEN call
+1_vs-bet_HP  THEN call
+0_uno-victime_LP  THEN check
+0_vs-bet_MP  THEN call
+2_vs-bet_MP  THEN fold
+4_uno-victime_LP  THEN check
+5_vs-bet_MP  THEN fold
+1_uno-victime_HP  THEN check
+8_uno-raiser_LP  THEN raise 0.5
+7_vs-bet_HP  THEN call
+2_uno-raiser_LP  THEN raise 0.5
+9_uno-victime_LP  THEN check
+9_vs-bet_MP  THEN call
+9_uno-victime_LP  THEN check
+9_vs-bet_MP  THEN call
+6_vs-bet_HP  THEN fold
+5_uno-victime_LP  THEN check
+5_uno-raiser_LP  THEN check
+4_uno-victime_LP  THEN check
+6_vs-bet_MP  THEN call
+3_uno-raiser_LP  THEN check
+8_uno-victime_LP  THEN check
+8_vs-bet_MP  THEN call
+2_unopened_LP  THEN check
+4_uno-raiser_LP  THEN check
+7_uno-victime_MP  THEN check
+7_vs-bet_HP  THEN fold
+5_vs-bet_MP  THEN call
+6_uno-victime_LP  THEN check
+0_vs-bet_MP  THEN fold
+8_uno-raiser_LP  THEN raise 0.375
+0_uno-raiser_LP  THEN check
+0_uno-victime_LP  THEN check
+0_vs-bet_LP  THEN fold
+5_vs-bet_LP  THEN fold
+6_uno-raiser_LP  THEN raise 0.6625
+8_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+2_uno-raiser_LP  THEN check
+3_vs-bet_MP  THEN fold
+9_uno-raiser_LP  THEN raise 0.75
+5_unopened_LP  THEN check
+5_vs-bet_LP  THEN fold
+5_vs-bet_LP  THEN fold
+5_uno-victime_LP  THEN check
+5_vs-bet_LP  THEN fold
+4_vs-bet_LP  THEN raise 0.928571428571
+8_vs-bet_LP  THEN raise 1.05
+4_vs-bet_LP  THEN raise 1.2030075188
+4_uno-victime_LP  THEN check
+4_vs-bet_LP  THEN fold
+7_unopened_LP  THEN check
+6_vs-bet_LP  THEN fold
+9_vs-bet_MP  THEN call
+5_vs-bet_HP  THEN fold
+8_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN call
+9_vs-bet_HP  THEN raise 0.979591836735
+9_vs-bet_HP  THEN call
+5_uno-victime_LP  THEN check
+5_vs-bet_MP  THEN fold
+5_uno-raiser_LP  THEN raise 0.671875
+7_uno-raiser_LP  THEN raise 0.671875
+5_uno-victime_HP  THEN check
+4_vs-bet_HP  THEN raise 4.09232142857
+9_uno-raiser_HP  THEN raise 0.5
+6_uno-raiser_LP  THEN check
+2_uno-victime_HP  THEN check
+8_unopened_LP  THEN raise 0.6625
+3_uno-victime_HP  THEN check
+7_unopened_LP  THEN raise 0.5
+0_uno-raiser_LP  THEN check
+9_uno-victime_MP  THEN check
+8_uno-victime_LP  THEN check
+1_uno-raiser_LP  THEN check
+6_uno-raiser_LP  THEN check
+3_vs-bet_HP  THEN raise 1.19484375
+7_uno-victime_LP  THEN check
+7_vs-bet_MP  THEN call
+4_uno-raiser_LP  THEN check
+7_uno-raiser_MP  THEN raise 0.75
+9_vs-bet_MP  THEN raise 1.17307692308
+4_uno-raiser_LP  THEN raise 0.671875
+4_vs-bet_HP  THEN fold
+4_uno-raiser_HP  THEN raise 3.54833333333
+9_uno-raiser_LP  THEN raise 0.6625
+2_uno-raiser_LP  THEN check
+5_uno-raiser_LP  THEN check
+4_uno-raiser_LP  THEN check
+6_uno-victime_LP  THEN check
+5_vs-bet_LP  THEN fold
+3_vs-bet_HP  THEN fold
+3_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+9_uno-raiser_LP  THEN raise 0.6625
+8_uno-victime_LP  THEN check
+1_uno-raiser_LP  THEN raise 0.6625
+10_uno-raiser_LP  THEN raise 0.6625
+9_uno-victime_LP  THEN check
+9_vs-bet_LP  THEN raise 1.22857142857
+0_uno-raiser_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.6625
+9_uno-raiser_HP  THEN raise 0.5
+5_uno-raiser_LP  THEN check
+5_uno-raiser_HP  THEN raise 0.5
+5_uno-raiser_LP  THEN check
+0_uno-victime_LP  THEN check
+0_vs-bet_LP  THEN fold
+10_uno-raiser_LP  THEN raise 0.6625
+8_uno-raiser_MP  THEN raise 0.666666666667
+8_vs-bet_HP  THEN raise 0.662857142857
+2_uno-raiser_LP  THEN check
+9_uno-victime_LP  THEN raise 0.675
+6_uno-raiser_LP  THEN raise 0.6625
+0_uno-victime_LP  THEN check
+0_vs-bet_LP  THEN call
+0_uno-raiser_LP  THEN raise 0.6625
+4_uno-raiser_MP  THEN raise 0.666666666667
+0_uno-raiser_LP  THEN check
+7_uno-raiser_LP  THEN check
+6_uno-raiser_MP  THEN raise 0.666666666667
+0_uno-raiser_LP  THEN raise 0.6625
+0_uno-victime_LP  THEN check
+0_vs-bet_LP  THEN fold
+1_uno-victime_LP  THEN check
+2_vs-bet_MP  THEN call
+4_uno-raiser_LP  THEN raise 0.6625
+0_uno-raiser_LP  THEN raise 0.6625
+5_uno-victime_LP  THEN check
+2_uno-raiser_LP  THEN raise 0.6625
+2_vs-bet_MP  THEN call
+7_vs-bet_HP  THEN call
+1_uno-victime_LP  THEN check
+1_vs-bet_LP  THEN raise 1.22857142857
+4_uno-victime_LP  THEN check
+6_vs-bet_LP  THEN fold
+5_uno-raiser_LP  THEN check
+0_uno-victime_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.666666666667
+9_vs-bet_HP  THEN raise 1.70142857143
+3_uno-victime_LP  THEN check
+2_vs-bet_MP  THEN fold
+1_unopened_LP  THEN check
+4_uno-raiser_MP  THEN raise 0.5
+7_uno-raiser_LP  THEN raise 0.6625
+0_uno-raiser_LP  THEN raise 0.6625
+6_uno-raiser_LP  THEN raise 0.671875
+7_uno-victime_LP  THEN check
+8_vs-bet_LP  THEN call
+5_uno-raiser_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.671875
+7_uno-raiser_LP  THEN check
+8_uno-victime_LP  THEN check
+7_vs-bet_MP  THEN call
+2_uno-victime_LP  THEN check
+1_vs-bet_LP  THEN fold
+4_uno-victime_LP  THEN check
+9_vs-bet_HP  THEN call
+6_uno-victime_LP  THEN check
+6_vs-bet_LP  THEN call
+1_uno-raiser_LP  THEN check
+4_uno-raiser_LP  THEN check
+6_uno-raiser_MP  THEN raise 0.666666666667
+0_uno-raiser_LP  THEN check
+6_uno-raiser_LP  THEN raise 0.6625
+3_uno-victime_LP  THEN check
+5_uno-raiser_LP  THEN raise 0.6625
+5_vs-bet_MP  THEN fold
+2_uno-victime_LP  THEN check
+2_vs-bet_LP  THEN fold
+6_uno-raiser_LP  THEN check
+3_uno-victime_LP  THEN check
+3_vs-bet_LP  THEN fold
+3_uno-raiser_LP  THEN raise 0.6625
+3_vs-bet_MP  THEN fold
+8_uno-victime_LP  THEN check
+7_uno-raiser_HP  THEN check
+7_uno-raiser_LP  THEN raise 0.671875
+4_uno-victime_LP  THEN check
+4_vs-bet_LP  THEN fold
+7_uno-raiser_LP  THEN raise 0.6625
+7_uno-raiser_LP  THEN raise 0.6625
+9_uno-victime_LP  THEN check
+9_vs-bet_MP  THEN call
+5_uno-raiser_LP  THEN check
+7_uno-raiser_LP  THEN check
+7_uno-victime_LP  THEN check
+1_uno-raiser_LP  THEN check
+4_uno-victime_LP  THEN check
+5_vs-bet_LP  THEN call
+9_uno-raiser_HP  THEN raise 0.666666666667
+3_uno-victime_LP  THEN check
+3_vs-bet_LP  THEN call
+4_uno-victime_LP  THEN check
+4_unopened_LP  THEN check
+4_vs-bet_LP  THEN fold
+3_vs-bet_HP  THEN fold
+3_vs-bet_MP  THEN fold
+8_unopened_LP  THEN raise 0.6625
+7_uno-raiser_LP  THEN check
+8_uno-victime_MP  THEN check
+6_unopened_LP  THEN check
+4_vs-bet_LP  THEN fold
+3_uno-raiser_LP  THEN check
+0_uno-raiser_MP  THEN check
+7_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+7_vs-bet_LP  THEN call
+4_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+6_unopened_LP  THEN check
+5_vs-bet_LP  THEN call
+4_unopened_LP  THEN check
+7_vs-bet_HP  THEN call
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN fold
+0_unopened_LP  THEN check
+7_vs-bet_MP  THEN call
+2_unopened_LP  THEN check
+2_unopened_LP  THEN check
+8_vs-bet_MP  THEN call
+8_uno-raiser_MP  THEN raise 0.666666666667
+4_unopened_LP  THEN check
+4_unopened_LP  THEN check
+5_vs-bet_LP  THEN call
+7_uno-raiser_MP  THEN raise 0.666666666667
+2_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+7_uno-raiser_LP  THEN raise 0.671875
+8_uno-raiser_MP  THEN check
+4_unopened_LP  THEN check
+1_unopened_LP  THEN check
+1_unopened_LP  THEN check
+1_vs-bet_LP  THEN fold
+4_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+4_uno-victime_LP  THEN check
+4_vs-bet_LP  THEN call
+4_unopened_LP  THEN check
+8_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+1_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+8_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+8_vs-bet_LP  THEN call
+9_uno-raiser_LP  THEN raise 0.25
+4_uno-raiser_MP  THEN check
+6_vs-bet_HP  THEN call
+0_uno-victime_LP  THEN check
+0_vs-bet_MP  THEN fold
+6_uno-victime_LP  THEN check
+5_uno-raiser_LP  THEN check
+6_uno-raiser_LP  THEN raise 0.5
+4_uno-victime_LP  THEN check
+3_vs-bet_MP  THEN fold
+9_uno-raiser_LP  THEN check
+5_uno-raiser_MP  THEN raise 0.666666666667
+1_uno-victime_LP  THEN check
+2_vs-bet_MP  THEN call
+5_uno-raiser_MP  THEN raise 0.666666666667
+7_uno-raiser_HP  THEN raise 0.666666666667
+6_vs-bet_HP  THEN raise 0.804207317073
+8_uno-raiser_LP  THEN raise 0.6625
+4_uno-victime_MP  THEN check
+5_vs-bet_HP  THEN call
+9_uno-victime_MP  THEN check
+9_vs-bet_HP  THEN raise 1.25
+8_vs-bet_HP  THEN call
+7_unopened_LP  THEN check
+6_unopened_LP  THEN check
+5_vs-bet_LP  THEN call
+8_unopened_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.5
+6_vs-bet_HP  THEN fold
+2_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+0_unopened_LP  THEN check
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+8_uno-raiser_LP  THEN raise 0.671875
+1_unopened_LP  THEN check
+3_unopened_LP  THEN check
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+8_unopened_LP  THEN raise 0.6625
+9_unopened_LP  THEN check
+10_vs-bet_LP  THEN raise 1.0
+6_unopened_LP  THEN check
+5_unopened_LP  THEN check
+0_uno-raiser_LP  THEN check
+8_unopened_LP  THEN raise 0.5
+8_uno-raiser_MP  THEN check
+8_vs-bet_MP  THEN call
+4_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+3_unopened_LP  THEN check
+3_vs-bet_LP  THEN call
+6_unopened_LP  THEN raise 0.5
+5_uno-raiser_LP  THEN check
+7_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+5_uno-raiser_HP  THEN check
+6_vs-bet_HP  THEN fold
+1_unopened_LP  THEN check
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN call
+7_unopened_LP  THEN check
+6_uno-raiser_MP  THEN raise 0.5
+6_vs-bet_HP  THEN fold
+2_vs-bet_MP  THEN raise 0.895833333333
+4_uno-raiser_LP  THEN check
+7_unopened_LP  THEN check
+1_vs-bet_LP  THEN call
+5_uno-raiser_MP  THEN raise 0.666666666667
+8_unopened_LP  THEN check
+9_vs-bet_LP  THEN raise 1.10416666667
+9_vs-bet_HP  THEN call
+9_vs-bet_LP  THEN raise 1.05
+4_unopened_LP  THEN check
+5_unopened_LP  THEN check
+5_vs-bet_LP  THEN call
+4_uno-raiser_MP  THEN check
+7_unopened_LP  THEN check
+0_uno-raiser_LP  THEN raise 0.671875
+8_vs-bet_LP  THEN call
+9_unopened_LP  THEN check
+2_unopened_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.75
+4_uno-raiser_LP  THEN raise 0.75
+4_vs-bet_HP  THEN call
+7_unopened_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.25
+6_unopened_LP  THEN check
+8_uno-raiser_LP  THEN raise 0.671875
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+2_uno-raiser_LP  THEN check
+2_uno-raiser_LP  THEN raise 0.671875
+6_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.3
+6_uno-raiser_LP  THEN raise 0.671875
+9_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+5_uno-raiser_LP  THEN check
+3_uno-raiser_MP  THEN raise 0.666666666667
+2_uno-raiser_LP  THEN check
+9_unopened_LP  THEN check
+9_vs-bet_LP  THEN raise 1.5
+9_vs-bet_HP  THEN call
+3_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+1_uno-raiser_LP  THEN raise 0.671875
+6_unopened_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.671875
+7_vs-bet_HP  THEN call
+5_unopened_LP  THEN check
+2_uno-raiser_MP  THEN raise 0.666666666667
+3_unopened_LP  THEN check
+3_vs-bet_LP  THEN call
+1_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+5_unopened_LP  THEN check
+6_vs-bet_LP  THEN call
+9_uno-raiser_LP  THEN raise 0.671875
+8_uno-raiser_LP  THEN check
+5_unopened_LP  THEN check
+9_uno-raiser_LP  THEN raise 0.75
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+7_uno-raiser_LP  THEN raise 0.5
+5_unopened_LP  THEN check
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN call
+4_unopened_LP  THEN check
+3_vs-bet_LP  THEN fold
+3_unopened_LP  THEN check
+7_unopened_LP  THEN raise 0.5
+7_unopened_LP  THEN check
+3_uno-raiser_LP  THEN check
+8_uno-raiser_LP  THEN check
+8_unopened_LP  THEN check
+1_uno-raiser_LP  THEN raise 0.671875
+6_uno-raiser_LP  THEN check
+3_uno-raiser_MP  THEN raise 0.5
+4_uno-raiser_LP  THEN raise 0.5
+9_uno-raiser_LP  THEN raise 0.5
+6_unopened_LP  THEN check
+7_uno-raiser_LP  THEN raise 0.5
+3_unopened_LP  THEN check
+8_vs-bet_LP  THEN raise 0.925
+8_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+8_uno-raiser_LP  THEN raise 0.671875
+1_unopened_LP  THEN check
+2_vs-bet_LP  THEN fold
+8_uno-raiser_LP  THEN raise 0.5
+8_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+8_uno-raiser_LP  THEN raise 0.5
+4_unopened_LP  THEN check
+1_uno-raiser_LP  THEN check
+1_unopened_LP  THEN check
+0_uno-raiser_LP  THEN raise 0.5
+7_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+2_vs-bet_LP  THEN call
+2_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+0_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+0_vs-bet_LP  THEN fold
+5_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+9_unopened_LP  THEN check
+4_vs-bet_MP  THEN call
+7_unopened_LP  THEN check
+4_uno-raiser_LP  THEN check
+9_unopened_LP  THEN check
+7_unopened_LP  THEN raise 0.5
+9_uno-raiser_LP  THEN raise 0.5
+5_uno-raiser_MP  THEN check
+8_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+1_uno-raiser_LP  THEN raise 0.5
+1_vs-bet_HP  THEN call
+1_unopened_LP  THEN check
+5_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+1_uno-raiser_LP  THEN raise 0.671875
+2_unopened_LP  THEN check
+9_unopened_LP  THEN check
+2_uno-raiser_LP  THEN check
+3_unopened_LP  THEN check
+4_uno-raiser_LP  THEN raise 0.5
+3_unopened_LP  THEN check
+2_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+4_uno-raiser_LP  THEN check
+4_unopened_LP  THEN check
+1_vs-bet_LP  THEN raise 0.925
+2_unopened_LP  THEN check
+2_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+3_uno-raiser_LP  THEN check
+7_unopened_LP  THEN check
+8_vs-bet_LP  THEN call
+5_unopened_LP  THEN check
+6_vs-bet_LP  THEN call
+2_uno-raiser_LP  THEN check
+0_unopened_LP  THEN check
+2_unopened_LP  THEN check
+9_uno-raiser_MP  THEN raise 0.666666666667
+9_vs-bet_HP  THEN call
+7_unopened_LP  THEN check
+7_vs-bet_LP  THEN call
+1_unopened_LP  THEN check
+2_vs-bet_LP  THEN call
+9_unopened_LP  THEN check
+8_vs-bet_LP  THEN fold
+7_uno-raiser_LP  THEN raise 0.671875
+4_uno-raiser_MP  THEN raise 0.666666666667
+8_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+1_vs-bet_HP  THEN fold
+2_uno-raiser_LP  THEN check
+2_unopened_LP  THEN check
+3_uno-raiser_LP  THEN check
+5_vs-bet_HP  THEN fold
+6_unopened_LP  THEN check
+6_vs-bet_LP  THEN fold
+6_uno-raiser_MP  THEN check
+10_uno-victime_HP  THEN raise 0.277777777778
+2_uno-raiser_MP  THEN check
+4_uno-victime_MP  THEN check
+4_vs-bet_HP  THEN fold
+3_uno-raiser_MP  THEN check
+7_uno-raiser_MP  THEN raise 0.25
+5_uno-raiser_HP  THEN check
+6_uno-victime_MP  THEN check
+7_uno-raiser_HP  THEN check
+7_vs-bet_HP  THEN fold
+7_uno-raiser_MP  THEN check
+0_uno-victime_MP  THEN check
+0_uno-victime_MP  THEN check
+0_vs-bet_HP  THEN call
+0_uno-raiser_LP  THEN check
+6_uno-victime_LP  THEN check
+7_vs-bet_LP  THEN fold
+4_uno-raiser_LP  THEN raise 0.6625
+7_uno-victime_LP  THEN check
+8_vs-bet_LP  THEN call
+4_uno-victime_MP  THEN check
